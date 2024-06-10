@@ -1,0 +1,78 @@
+,genCQ,best_expertCQ,best_cos_score
+0,How do researchers select appropriate research participants in Requirements Engineering studies?,Do the authors report the selected context of their study with specific characteristics?,0.5016
+1,How do researchers in Requirements Engineering address threats to construct validity?,What types of threats to validity do the authors report?,0.5676
+2,What are the key considerations when selecting appropriate visualization techniques for data presentation in Requirements Engineering studies?,How has the use of triangulation for research design evolved over time?,0.4182
+3,How do researchers in Requirements Engineering address the issue of response bias in surveys?,How do the authors justify preventing bias in the study results?,0.4988
+4,How do researchers in Requirements Engineering address the issue of recall bias in their studies?,How do the authors justify preventing bias in the study results?,0.5426
+5,What are the implications of using machine learning algorithms in analyzing data in Requirements Engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.3645
+6,What are the implications of using convenience sampling in Requirements Engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4157
+7,How do researchers in Requirements Engineering ensure the transparency of their research process?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4083
+8,How do researchers deal with outliers in data analysis in Requirements Engineering studies?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.3946
+9,How do researchers in Requirements Engineering address the issue of publication bias in their research?,How do the authors justify preventing bias in the study results?,0.6082
+10,What are the key considerations when designing experiments in Requirements Engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4393
+11,What are the limitations of using self-reported data in Requirements Engineering studies?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4279
+12,What are the implications of sample size in empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5231
+13,What are the advantages of using case studies in Requirements Engineering research?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5888
+14,What are the key factors influencing the choice of research methods in Requirements Engineering studies?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5073
+15,What are the consequences of using inappropriate effect size measures in Requirements Engineering studies?,How has the use of power analysis and effect size estimation evolved over time?,0.4939
+16,How do researchers in Requirements Engineering address the issue of data validity in their studies?,What types of threats to validity do the authors report?,0.5166
+17,What are the best practices for handling missing data in Requirements Engineering research?, How do the authors justify the lack of a proper study?,0.3109
+18,What are the advantages of using mixed methods in Requirements Engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4859
+19,What are the factors influencing the choice of research design in Requirements Engineering studies?,Do the authors use a well defined taxonomy for their research design?,0.478
+20,What is the role of theories in guiding empirical research in Requirements Engineering?,"For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?",0.5712
+21,What are the ethical considerations in conducting empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.4508
+22,How do researchers ensure the objectivity of their findings in Requirements Engineering studies?,Do the authors report the selected context of their study with specific characteristics?,0.5211
+23,What are the key considerations for conducting replication studies in Requirements Engineering research?,How has the proportion of replications evolved over time?,0.4152
+24,What are the key considerations when conducting focus groups in Requirements Engineering research?,Do the authors report the selected context of their study with specific characteristics?,0.3758
+25,How do researchers in Requirements Engineering ensure the generalizability of their results?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4554
+26,How do researchers in Requirements Engineering control for extraneous variables in their studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4506
+27,What are the key differences between observational and experimental studies in Requirements Engineering?,"How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?",0.4714
+28,What are the advantages of using systematic reviews in synthesizing empirical research in Requirements Engineering?,"How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?",0.6904
+29,What are the current gaps in empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5018
+30,What are the potential sources of error in empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5229
+31,How do researchers in Requirements Engineering ensure the validity of their measurement instruments?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4609
+32,How do researchers in Requirements Engineering ensure the transparency of their data analysis process?,"How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?",0.4129
+33,How do researchers in Requirements Engineering ensure the accuracy of their data collection process?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4164
+34,What are the emerging trends in empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.517
+35,What are the differences between qualitative and quantitative research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4522
+36,What are the implications of using different sampling techniques in Requirements Engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4399
+37,How do researchers in Requirements Engineering ensure the reliability of their study results?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4598
+38,What are the implications of using secondary data analysis in Requirements Engineering research?,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,0.4891
+39,How do researchers in Requirements Engineering ensure the reliability of their coding process?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3305
+40,How do researchers in Requirements Engineering handle missing data in their studies?, How do the authors justify the lack of a proper study?,0.4405
+41,What are the most influential conferences or journals in empirical research in Requirements Engineering?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5115
+42,What are the implications of using longitudinal studies in Requirements Engineering research?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4864
+43,What are the implications of using open-ended questions in surveys in Requirements Engineering research?,Do the authors use a well defined taxonomy for their research design?,0.3899
+44,What are the criteria for selecting suitable research instruments in Requirements Engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4231
+45,How do researchers in Requirements Engineering address threats to external validity?,What types of threats to validity do the authors report?,0.5549
+46,How do researchers in Requirements Engineering address threats to internal validity?,What types of threats to validity do the authors report?,0.5449
+47,How do researchers in Requirements Engineering handle confounding variables in their studies?,Do the authors report the selected context of their study with specific characteristics?,0.4535
+48,What are the most common data collection techniques used in empirical research in Requirements Engineering?,How often are which empirical methods used?,0.5449
+49,How do researchers validate their findings in empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5457
+50,Which are the most cited empirical research papers in Requirements Engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5633
+51,How do researchers in Requirements Engineering ensure the credibility of their study findings?,How do the authors justify preventing bias in the study results?,0.4589
+52,How do researchers in Requirements Engineering ensure the representativeness of their samples?,How do the authors justify the selection and combination of empirical methods and design elements?,0.453
+53,How do researchers in Requirements Engineering ensure the validity of their empirical studies?,How many empirical studies are by authors working for large software development companies?,0.5553
+54,What are the key considerations for choosing appropriate statistical tests in Requirements Engineering research?,How often are which statistical methods used?,0.3945
+55,How do researchers in Requirements Engineering ensure the confidentiality of their study participants?,Do the authors report the selected context of their study with specific characteristics?,0.4139
+56,Which research methods are commonly used in empirical research in Requirements Engineering?,How often are which empirical methods used?,0.6155
+57,How do researchers in Requirements Engineering handle the issue of causality in their studies?,Do the authors report the selected context of their study with specific characteristics?,0.4228
+58,How do researchers in Requirements Engineering address the issue of social desirability bias?,How do the authors justify preventing bias in the study results?,0.5123
+59,What are the best practices for designing surveys in Requirements Engineering research?,Do the authors use a well defined taxonomy for their research design?,0.3847
+60,How do researchers account for bias in empirical studies in Requirements Engineering?,How do the authors justify preventing bias in the study results?,0.5943
+61,How has the focus of empirical research in Requirements Engineering evolved over time?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5575
+62,What is the impact of context on empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5394
+63,What are the best practices for reporting empirical research findings in Requirements Engineering?,"How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?",0.5066
+64,How do researchers in Requirements Engineering control for demand characteristics in their studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.387
+65,How do researchers in Requirements Engineering ensure the consistency of their data analysis process?,"How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?",0.3701
+66,What are the consequences of using inappropriate statistical methods in Requirements Engineering studies?,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.5887
+67,What are the consequences of using inappropriate control groups in Requirements Engineering studies?,What types of threats to validity do the authors report?,0.393
+68,How do researchers in Requirements Engineering mitigate the influence of researcher bias in their studies?,How do the authors justify preventing bias in the study results?,0.6187
+69,How do researchers in Requirements Engineering mitigate the impact of outliers in their data analysis?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.3929
+70,What are the best practices for conducting interviews in Requirements Engineering research?,Do the authors report the selected context of their study with specific characteristics?,0.3304
+71,How do researchers in Requirements Engineering address the issue of researcher subjectivity in data interpretation?,Do the authors report the selected context of their study with specific characteristics?,0.4449
+72,How do researchers in Requirements Engineering address the issue of participant bias?,How do the authors justify preventing bias in the study results?,0.5931
+73,What are the consequences of using inappropriate validation techniques in Requirements Engineering studies?,What types of threats to validity do the authors report?,0.5644
+74,What are the key topics in empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5598
+75,What are the main challenges in conducting empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5082
+76,What role does data analysis play in empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.55
