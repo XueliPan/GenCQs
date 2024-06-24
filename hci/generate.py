@@ -92,17 +92,16 @@ def save_to_file(text, file):
         file.write(text)
 
 
-def main():
+def main(rag_file_count, tempterature, iteration):
     # load environment setting and env variables
-    iteration = sys.argv[1]
     load_dotenv()
     api_key = os.getenv('OPEN_API_KEY')
     model = os.getenv('MODEL')
     assistant_name = os.getenv('ASSISTANT_NAME')
     rag_file_folder = os.getenv('RAG_FILE_FOLDER')
-    rag_file_count = int(os.getenv('RAG_FILE_COUNT'))
+    # rag_file_count = int(os.getenv('RAG_FILE_COUNT'))
     vector_store_name = os.getenv('VECTOR_STORE_NAME')
-    tempterature = float(os.getenv('TEMPERATURE'))
+    # tempterature = float(os.getenv('TEMPERATURE'))
     assistant_instruction = os.getenv('INSTRUCTION')
     prompt = os.getenv('PROMPT')
     print(f"rag_file_count: {rag_file_count}")
