@@ -1,9 +1,8 @@
 from generate import main
 
 
-# temp = [0.5, 0.75, 1, 1.25, 1.5]
-temp = [0.5]
-rag_file_count = [3]
+temp = [0.5, 0.75, 1.0, 1.25, 1.5]
+rag_file_count = [5]
 iteration = [i for i in range(0,10)]
 for i_count in rag_file_count:
     for i_temp in temp:

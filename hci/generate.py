@@ -11,10 +11,13 @@ def get_file_paths(folder_path):
     # Iterate through all files in the folder
     for root, dirs, files in os.walk(folder_path):
         for file_name in files:
-            # Get the absolute path of the file
-            file_path = os.path.join(root, file_name)
-            # Append the file path to the list
-            file_paths.append(file_path)
+            if file_name.endswith('.pdf'):
+                # Get the absolute path of the file
+                file_path = os.path.join(root, file_name)
+                # Append the file path to the list
+                file_paths.append(file_path)
+            else:
+                pass
     return file_paths
 
 
@@ -121,9 +124,9 @@ def main(rag_file_count, tempterature, iteration):
     while True:
         try:
             output_response, output_ref = get_response(prompt,client,assistant)
-            print(f"query: {prompt}")
-            print(f'response: {output_response}')
-            print(f"reference: {output_ref}")
+            # print(f"query: {prompt}")
+            # print(f'response: {output_response}')
+            # print(f"reference: {output_ref}")
             cq_output_file = f'gpt-output/rag-file-count-{rag_file_count}/{model}-temp-{tempterature}-iteration-{iteration}.txt'
             save_to_file(output_response, cq_output_file)
             print(f'output file: {cq_output_file}')
