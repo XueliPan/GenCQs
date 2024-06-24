@@ -119,13 +119,19 @@ def main():
         tool_resources={"file_search": {"vector_store_ids": [vector_store.id]}},
     )
     print('Asking GPT ......')
-    output_response, output_ref = get_response(prompt,client,assistant)
-    print(f"query: {prompt}")
-    print(f'response: {output_response}')
-    print(f"reference: {output_ref}")
-    cq_output_file = f'gpt-output/{model}-temp-{tempterature}-iteration-{iteration}.txt'
-    save_to_file(output_response, cq_output_file)
-    print(f'output file: {cq_output_file}')
+    while True:
+        try:
+            output_response, output_ref = get_response(prompt,client,assistant)
+            print(f"query: {prompt}")
+            print(f'response: {output_response}')
+            print(f"reference: {output_ref}")
+            cq_output_file = f'gpt-output/rag-file-count-{rag_file_count}/{model}-temp-{tempterature}-iteration-{iteration}.txt'
+            save_to_file(output_response, cq_output_file)
+            print(f'output file: {cq_output_file}')
+            break
+        except:
+            print('\n*************No message returned, keep trying')
+            continue
 
 
 if __name__ == "__main__":
