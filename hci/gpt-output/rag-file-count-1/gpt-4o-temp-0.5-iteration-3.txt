@@ -1,0 +1,15 @@
+1. What is the definition of a modality in the context of human-computer interaction?
+2. How do input modalities differ from output modalities in an adaptive user interface?
+3. What are the different types of user characteristics that impact the choice of interaction modalities?
+4. How can physical and sensory impairments of users influence the design of an interface?
+5. What reasoning mechanisms can be used to adapt interfaces according to user profiles?
+6. How can SWRL rules be utilized to derive appropriate interface parameters for specific user profiles?
+7. What are the main components of the proposed interaction ontology?
+8. How do capacities to see, hear, move, and talk affect the derivation of input and output modalities?
+9. What criteria define the levels of user capabilities (Good, Moderate, Low, Severe) in the ontology?
+10. How can multiple modalities be combined or made redundant in an adaptive interface?
+11. What is the role of medium in the interaction component of an HCI system?
+12. How does the interaction ontology support the automatic adaptation of user interfaces?
+13. What future extensions are suggested for the ontological approach to adaptive interfaces?
+14. What are the challenges in achieving semantic interoperability across different platforms using ontologies?
+15. How does the context ontology (like CoDAMoS) contribute to application adaptation and user interface generation?

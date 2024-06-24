@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the key characteristics that define user profiles in HCI?,What is a User?,0.4662
+1,How can user sensory and motor capabilities be represented in an HCI ontology?,How can a user interact in human–computer interactions?,0.4506
+2,What modalities are available for user input and output interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6563
+3,How is modality selection determined based on user characteristics?,What does make up the user interface of an interactive computer system?,0.3283
+4,What adaptation rules can be applied to tailor interfaces for users with disabilities?,What does make up the user interface of an interactive computer system?,0.3265
+5,"How can different levels of user capacity (e.g., good, moderate, low, severe) affect interaction modalities?",What does make up a complex user participation?,0.4365
+6,What types of physical and logical interaction components are included in an HCI ontology?,What is a complex interactive computer system?,0.4831
+7,"How does the ontology model user preferences, skills, and education level?",What does make up a complex user participation?,0.3474
+8,"What are the relationships between modes, modalities, and mediums in HCI?",What does make up the user interface of an interactive computer system?,0.2937
+9,How can ontological reasoning be used to infer suitable interaction modalities?,How can a user interact in human–computer interactions?,0.4496
+10,"What is the impact of user context (e.g., location, activity) on interface adaptation?",How can a user interact in human–computer interactions?,0.3789
+11,How can an ontology-based approach improve the design of multimodal user interfaces?,What does make up the user interface of an interactive computer system?,0.4774
+12,What are the key challenges in creating adaptive interfaces for users with different disabilities?,What does make up the user interface of an interactive computer system?,0.4075
+13,How does the proposed ontology ensure that all users are able to interact with the system using at least one modality?,"Considering intentionality, how can a user interact with an interactive computer system?",0.488
+14,What role do semantic web technologies play in the interoperability and reasoning capabilities of HCI ontologies?,What is a human–computer interaction?,0.4061

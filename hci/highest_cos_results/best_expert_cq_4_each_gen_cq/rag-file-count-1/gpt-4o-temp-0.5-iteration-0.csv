@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What defines the user's profile in an HCI system?,What is a User?,0.506
+1,"How are user abilities such as seeing, hearing, and moving categorized?",How can a user interact in human–computer interactions?,0.4629
+2,What are the primary input modalities available for user interaction?,How is a user input processed by an interactive computer system?,0.5713
+3,What are the primary output modalities available for user interaction?,What does make up the user interface of an interactive computer system?,0.5243
+4,What rules are used to map user abilities to appropriate interaction modalities?,How can a user interact in human–computer interactions?,0.4791
+5,How is the reasoning process applied to adapt user interfaces based on an ontology?,What does make up the user interface of an interactive computer system?,0.4987
+6,What is the role of SWRL rules in deriving new information for adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3103
+7,How are the properties of modalities (such as size and volume) adjusted based on user abilities?,What does make up the user interface of an interactive computer system?,0.3008
+8,"What is the relationship between input modes, modalities, and mediums in an HCI ontology?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3302
+9,What criteria are used to decide when a modality should be eliminated or adapted?,What does make up the user interface of an interactive computer system?,0.1991
+10,How are multimodal interfaces defined within the HCI domain?,What does make up the user interface of an interactive computer system?,0.4696
+11,What constraints are considered to ensure that an HCI system provides at least one input and one output modality?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3647
+12,How do user preferences and skills affect the customization of adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3999
+13,How can ontology-based systems support personalization and adaptation in HCI?,How can a user interact in human–computer interactions?,0.4167
+14,What are the key challenges in creating an ontology for adaptive HCI systems?,What is a complex interactive computer system?,0.3848

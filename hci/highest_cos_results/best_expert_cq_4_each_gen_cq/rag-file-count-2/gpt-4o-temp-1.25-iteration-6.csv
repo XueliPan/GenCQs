@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the main components of an HCI system as defined by the ontology?,What is a complex interactive computer system?,0.5004
+1,How can user profiles be represented and utilized in the ontology for adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.4084
+2,"What are the different types of interactions (modes, modalities, and media) included in the ontology?",What does make up the user interface of an interactive computer system?,0.3992
+3,How does the ontology handle input and output modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4312
+4,What physical and logical devices are included in the HCI ontology?,What is a complex interactive computer system?,0.4126
+5,How are user characteristics (like sensory and motor abilities) encoded in the ontology?,How can a user interact in human–computer interactions?,0.3999
+6,What rules are used to derive suitable interfaces based on user characteristics?,What does make up the user interface of an interactive computer system?,0.4859
+7,How does the ontology model and support multimodal interaction systems?,What is a complex interactive computer system?,0.5337
+8,What are the different ways to introduce and perceive information in the ontology?,What does make up the user interface of an interactive computer system?,0.2989
+9,How does the ontology ensure consistency and reasoning for adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3479
+10,What adaptation rules are defined using SWRL in the ontology?,What is a complex interactive computer system?,0.179
+11,How does the ontology manage the relationship between user abilities and interface parameters?,What does make up the user interface of an interactive computer system?,0.4972
+12,What methods and tools are employed to build and maintain the ontology?,What is an interactive software system?,0.2898
+13,How does the ontology support real-time adjustments to user interfaces?,What does make up the user interface of an interactive computer system?,0.4827
+14,How are context and environment factors incorporated into the HCI ontology?,What is a human–computer interaction?,0.3286

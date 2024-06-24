@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What is the definition of a modality in the context of human-computer interaction?,What is a human–computer interaction?,0.619
+1,How do input modalities differ from output modalities in an adaptive user interface?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4594
+2,What are the different types of user characteristics that impact the choice of interaction modalities?,What does make up the user interface of an interactive computer system?,0.5555
+3,How can physical and sensory impairments of users influence the design of an interface?,What does make up the user interface of an interactive computer system?,0.5248
+4,What reasoning mechanisms can be used to adapt interfaces according to user profiles?,What does make up the user interface of an interactive computer system?,0.4796
+5,How can SWRL rules be utilized to derive appropriate interface parameters for specific user profiles?,What does make up the user interface of an interactive computer system?,0.2587
+6,What are the main components of the proposed interaction ontology?,What is a complex interactive computer system?,0.4455
+7,"How do capacities to see, hear, move, and talk affect the derivation of input and output modalities?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4033
+8,"What criteria define the levels of user capabilities (Good, Moderate, Low, Severe) in the ontology?",What is a User?,0.3862
+9,How can multiple modalities be combined or made redundant in an adaptive interface?,What does make up the user interface of an interactive computer system?,0.1831
+10,What is the role of medium in the interaction component of an HCI system?,What is a complex interactive computer system?,0.4656
+11,How does the interaction ontology support the automatic adaptation of user interfaces?,What does make up the user interface of an interactive computer system?,0.5385
+12,What future extensions are suggested for the ontological approach to adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3994
+13,What are the challenges in achieving semantic interoperability across different platforms using ontologies?,What is an interactive software system?,0.2626
+14,How does the context ontology (like CoDAMoS) contribute to application adaptation and user interface generation?,What does make up the user interface of an interactive computer system?,0.3468

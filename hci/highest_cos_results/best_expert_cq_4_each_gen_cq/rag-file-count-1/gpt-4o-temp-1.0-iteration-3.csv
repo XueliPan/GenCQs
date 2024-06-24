@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the basic interaction modes defined in HCI?,What does make up the user interface of an interactive computer system?,0.5541
+1,How are user profiles characterized in the interaction ontology?,What is a User?,0.4604
+2,What are the different types of input modalities in an interactive system?,How is a user input processed by an interactive computer system?,0.6962
+3,What are the different types of output modalities in an interactive system?,How does a user receive an output from an interactive computer system?,0.6378
+4,How does the system adapt its interface for users with visual impairments?,What does make up the user interface of an interactive computer system?,0.5251
+5,What are the rules for mapping user capacities to interaction modalities in the ontology?,What does make up a complex user participation?,0.4072
+6,How is user feedback incorporated into the adaptation process?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4284
+7,What physical devices are associated with input and output modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4391
+8,How do different user characteristics influence the choice of interaction modalities?,What does make up the user interface of an interactive computer system?,0.4997
+9,What reasoning mechanisms are used to derive new knowledge from the ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2409
+10,How does the interaction ontology handle multiple modalities for a single task?,What is a complex interactive computer system?,0.3987
+11,What ontology-based methods are used to ensure the consistency of adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3243
+12,"How are the properties of modalities, such as size and volume, adapted to user needs?",What does make up the user interface of an interactive computer system?,0.2909
+13,What role do user preferences and skills play in the adaptation of interfaces?,What does make up the user interface of an interactive computer system?,0.5379
+14,How does the system ensure the reusability of information across different application domains?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2717

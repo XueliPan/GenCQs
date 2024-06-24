@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the key components of a Human-Computer Interaction system?,What does make up the user interface of an interactive computer system?,0.7413
+1,How does user sensory ability impact the choice of interaction modality?,How can a user interact in human–computer interactions?,0.493
+2,What input modes are available for users with different motor abilities?,How is a user input processed by an interactive computer system?,0.3952
+3,What output modalities can be adapted for users with visual impairments?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2491
+4,How can an HCI system be personalized based on user profiles?,What does make up the user interface of an interactive computer system?,0.3752
+5,What rules are used to infer the most suitable interface for a specific user profile?,What does make up the user interface of an interactive computer system?,0.3965
+6,How do interaction mediums influence the usability of an HCI system?,How can a user interact in human–computer interactions?,0.5917
+7,What are the semantic relationships between different interaction components in an HCI ontology?,What is a human–computer interaction?,0.4314
+8,How does the cognitive ability of a user affect the interaction design?,How can a user interact in human–computer interactions?,0.5785
+9,What role do adaptation rules play in the generation of adaptive user interfaces?,What does make up the user interface of an interactive computer system?,0.4836
+10,How can ontology-based reasoning be used to determine interface parameters?,What does make up the user interface of an interactive computer system?,0.3574
+11,What types of interaction components are modeled in HCI ontologies?,What is a complex interactive computer system?,0.5293
+12,How do physical devices for interaction vary based on user's physical capabilities?,What does make up the user interface of an interactive computer system?,0.5228
+13,What SWRL rules are used to adapt input modalities for users with speech impairments?,How can a user interact in human–computer interactions?,0.2882
+14,How is the consistency of an HCI ontology verified through reasoning mechanisms?,What is an interactive software system?,0.3071

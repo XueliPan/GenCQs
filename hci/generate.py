@@ -1,4 +1,5 @@
 import os
+import sys
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -31,7 +32,7 @@ def create_client_and_assistant(api_key, model, assistant_name, assistant_instru
     return client, assistant
 
 
-def create_vector_store(client, vector_store_name, rag_file_folder):
+def create_vector_store(client, vector_store_name, rag_file_folder, rag_file_count):
     """
     create_vector_store for a client and upload the files to the vector store
     """
@@ -39,8 +40,8 @@ def create_vector_store(client, vector_store_name, rag_file_folder):
     vector_store = client.beta.vector_stores.create(name=vector_store_name)
     # add rag files into the vector store
     file_paths = get_file_paths(rag_file_folder)
-    print(file_paths)
-    file_streams = [open(path, 'rb') for path in file_paths]
+    # print(f'\nfile_paths: {file_paths}\n')
+    file_streams = [open(path, 'rb') for path in file_paths[0:rag_file_count]]
     file_batch = client.beta.vector_stores.file_batches.upload_and_poll(
         vector_store_id=vector_store.id,
         files=file_streams
@@ -69,7 +70,6 @@ def get_response(prompt,client,assistant):
     # get messages
     messages = list(client.beta.threads.messages.list(thread_id=thread.id, run_id=run.id))
     message_content = messages[0].content[0].text
-    print(f'message_content: {message_content}')
     annotations = message_content.annotations
     citations = []
     for index, annotation in enumerate(annotations):
@@ -94,25 +94,23 @@ def save_to_file(text, file):
 
 def main():
     # load environment setting and env variables
+    iteration = sys.argv[1]
     load_dotenv()
     api_key = os.getenv('OPEN_API_KEY')
     model = os.getenv('MODEL')
     assistant_name = os.getenv('ASSISTANT_NAME')
     rag_file_folder = os.getenv('RAG_FILE_FOLDER')
+    rag_file_count = int(os.getenv('RAG_FILE_COUNT'))
     vector_store_name = os.getenv('VECTOR_STORE_NAME')
     tempterature = float(os.getenv('TEMPERATURE'))
     assistant_instruction = os.getenv('INSTRUCTION')
     prompt = os.getenv('PROMPT')
-    print(f'assistant_instruction: {assistant_instruction}')
-    print(f"assistant name: {assistant_name}")
-    print(f'API KEY: {api_key}')
-    print(f'RAG FILE FOLDER: {rag_file_folder}')
-    cq_output_file = f'gpt-output/{model}-temp-{tempterature}.txt'
+    print(f"rag_file_count: {rag_file_count}")
 
     # Chat with RAG-based LLM
     client,assistant = create_client_and_assistant(api_key, model, assistant_name, assistant_instruction)
     print('creating vector store ......')
-    vector_store = create_vector_store(client, vector_store_name, rag_file_folder)
+    vector_store = create_vector_store(client, vector_store_name, rag_file_folder, rag_file_count)
     # update the assistant with the vector store
     print('updating assistant ......')
     assistant = client.beta.assistants.update(
@@ -125,7 +123,9 @@ def main():
     print(f"query: {prompt}")
     print(f'response: {output_response}')
     print(f"reference: {output_ref}")
+    cq_output_file = f'gpt-output/{model}-temp-{tempterature}-iteration-{iteration}.txt'
     save_to_file(output_response, cq_output_file)
+    print(f'output file: {cq_output_file}')
 
 
 if __name__ == "__main__":

@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the core components of human-computer interaction (HCI)?,What is a human–computer interaction?,0.7207
+1,How can user characteristics be modeled in an HCI ontology?,What is a User?,0.4378
+2,What types of input modalities are available for users in HCI?,How is a user input processed by an interactive computer system?,0.4753
+3,What types of output modalities are available for users in HCI?,How does a user receive an output from an interactive computer system?,0.4239
+4,How can an HCI system adapt to users with different sensory abilities?,How can a user interact in human–computer interactions?,0.4975
+5,What are the key properties that define an input modality in HCI?,How is a user input processed by an interactive computer system?,0.4391
+6,What are the key properties that define an output modality in HCI?,How does a user receive an output from an interactive computer system?,0.4018
+7,How are physical interaction devices represented in the HCI ontology?,What does make up the user interface of an interactive computer system?,0.521
+8,What are the different levels of user capacities considered in an HCI ontology?,What does make up a complex user participation?,0.4454
+9,How can reasoning on an ontology be used to adapt user interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4613
+10,What rules can be derived to determine suitable input modalities for a user?,How is a user input processed by an interactive computer system?,0.4421
+11,What rules can be derived to determine suitable output modalities for a user?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.347
+12,How does the HCI ontology handle multimodal interaction systems?,How can a user interact in human–computer interactions?,0.5567
+13,What are the relationships between user characteristics and interaction modalities in HCI?,How can a user interact in human–computer interactions?,0.5774
+14,How can the HCI ontology be extended to consider additional user attributes such as preferences and motivations?,What does make up a complex user participation?,0.3478

@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the key concepts in Human-Computer Interaction within the scope of HCI ontology?,What is a human–computer interaction?,0.6778
+1,How are input modalities represented in the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4109
+2,How are output modalities represented in the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3449
+3,What types of user characteristics are essential for adapting user interfaces in HCI?,What does make up the user interface of an interactive computer system?,0.6065
+4,"How does the ontology model different interaction modes (e.g., visual, auditory, tactile)?",What does make up the user interface of an interactive computer system?,0.4499
+5,What are the logical relationships between user characteristics and interaction modalities in HCI ontology?,How can a user interact in human–computer interactions?,0.5075
+6,How can the ontology help in reasoning for adaptive user interfaces?,What does make up the user interface of an interactive computer system?,0.4678
+7,What types of physical devices are modeled for input and output in the ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4648
+8,How does the ontology handle user preferences and disabilities in interaction design?,What does make up the user interface of an interactive computer system?,0.435
+9,How is context information utilized within the HCI ontology to adapt interactions?,How can a user interact in human–computer interactions?,0.4527
+10,What rules or constraints on properties can be defined to enforce consistency in the HCI ontology?,What is a complex interactive computer system?,0.17
+11,How can the HCI ontology integrate with existing frameworks for adaptive interactive systems?,What is an interactive software system?,0.5342
+12,What methods are used to infer high-level data from raw interaction data in HCI ontology?,How can a user interact in human–computer interactions?,0.4127
+13,How do sensory capacities like vision and hearing influence the selection of interaction modalities?,How can a user interact in human–computer interactions?,0.3809
+14,How can the ontology be extended or customized for specific domains or user groups within HCI?,What does make up a complex user participation?,0.2977

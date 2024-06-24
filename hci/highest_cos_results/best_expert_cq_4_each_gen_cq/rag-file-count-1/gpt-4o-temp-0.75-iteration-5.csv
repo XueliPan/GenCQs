@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the key interaction components between humans and computers in HCI?,What is a human–computer interaction?,0.7581
+1,How are input modalities defined and categorized in an HCI system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4607
+2,How are output modalities defined and categorized in an HCI system?,How does a user receive an output from an interactive computer system?,0.3873
+3,What are the physical devices involved in introducing information in HCI?,What does make up the user interface of an interactive computer system?,0.528
+4,What are the physical devices used for receiving information in HCI?,What does make up the user interface of an interactive computer system?,0.45
+5,How do individual user characteristics influence the selection of interaction modalities?,How can a user interact in human–computer interactions?,0.5101
+6,"What role do user sensory capabilities (e.g., vision, hearing) play in determining suitable interface adaptations?",What does make up the user interface of an interactive computer system?,0.4684
+7,How are user motor abilities considered in the customization of HCI interfaces?,What does make up the user interface of an interactive computer system?,0.5101
+8,What adaptation rules can be defined to modify interface properties based on user characteristics?,What does make up the user interface of an interactive computer system?,0.3314
+9,How can reasoning on an interaction ontology help in adapting user interfaces in real-time?,How can a user interact in human–computer interactions?,0.5328
+10,What are the benefits of using ontologies for modeling interaction elements in HCI?,What does make up the user interface of an interactive computer system?,0.4543
+11,"How is user context (e.g., physical environment, user activities) represented and used in HCI?",How can a user interact in human–computer interactions?,0.5333
+12,What methods are employed to ensure the semantic consistency of an interaction ontology?,How can a user interact in human–computer interactions?,0.3289
+13,How can an ontology-based approach support the development of multimodal HCI systems?,What is a complex interactive computer system?,0.4961
+14,How does the interaction ontology enable the reuse of knowledge across different HCI applications?,How can a user interact in human–computer interactions?,0.4136

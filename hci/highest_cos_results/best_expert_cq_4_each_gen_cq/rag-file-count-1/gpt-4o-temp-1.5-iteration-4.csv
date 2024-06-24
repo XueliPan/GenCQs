@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the fundamental components of human-computer interaction according to the interaction ontology?,What is a human–computer interaction?,0.7294
+1,How is the concept of 'mode' defined in the interaction ontology?,What does make up the user interface of an interactive computer system?,0.3401
+2,"What types of modalities are included in the interaction ontology, and how are they categorized?",What does make up the user interface of an interactive computer system?,0.384
+3,How does the interaction ontology differentiate between input and output modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4984
+4,What criteria does the interaction ontology use to define and categorize user characteristics?,What does make up the user interface of an interactive computer system?,0.4993
+5,How does the interaction ontology represent the physical capabilities of a user?,What does make up the user interface of an interactive computer system?,0.5728
+6,What rules does the interaction ontology use to adapt user interfaces based on sensory and motor capabilities?,How can a user interact in human–computer interactions?,0.5052
+7,In what ways can the interaction ontology be used to generate an adaptive user interface?,What does make up the user interface of an interactive computer system?,0.5395
+8,How does the interaction ontology handle modality properties such as text size and audio volume adjustments?,What does make up the user interface of an interactive computer system?,0.3559
+9,What inference mechanisms are utilized in the interaction ontology to deduce appropriate interaction modalities?,How can a user interact in human–computer interactions?,0.4088
+10,How does the interaction ontology incorporate user profiles for interface customization?,What does make up the user interface of an interactive computer system?,0.4971
+11,What are the benefits of using Semantic Web Rule Language (SWRL) in the context of the interaction ontology?,What is a human–computer interaction?,0.2844
+12,How does the interaction ontology facilitate the adaptation of interfaces for users with disabilities?,What does make up the user interface of an interactive computer system?,0.4807
+13,What is the significance of maintaining ontology consistency in the interaction ontology?,What is an interactive software system?,0.2896
+14,How does the interaction ontology support the reasoning process to infer high-level interaction data from low-level user data?,How can a user interact in human–computer interactions?,0.5066
