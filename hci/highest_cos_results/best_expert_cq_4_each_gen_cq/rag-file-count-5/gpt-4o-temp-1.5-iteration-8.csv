@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What basic actions do users perform in a human-computer interaction?,How can a user interact in human–computer interactions?,0.7968
+1,What types of interactive systems are covered by the ontology?,What is an interactive computer system?,0.6745
+2,How are user capabilities and impairments represented in the ontology?,What is a User?,0.4219
+3,What are the different modalities through which users can interact with the system?,What does make up the user interface of an interactive computer system?,0.6682
+4,How does the system recommend assistive technologies based on user capabilities?,What does make up the user interface of an interactive computer system?,0.4555
+5,What input and output devices does the user utilize for interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6977
+6,How does the system determine the most suitable user interface adaptations?,What does make up the user interface of an interactive computer system?,0.6146
+7,What role do user profiles play in adapting the interactive system?,What does make up the user interface of an interactive computer system?,0.6681
+8,How are daily life activities categorized and inferred based on user interaction data?,What does make up a complex user participation?,0.4526
+9,What are common user action sequences in human-computer interactions?,How can a user interact in human–computer interactions?,0.7541
+10,What methods are used to model and infer user preferences and actions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4116
+11,How does the system handle multi-modal user inputs?,How is a user input processed by an interactive computer system?,0.5992
+12,"What is the relationship between user activities, tasks, and operations in the HCI domain?",What is a human–computer interaction?,0.5267
+13,How does the ontology support personalization and adaptive features?,What does make up the user interface of an interactive computer system?,0.3039
+14,What conditions trigger system adaptations to enhance the user experience?,What does make up the user interface of an interactive computer system?,0.4658

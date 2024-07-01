@@ -1,16 +1,16 @@
 ,genCQs,best_expertCQs,best_cos_score
-0,What are the fundamental components of Human-Computer Interaction?,What is a human–computer interaction?,0.8051
-1,How are users characterized in the context of HCI?,What is a User?,0.5499
-2,What types of interfaces exist in HCI systems?,What does make up the user interface of an interactive computer system?,0.6197
-3,What are the common tasks performed in HCI contexts?,What is a human–computer interaction?,0.5247
-4,How do input and output devices function in an HCI system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6152
-5,What are the primary interaction techniques used in HCI?,How can a user interact in human–computer interactions?,0.598
-6,How is usability defined and measured in HCI scenarios?,What is a human–computer interaction?,0.5161
-7,What methods are used for user evaluation and feedback in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.5174
-8,How do cognitive models influence HCI design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4091
-9,What roles do emotions and user experience play in HCI?,What is a human–computer interaction?,0.5141
-10,How is accessibility ensured in HCI systems?,What does make up the user interface of an interactive computer system?,0.4178
-11,What are the emerging technologies and trends in HCI?,What is a human–computer interaction?,0.4176
-12,How are interactive systems developed and maintained in HCI?,What is an interactive computer system?,0.7271
-13,What are the ethical considerations in the design and implementation of HCI systems?,What is a human–computer interaction?,0.4208
-14,How can HCI improve the overall efficiency and satisfaction of users?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3799
+0,What are the primary components involved in human-computer interaction?,What is a human–computer interaction?,0.753
+1,How do human cognitive processes influence interaction with computer systems?,How can a user interact in human–computer interactions?,0.7111
+2,What are the common usability metrics used to evaluate interface designs?,What does make up the user interface of an interactive computer system?,0.4239
+3,"How do different interaction modalities (e.g., touch, voice, gesture) impact user experience?",How can a user interact in human–computer interactions?,0.5334
+4,What role do user goals and tasks play in the design of interactive systems?,What does make up the user interface of an interactive computer system?,0.6996
+5,How are user personas defined and utilized in the HCI design process?,What does make up a complex user participation?,0.4581
+6,What is the relationship between user feedback and iterative design in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4037
+7,How do accessibility considerations affect the design of interactive systems?,What does make up the user interface of an interactive computer system?,0.6236
+8,What are the key principles of user-centered design in HCI?,What does make up the user interface of an interactive computer system?,0.501
+9,How do cultural factors influence user interactions with technology?,How can a user interact in human–computer interactions?,0.496
+10,What are the methods for conducting user research in HCI?,How can a user interact in human–computer interactions?,0.5006
+11,How are user testing and evaluation methods categorized and applied in HCI?,What is a human–computer interaction?,0.4353
+12,What technologies and tools are commonly used for prototyping and wireframing in HCI?,What is a complex interactive computer system?,0.4173
+13,"How do different types of interfaces (e.g., graphical, voice, virtual reality) differ in terms of user interaction?",What does make up the user interface of an interactive computer system?,0.6846
+14,What are the ethical considerations involved in designing human-computer interactions?,How can a user interact in human–computer interactions?,0.6672

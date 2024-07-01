@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How can multimodal systems enhance human-computer interaction?,0.5529
-1,What is an interactive software system?,How can multimodal systems enhance human-computer interaction?,0.4738
-2,What is a complex interactive computer system?,How can multimodal systems enhance human-computer interaction?,0.5784
-3,What does make up the user interface of an interactive computer system?,How can multimodal systems enhance human-computer interaction?,0.5811
-4,What is a User?,What user characteristics should be considered for adapting a user interface?,0.4194
-5,How can a user interact in human–computer interactions?,How can multimodal systems enhance human-computer interaction?,0.6661
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How can multimodal systems enhance human-computer interaction?,0.5267
-7,Why does a user intentionally interact with an interactive computer system?,How can multimodal systems enhance human-computer interaction?,0.5356
-8,What does make up a complex user participation?,How can multimodal systems enhance human-computer interaction?,0.4051
-9,What is a human–computer interaction?,How can multimodal systems enhance human-computer interaction?,0.6146
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How can multimodal systems enhance human-computer interaction?,0.4765
-11,How is a user input processed by an interactive computer system?,How do physical and sensory abilities of users impact the selection of input modalities?,0.5378
-12,How does a user receive an output from an interactive computer system?,How can multimodal systems enhance human-computer interaction?,0.3993
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do physical and sensory abilities of users impact the selection of input modalities?,0.5159
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How can multimodal systems enhance human-computer interaction?,0.4378
+0,What is an interactive computer system?,What are the core components of a human-computer interaction system?,0.6599
+1,What is an interactive software system?,How does the design of interactive systems account for diverse user populations?,0.6013
+2,What is a complex interactive computer system?,What are the core components of a human-computer interaction system?,0.6786
+3,What does make up the user interface of an interactive computer system?,What are the core components of a human-computer interaction system?,0.714
+4,What is a User?,What roles do users play in HCI systems?,0.4713
+5,How can a user interact in human–computer interactions?,How is feedback provided and used in human-computer interactions?,0.7219
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How does the design of interactive systems account for diverse user populations?,0.5802
+7,Why does a user intentionally interact with an interactive computer system?,How does the design of interactive systems account for diverse user populations?,0.6206
+8,What does make up a complex user participation?,How does the design of interactive systems account for diverse user populations?,0.5785
+9,What is a human–computer interaction?,What are the core components of a human-computer interaction system?,0.7012
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How does the design of interactive systems account for diverse user populations?,0.54
+11,How is a user input processed by an interactive computer system?,How is feedback provided and used in human-computer interactions?,0.6226
+12,How does a user receive an output from an interactive computer system?,How is feedback provided and used in human-computer interactions?,0.5875
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How is feedback provided and used in human-computer interactions?,0.6339
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is feedback provided and used in human-computer interactions?,0.541

@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.6969
+1,How often are which empirical methods used over time?,What are the historical milestones in the use of empirical methods in SE?,0.7724
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How can the results from empirical SE studies be generalized to broader contexts?,0.7488
+3, How do the authors justify the lack of a proper study?,What are the consequences of low-quality empirical studies in SE?,0.5634
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.5928
+5,How many empirical studies are by authors working for large software development companies?,In what ways can empirical research support software project management?,0.6578
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How can empirical SE research address the evolving needs of the software industry?,0.6039
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",What lessons have been learned from historical empirical research in SE?,0.6161
+8,How do the authors justify the selection and combination of empirical methods and design elements?,What are the historical milestones in the use of empirical methods in SE?,0.7315
+9,How often are which empirical methods used?,What are the historical milestones in the use of empirical methods in SE?,0.8083
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",What are the main types of empirical evidence used in SE research?,0.6833
+11,How has the proportion of replications evolved over time?,How can SE researchers design effective replication studies?,0.5853
+12,How has the use of triangulation for research design evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.378
+13,How often are those who conduct the studies also the authors of the papers?,What kinds of empirical studies are essential for advancing SE practice?,0.4392
+14,How do the authors justify preventing bias in the study results?,What strategies can be employed to minimize biases in empirical SE research?,0.6151
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4698
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.5509
+17,How often are which statistical methods used?,How do empirical methods in SE compare to those in other scientific disciplines?,0.557
+18,How has the use of statistical methods evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.6845
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How do empirical methods in SE compare to those in other scientific disciplines?,0.5275
+20,How has the definition of the population evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.3256
+21,How has the use of power analysis and effect size estimation evolved over time?,Which empirical methods are most commonly used to evaluate SE technologies?,0.4066
+22,How has the reporting of threats to validity evolved over time?,How can SE researchers identify and mitigate threats to validity in their studies?,0.6912
+23,What types of threats to validity do the authors report?,How can SE researchers identify and mitigate threats to validity in their studies?,0.769
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,How can SE theories be made more accessible to the research community?,0.645
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How do actions research and case studies differ in the context of SE research?,0.7237
+26,How has the reporting of the subjects evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4974
+27,How has the reporting of the objects of study / treatments evolved over time?,How can SE researchers ensure the reproducibility of their empirical studies?,0.519
+28,How has the reporting of the tasks evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4723
+29,How has the reporting of the setting evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4654
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,What are the reporting standards for empirical SE studies?,0.4913
+31,How has the the reporting of the population evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4557
+32,How has the reporting of the context evolved over time?,How does the context of a study impact its empirical findings in SE?,0.5067
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,How does the context of a study impact its empirical findings in SE?,0.406
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How can SE researchers improve their skills in various empirical methods?,0.3837
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,How does the context of a study impact its empirical findings in SE?,0.4435
+36,Do the authors report the selected context of their study with specific characteristics?,How does the context of a study impact its empirical findings in SE?,0.6833
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,How can SE researchers design effective replication studies?,0.526
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",What lessons have been learned from historical empirical research in SE?,0.5389
+39,How has the reporting of research questions and answers evolved over time?,What lessons have been learned from historical empirical research in SE?,0.6311
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,What lessons have been learned from historical empirical research in SE?,0.4377
+41,Do the authors use a well defined taxonomy for their research design?,Which taxonomies and classifications are essential for empirical SE research?,0.5938
+42,Do the authors use other channels to publish their results for making them available to industrial users?,How can SE researchers ensure the reproducibility of their empirical studies?,0.4342
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",How can a systematic review enhance our understanding of empirical SE research?,0.727
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",How can a systematic review enhance our understanding of empirical SE research?,0.7423
+45,Have the authors done a systematic review of related work?,To what extent does the SE community employ systematic reviews and meta-analyses?,0.6341
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",To what extent does the SE community employ systematic reviews and meta-analyses?,0.6679
+47,How many publications are analyzed in (systematic literature) reviews?,To what extent does the SE community employ systematic reviews and meta-analyses?,0.6503
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",What are the reporting standards for empirical SE studies?,0.4791
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",To what extent does the SE community employ systematic reviews and meta-analyses?,0.6317
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",How does the relevance of SE research impact its applicability in industrial contexts?,0.4712
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,To what extent does the SE community employ systematic reviews and meta-analyses?,0.5677
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,To what extent does the SE community employ systematic reviews and meta-analyses?,0.561
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How does the reliability of empirical SE studies impact their practical use?,0.658
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How can the quality and relevance of empirical SE studies be increased?,0.6716
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,What are the main types of empirical evidence used in SE research?,0.6164
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,What are the main types of empirical evidence used in SE research?,0.6373
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,In what ways can empirical SE studies address construct validity issues?,0.6349
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What are the key components of a well-designed empirical SE study?,0.6688
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,What are the historical milestones in the use of empirical methods in SE?,0.6058
+60,How many different empirical methods are used per publication?,How do empirical methods in SE compare to those in other scientific disciplines?,0.7654
+61,How has the number of empirical methods used per publication evolved over time?,How has the application of empirical methods in SE evolved since the 1970s?,0.8034
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What are the common obstacles in synthesizing empirical evidence in SE?,0.7308
+63,How many studies incorporate theories?,How do empirical methods contribute to theory building in SE?,0.5889
+64,How has the incorporation of theories in studies evolved over time?,How can SE theories be made more accessible to the research community?,0.6137
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",How do empirical methods contribute to theory building in SE?,0.5377
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How can SE theories be made more accessible to the research community?,0.5611
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How can SE theories be made more accessible to the research community?,0.6256
+68,How many theories from the SE and RE are there?,How can the SE community develop and document comprehensive theories?,0.6354
+69,How has the number of theories from SE and RE evolved over time?,How can SE theories be made more accessible to the research community?,0.6121
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How can the SE community develop and document comprehensive theories?,0.4683
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,How can SE theories be made more accessible to the research community?,0.5151
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How can SE theories be made more accessible to the research community?,0.5462
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",How can the SE community develop and document comprehensive theories?,0.4703
+74,How often are standards used to describe the theories incorporated?,How can the SE community develop and document comprehensive theories?,0.5539
+75,How has the use of standards to describe the theories incorporated evolved over time?,How can the SE community develop and document comprehensive theories?,0.5207
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,To what extent does the SE community employ systematic reviews and meta-analyses?,0.5593

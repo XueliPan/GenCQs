@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How has the number of empirical RE studies evolved over time?,0.865
+1,How often are which empirical methods used over time?,How has the number of empirical RE studies evolved over time?,0.7293
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How has the number of empirical RE studies evolved over time?,0.8027
+3, How do the authors justify the lack of a proper study?,How do RE researchers plan and justify their study objects and procedures?,0.551
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How has the number of empirical RE studies evolved over time?,0.742
+5,How many empirical studies are by authors working for large software development companies?,How has the number of empirical RE studies evolved over time?,0.6193
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How has the number of empirical RE studies evolved over time?,0.6079
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How has the number of empirical RE studies evolved over time?,0.5766
+8,How do the authors justify the selection and combination of empirical methods and design elements?,What methods are used to define relevant concepts of phenomena in empirical RE research?,0.5782
+9,How often are which empirical methods used?,How has the number of empirical RE studies evolved over time?,0.6753
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",What research questions are most commonly formulated in empirical RE studies?,0.6752
+11,How has the proportion of replications evolved over time?,How has the number of empirical RE studies evolved over time?,0.4519
+12,How has the use of triangulation for research design evolved over time?,What research design justifications are most commonly applied by RE researchers?,0.4974
+13,How often are those who conduct the studies also the authors of the papers?,How frequently do RE researchers describe the population in their studies?,0.5636
+14,How do the authors justify preventing bias in the study results?,What challenges do RE researchers face in justifying their research designs and inferences?,0.5455
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How has the number of empirical RE studies evolved over time?,0.4821
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How do companies perceive the feasibility of RE techniques according to empirical studies?,0.523
+17,How often are which statistical methods used?,How often are the operationalization and validation of concepts performed in RE empirical research?,0.527
+18,How has the use of statistical methods evolved over time?,How has the number of empirical RE studies evolved over time?,0.5714
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,What assumptions of inference techniques are considered in RE empirical research?,0.6226
+20,How has the definition of the population evolved over time?,How important is the description of the population in RE research studies?,0.5265
+21,How has the use of power analysis and effect size estimation evolved over time?,How has the number of empirical RE studies evolved over time?,0.4527
+22,How has the reporting of threats to validity evolved over time?,"How do RE researchers justify the validity of their measures, instruments, and procedures?",0.4595
+23,What types of threats to validity do the authors report?,"How do RE researchers justify the validity of their measures, instruments, and procedures?",0.5124
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,What theories or mechanisms do RE researchers use to explain their observations?,0.562
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How has the number of empirical RE studies evolved over time?,0.6847
+26,How has the reporting of the subjects evolved over time?,How has the number of empirical RE studies evolved over time?,0.5187
+27,How has the reporting of the objects of study / treatments evolved over time?,How is the selection and acquisition of study objects reported in RE research?,0.6011
+28,How has the reporting of the tasks evolved over time?,How do RE researchers report deviations during the execution of empirical research?,0.4608
+29,How has the reporting of the setting evolved over time?,How do RE researchers report deviations from treatment and measurement plans?,0.4339
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,What checklists are used as guidelines for designing empirical RE research?,0.5835
+31,How has the the reporting of the population evolved over time?,How frequently do RE researchers describe the population in their studies?,0.5876
+32,How has the reporting of the context evolved over time?,What standard terminologies are used to capture RE context in empirical research?,0.4278
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What research design justifications are most commonly applied by RE researchers?,0.4206
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How do RE researchers assess the plausibility of their explanations?,0.3767
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,What research design justifications are most commonly applied by RE researchers?,0.4062
+36,Do the authors report the selected context of their study with specific characteristics?,How is the selection and acquisition of study objects reported in RE research?,0.5886
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,How often do RE researchers justify the acquisition and representativeness of their study objects?,0.6388
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How has the number of empirical RE studies evolved over time?,0.5381
+39,How has the reporting of research questions and answers evolved over time?,How are research questions explicitly answered in RE studies?,0.5931
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the number of empirical RE studies evolved over time?,0.4801
+41,Do the authors use a well defined taxonomy for their research design?,What standard terminologies are used to capture RE context in empirical research?,0.4859
+42,Do the authors use other channels to publish their results for making them available to industrial users?,How do RE researchers report deviations from the acquisition plan?,0.4125
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What methods are used to define relevant concepts of phenomena in empirical RE research?,0.5891
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",How has the number of empirical RE studies evolved over time?,0.6568
+45,Have the authors done a systematic review of related work?,What recommended practices are commonly performed by RE researchers and practitioners?,0.4261
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",How often do RE researchers review the current state of knowledge in their field?,0.5229
+47,How many publications are analyzed in (systematic literature) reviews?,How has the number of empirical RE studies evolved over time?,0.5265
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",What checklists are used as guidelines for designing empirical RE research?,0.5418
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What standard terminologies are used to capture RE context in empirical research?,0.4757
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",How is the selection and acquisition of study objects reported in RE research?,0.4315
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,How often do RE researchers review the current state of knowledge in their field?,0.4369
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What checklists are used as guidelines for designing empirical RE research?,0.4595
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,"How do RE researchers justify the validity of their measures, instruments, and procedures?",0.6275
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How has the number of empirical RE studies evolved over time?,0.6607
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,"How do RE researchers justify the validity of their measures, instruments, and procedures?",0.5741
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,How has the number of empirical RE studies evolved over time?,0.6329
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,What standard terminologies are used to capture RE context in empirical research?,0.6596
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What standard terminologies are used to capture RE context in empirical research?,0.7067
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,How often are the operationalization and validation of concepts performed in RE empirical research?,0.5965
+60,How many different empirical methods are used per publication?,How has the number of empirical RE studies evolved over time?,0.6329
+61,How has the number of empirical methods used per publication evolved over time?,How has the number of empirical RE studies evolved over time?,0.794
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What assumptions of inference techniques are considered in RE empirical research?,0.6536
+63,How many studies incorporate theories?,What theories or mechanisms do RE researchers use to explain their observations?,0.5973
+64,How has the incorporation of theories in studies evolved over time?,What theories or mechanisms do RE researchers use to explain their observations?,0.5663
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",What mechanisms do RE researchers use to operationalize and validate the concepts of their frameworks?,0.5677
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How do interdisciplinary studies contribute to the understanding of RE context factors?,0.5157
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How has the number of empirical RE studies evolved over time?,0.5598
+68,How many theories from the SE and RE are there?,How has the number of empirical RE studies evolved over time?,0.5387
+69,How has the number of theories from SE and RE evolved over time?,How has the number of empirical RE studies evolved over time?,0.602
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How do RE researchers explain their observations using underlying mechanisms or theories?,0.4252
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,What percentage of RE researchers review the current state of empirical knowledge?,0.4369
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How has the number of empirical RE studies evolved over time?,0.4285
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",What mechanisms do RE researchers use to operationalize and validate the concepts of their frameworks?,0.5073
+74,How often are standards used to describe the theories incorporated?,How often do RE researchers operationalize the concepts of their frameworks?,0.514
+75,How has the use of standards to describe the theories incorporated evolved over time?,How do RE researchers validate the operationalization of concepts?,0.4485
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,How do RE researchers explain their observations using underlying mechanisms or theories?,0.4664

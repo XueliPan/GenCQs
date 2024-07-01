@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.5973
+1,How often are which empirical methods used over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.7072
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How can empirical research help bridge the gap between SE and RE studies?,0.7532
+3, How do the authors justify the lack of a proper study?,How can empirical research help bridge the gap between SE and RE studies?,0.4753
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.5137
+5,How many empirical studies are by authors working for large software development companies?,How does empirical research address the complexity of software engineering practices?,0.6685
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How does empirical research address the complexity of software engineering practices?,0.5564
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How can empirical research help bridge the gap between SE and RE studies?,0.5046
+8,How do the authors justify the selection and combination of empirical methods and design elements?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.6901
+9,How often are which empirical methods used?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.7079
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",How has the use of empirical methods in software engineering evolved since the 1970s?,0.5717
+11,How has the proportion of replications evolved over time?,Why is replication important for understanding the progress of requirements engineering practices over time?,0.4466
+12,How has the use of triangulation for research design evolved over time?,What are the benefits and limitations of using the RE research map as a tool for evidence-based research?,0.4474
+13,How often are those who conduct the studies also the authors of the papers?,How can empirical research help bridge the gap between SE and RE studies?,0.3286
+14,How do the authors justify preventing bias in the study results?,How can empirical research help bridge the gap between SE and RE studies?,0.4404
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.4327
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.5249
+17,How often are which statistical methods used?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.4779
+18,How has the use of statistical methods evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.6099
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.4111
+20,How has the definition of the population evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.2509
+21,How has the use of power analysis and effect size estimation evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.3712
+22,How has the reporting of threats to validity evolved over time?,What is the impact of managing uncertainty on the effectiveness of requirements engineering practices?,0.2957
+23,What types of threats to validity do the authors report?,What are the common themes identified in narrative reviews of requirements engineering studies?,0.3567
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.4661
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.6422
+26,How has the reporting of the subjects evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.3573
+27,How has the reporting of the objects of study / treatments evolved over time?,What are the benefits and limitations of using the RE research map as a tool for evidence-based research?,0.424
+28,How has the reporting of the tasks evolved over time?,Why is replication important for understanding the progress of requirements engineering practices over time?,0.4306
+29,How has the reporting of the setting evolved over time?,Why is replication important for understanding the progress of requirements engineering practices over time?,0.3615
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.4066
+31,How has the the reporting of the population evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.2566
+32,How has the reporting of the context evolved over time?,How can context factors be standardized in empirical requirements engineering research?,0.3827
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What is the significance of mixed methods in empirical requirements engineering studies?,0.3466
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,What is the significance of mixed methods in empirical requirements engineering studies?,0.3005
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,What is the significance of mixed methods in empirical requirements engineering studies?,0.3481
+36,Do the authors report the selected context of their study with specific characteristics?,What are the common themes identified in narrative reviews of requirements engineering studies?,0.4754
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,What are the benefits and limitations of using the RE research map as a tool for evidence-based research?,0.5524
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How has the use of empirical methods in software engineering evolved since the 1970s?,0.448
+39,How has the reporting of research questions and answers evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.4484
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.3882
+41,Do the authors use a well defined taxonomy for their research design?,How can a research map aid in the identification and structuring of empirical studies in requirements engineering?,0.4714
+42,Do the authors use other channels to publish their results for making them available to industrial users?,What are the main findings from studies on RE in small and medium enterprises (SMEs)?,0.3441
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5927
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5994
+45,Have the authors done a systematic review of related work?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5765
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5278
+47,How many publications are analyzed in (systematic literature) reviews?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5803
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.4071
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.5466
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",What are the potential benefits of integrating RE studies from the information systems community?,0.4435
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.4595
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.4994
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How can empirical research help bridge the gap between SE and RE studies?,0.4769
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.5252
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,What are the benefits and limitations of using the RE research map as a tool for evidence-based research?,0.4579
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,How can empirical research help bridge the gap between SE and RE studies?,0.5125
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,How can empirical research help bridge the gap between SE and RE studies?,0.5976
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,How can empirical research help bridge the gap between SE and RE studies?,0.6132
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.5789
+60,How many different empirical methods are used per publication?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.6167
+61,How has the number of empirical methods used per publication evolved over time?,How has the use of empirical methods in software engineering evolved since the 1970s?,0.7283
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What are the most common strategies for data collection and analysis in empirical software engineering?,0.6096
+63,How many studies incorporate theories?,How does empirical research contribute to the development of theories in requirements engineering?,0.4915
+64,How has the incorporation of theories in studies evolved over time?,How does empirical research contribute to the development of theories in requirements engineering?,0.4857
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",How does empirical research contribute to the development of theories in requirements engineering?,0.4801
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How can empirical research help bridge the gap between SE and RE studies?,0.4994
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How can empirical research help bridge the gap between SE and RE studies?,0.5279
+68,How many theories from the SE and RE are there?,How can empirical research help bridge the gap between SE and RE studies?,0.4868
+69,How has the number of theories from SE and RE evolved over time?,How does empirical research contribute to the development of theories in requirements engineering?,0.4092
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How does the RE research map reveal the main focuses and gaps in the field?,0.3962
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,How does the RE research map reveal the main focuses and gaps in the field?,0.3885
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How does empirical research contribute to the development of theories in requirements engineering?,0.3885
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",How can certification schemes contribute to the adoption of standardized requirements engineering practices?,0.4045
+74,How often are standards used to describe the theories incorporated?,How do empirical observations contribute to the validation of theories in requirements engineering?,0.4719
+75,How has the use of standards to describe the theories incorporated evolved over time?,How can certification schemes contribute to the adoption of standardized requirements engineering practices?,0.4771
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,What are the key lessons learned from applying systematic literature review processes to requirements engineering?,0.4677

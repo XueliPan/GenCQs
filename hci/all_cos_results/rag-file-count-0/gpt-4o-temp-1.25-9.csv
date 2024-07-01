@@ -1,226 +1,226 @@
 ,genCQ,expertCQ,cos_score
-0,How do users interact with computer systems in various contexts?,How can a user interact in human–computer interactions?,0.7876
-1,How do users interact with computer systems in various contexts?,Why does a user intentionally interact with an interactive computer system?,0.7546
-2,How do users interact with computer systems in various contexts?,"Considering intentionality, how can a user interact with an interactive computer system?",0.7458
-3,How do users interact with computer systems in various contexts?,What does make up the user interface of an interactive computer system?,0.7304
-4,How do humans and computers communicate in multimodal interfaces?,How can a user interact in human–computer interactions?,0.7196
-5,What are the core components of a human-computer interaction system?,What does make up the user interface of an interactive computer system?,0.7140
-6,What role does usability play in human-computer interaction?,What is a human–computer interaction?,0.7026
-7,What are the core components of a human-computer interaction system?,What is a human–computer interaction?,0.7012
-8,How do users interact with computer systems in various contexts?,What is an interactive computer system?,0.6957
-9,What are the core components of a human-computer interaction system?,What is a complex interactive computer system?,0.6786
-10,How do users interact with computer systems in various contexts?,How is a user input processed by an interactive computer system?,0.6689
-11,What are the common challenges in designing interactive systems?,What is an interactive computer system?,0.6682
-12,What role does usability play in human-computer interaction?,How can a user interact in human–computer interactions?,0.6655
-13,What are the core components of a human-computer interaction system?,What is an interactive computer system?,0.6599
-14,How do users interact with computer systems in various contexts?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6574
-15,What are the common challenges in designing interactive systems?,What is a complex interactive computer system?,0.6547
-16,How do users interact with computer systems in various contexts?,What is a complex interactive computer system?,0.6528
-17,What are the common challenges in designing interactive systems?,What is an interactive software system?,0.6522
-18,How do cognitive processes affect user interaction with computer systems?,How can a user interact in human–computer interactions?,0.6479
-19,What are the common challenges in designing interactive systems?,What does make up the user interface of an interactive computer system?,0.6462
-20,What are the different types of user interfaces in HCI?,What does make up the user interface of an interactive computer system?,0.6438
-21,What are the core components of a human-computer interaction system?,How can a user interact in human–computer interactions?,0.6424
-22,How do users interact with computer systems in various contexts?,How does a user receive an output from an interactive computer system?,0.6415
-23,What ethical considerations are involved in human-computer interaction design?,What is a human–computer interaction?,0.6392
-24,How do humans and computers communicate in multimodal interfaces?,What is a human–computer interaction?,0.6363
-25,How do input and output devices impact human-computer interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6263
-26,How do users interact with computer systems in various contexts?,What is an interactive software system?,0.6239
-27,How do cognitive processes affect user interaction with computer systems?,Why does a user intentionally interact with an interactive computer system?,0.6228
-28,How do cognitive processes affect user interaction with computer systems?,What does make up the user interface of an interactive computer system?,0.6112
-29,How do cognitive processes affect user interaction with computer systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.6065
-30,What role does usability play in human-computer interaction?,What does make up the user interface of an interactive computer system?,0.6041
-31,How do humans and computers communicate in multimodal interfaces?,What does make up the user interface of an interactive computer system?,0.6024
-32,How do input and output devices impact human-computer interaction?,How can a user interact in human–computer interactions?,0.5966
-33,How do users interact with computer systems in various contexts?,What is a human–computer interaction?,0.5960
-34,How do cognitive processes affect user interaction with computer systems?,What is an interactive computer system?,0.5912
-35,What ethical considerations are involved in human-computer interaction design?,How can a user interact in human–computer interactions?,0.5890
-36,How do input and output devices impact human-computer interaction?,How is a user input processed by an interactive computer system?,0.5878
-37,How do cognitive processes affect user interaction with computer systems?,What is a human–computer interaction?,0.5874
-38,What are the different types of user interfaces in HCI?,What is a human–computer interaction?,0.5835
-39,What are the common challenges in designing interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.5802
-40,How do cognitive processes affect user interaction with computer systems?,What is a complex interactive computer system?,0.5773
-41,How do input and output devices impact human-computer interaction?,What is a human–computer interaction?,0.5766
-42,What are the different types of user interfaces in HCI?,How can a user interact in human–computer interactions?,0.5710
-43,How do users interact with computer systems in various contexts?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.5692
-44,How do cognitive processes affect user interaction with computer systems?,How is a user input processed by an interactive computer system?,0.5662
-45,What are the common challenges in designing interactive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5649
-46,What are the core components of a human-computer interaction system?,What is an interactive software system?,0.5577
-47,How do humans and computers communicate in multimodal interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5571
-48,How do humans and computers communicate in multimodal interfaces?,How is a user input processed by an interactive computer system?,0.5477
-49,What are the core components of a human-computer interaction system?,How is a user input processed by an interactive computer system?,0.5449
-50,How do humans and computers communicate in multimodal interfaces?,What is a complex interactive computer system?,0.5442
-51,How do cognitive processes affect user interaction with computer systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5432
-52,How do humans and computers communicate in multimodal interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5424
-53,How do input and output devices impact human-computer interaction?,What does make up the user interface of an interactive computer system?,0.5417
-54,What are the common challenges in designing interactive systems?,How can a user interact in human–computer interactions?,0.5408
-55,What methodologies are used to evaluate user experience?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.5408
-56,How is user feedback incorporated into system design?,What does make up the user interface of an interactive computer system?,0.5378
-57,How do humans and computers communicate in multimodal interfaces?,How does a user receive an output from an interactive computer system?,0.5373
-58,What are the core components of a human-computer interaction system?,Why does a user intentionally interact with an interactive computer system?,0.5334
-59,How do humans and computers communicate in multimodal interfaces?,Why does a user intentionally interact with an interactive computer system?,0.5332
-60,What are the different types of user interfaces in HCI?,What is a complex interactive computer system?,0.5287
-61,What are the core components of a human-computer interaction system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5272
-62,How is task analysis conducted in the context of HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.5258
-63,How do humans and computers communicate in multimodal interfaces?,What is an interactive computer system?,0.5252
-64,How do users interact with computer systems in various contexts?,What does make up a complex user participation?,0.5244
-65,What are the core components of a human-computer interaction system?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5230
-66,What role does usability play in human-computer interaction?,What is a complex interactive computer system?,0.5223
-67,What role does usability play in human-computer interaction?,What is an interactive computer system?,0.5214
-68,What ethical considerations are involved in human-computer interaction design?,Why does a user intentionally interact with an interactive computer system?,0.5194
-69,How do input and output devices impact human-computer interaction?,How does a user receive an output from an interactive computer system?,0.5149
-70,What are the common challenges in designing interactive systems?,What is a human–computer interaction?,0.5144
-71,What are the different types of user interfaces in HCI?,What is an interactive computer system?,0.5133
-72,How do cognitive processes affect user interaction with computer systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.5094
-73,How is task analysis conducted in the context of HCI?,What is a human–computer interaction?,0.5081
-74,What ethical considerations are involved in human-computer interaction design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5029
-75,What are the common challenges in designing interactive systems?,How is a user input processed by an interactive computer system?,0.5029
-76,How is user feedback incorporated into system design?,What is an interactive software system?,0.5021
-77,How do cognitive processes affect user interaction with computer systems?,What is an interactive software system?,0.5012
-78,What role does usability play in human-computer interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4996
-79,What role does usability play in human-computer interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4990
-80,What role does usability play in human-computer interaction?,Why does a user intentionally interact with an interactive computer system?,0.4989
-81,How do users interact with computer systems in various contexts?,What is a User?,0.4973
-82,What ethical considerations are involved in human-computer interaction design?,What does make up the user interface of an interactive computer system?,0.4914
-83,What are the different types of user interfaces in HCI?,What is an interactive software system?,0.4909
-84,How do cognitive processes affect user interaction with computer systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4898
-85,How is user feedback incorporated into system design?,Why does a user intentionally interact with an interactive computer system?,0.4891
-86,How is user feedback incorporated into system design?,How does a user receive an output from an interactive computer system?,0.4882
-87,How is user feedback incorporated into system design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4847
-88,How do input and output devices impact human-computer interaction?,Why does a user intentionally interact with an interactive computer system?,0.4844
-89,How is user feedback incorporated into system design?,What is an interactive computer system?,0.4827
-90,What are the key principles of user-centered design?,What does make up a complex user participation?,0.4818
-91,What are the common challenges in designing interactive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4714
-92,How is task analysis conducted in the context of HCI?,What is a complex interactive computer system?,0.4691
-93,What ethical considerations are involved in human-computer interaction design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4686
-94,How do cognitive processes affect user interaction with computer systems?,How does a user receive an output from an interactive computer system?,0.4645
-95,What role does usability play in human-computer interaction?,What does make up a complex user participation?,0.4637
-96,How do input and output devices impact human-computer interaction?,What is an interactive computer system?,0.4633
-97,What role does usability play in human-computer interaction?,What is an interactive software system?,0.4619
-98,How is user feedback incorporated into system design?,How is a user input processed by an interactive computer system?,0.4599
-99,What are the core components of a human-computer interaction system?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4598
-100,What ethical considerations are involved in human-computer interaction design?,What is a complex interactive computer system?,0.4580
-101,How is user feedback incorporated into system design?,What does make up a complex user participation?,0.4576
-102,What role does usability play in human-computer interaction?,How is a user input processed by an interactive computer system?,0.4573
-103,What role does usability play in human-computer interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4569
-104,How is user feedback incorporated into system design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4557
-105,How do input and output devices impact human-computer interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4520
-106,How do input and output devices impact human-computer interaction?,What is a complex interactive computer system?,0.4516
-107,What ethical considerations are involved in human-computer interaction design?,What is an interactive computer system?,0.4516
-108,How do humans and computers communicate in multimodal interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4505
-109,How do humans and computers communicate in multimodal interfaces?,What is an interactive software system?,0.4502
-110,What are the common challenges in designing interactive systems?,What does make up a complex user participation?,0.4429
-111,What role does usability play in human-computer interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4421
-112,How do cognitive processes affect user interaction with computer systems?,What does make up a complex user participation?,0.4417
-113,What methodologies are used to evaluate user experience?,What does make up the user interface of an interactive computer system?,0.4396
-114,How do input and output devices impact human-computer interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4395
-115,What are the core components of a human-computer interaction system?,What does make up a complex user participation?,0.4386
-116,What are the core components of a human-computer interaction system?,How does a user receive an output from an interactive computer system?,0.4380
-117,How is user feedback incorporated into system design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4357
-118,How is user feedback incorporated into system design?,How can a user interact in human–computer interactions?,0.4333
-119,How is user feedback incorporated into system design?,What is a complex interactive computer system?,0.4301
-120,What ethical considerations are involved in human-computer interaction design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4291
-121,What are the key principles of user-centered design?,What does make up the user interface of an interactive computer system?,0.4287
-122,What are the key principles of user-centered design?,How can a user interact in human–computer interactions?,0.4280
-123,What are the different types of user interfaces in HCI?,Why does a user intentionally interact with an interactive computer system?,0.4262
-124,What are the common challenges in designing interactive systems?,How does a user receive an output from an interactive computer system?,0.4225
-125,What are the different types of user interfaces in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4218
-126,How do users interact with computer systems in various contexts?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4210
-127,What methodologies are used to evaluate user experience?,How can a user interact in human–computer interactions?,0.4205
-128,How is task analysis conducted in the context of HCI?,What does make up a complex user participation?,0.4177
-129,What are the different types of user interfaces in HCI?,How is a user input processed by an interactive computer system?,0.4175
-130,How is user feedback incorporated into system design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4153
-131,How do humans and computers communicate in multimodal interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4139
-132,How is task analysis conducted in the context of HCI?,How can a user interact in human–computer interactions?,0.4116
-133,What are the common challenges in designing interactive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4082
-134,How is task analysis conducted in the context of HCI?,What is an interactive computer system?,0.4048
-135,What are the different types of user interfaces in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4021
-136,What are the key principles of user-centered design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4018
-137,How is task analysis conducted in the context of HCI?,What does make up the user interface of an interactive computer system?,0.4016
-138,What are the different types of user interfaces in HCI?,What does make up a complex user participation?,0.3970
-139,What are the key principles of user-centered design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3953
-140,What are the common challenges in designing interactive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3942
-141,How do input and output devices impact human-computer interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3900
-142,How is task analysis conducted in the context of HCI?,What is an interactive software system?,0.3874
-143,What methodologies are used to evaluate user experience?,What is an interactive software system?,0.3871
-144,What ethical considerations are involved in human-computer interaction design?,What is an interactive software system?,0.3853
-145,How do humans and computers communicate in multimodal interfaces?,What does make up a complex user participation?,0.3841
-146,What are the core components of a human-computer interaction system?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3840
-147,What ethical considerations are involved in human-computer interaction design?,What does make up a complex user participation?,0.3834
-148,How is user feedback incorporated into system design?,What is a User?,0.3828
-149,What methodologies are used to evaluate user experience?,What is an interactive computer system?,0.3797
-150,What methodologies are used to evaluate user experience?,What is a human–computer interaction?,0.3794
-151,What are the key principles of user-centered design?,What is a human–computer interaction?,0.3744
-152,What are the key principles of user-centered design?,What is a complex interactive computer system?,0.3733
-153,What are the different types of user interfaces in HCI?,How does a user receive an output from an interactive computer system?,0.3657
-154,What methodologies are used to evaluate user experience?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3653
-155,How can accessibility be ensured in HCI design?,How can a user interact in human–computer interactions?,0.3630
-156,How is task analysis conducted in the context of HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3603
-157,What are the key principles of user-centered design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3603
-158,What standards and guidelines exist for HCI design and evaluation?,What is a human–computer interaction?,0.3601
-159,What ethical considerations are involved in human-computer interaction design?,How is a user input processed by an interactive computer system?,0.3590
-160,What are the key principles of user-centered design?,Why does a user intentionally interact with an interactive computer system?,0.3580
-161,What methodologies are used to evaluate user experience?,What is a complex interactive computer system?,0.3565
-162,What standards and guidelines exist for HCI design and evaluation?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3524
-163,What role does usability play in human-computer interaction?,How does a user receive an output from an interactive computer system?,0.3522
-164,What methodologies are used to evaluate user experience?,What does make up a complex user participation?,0.3516
-165,How is task analysis conducted in the context of HCI?,How is a user input processed by an interactive computer system?,0.3506
-166,How do input and output devices impact human-computer interaction?,What is an interactive software system?,0.3505
-167,How can accessibility be ensured in HCI design?,What does make up the user interface of an interactive computer system?,0.3486
-168,What methodologies are used to evaluate user experience?,How is a user input processed by an interactive computer system?,0.3475
-169,How is user feedback incorporated into system design?,What is a human–computer interaction?,0.3455
-170,What are the different types of user interfaces in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3426
-171,How is task analysis conducted in the context of HCI?,Why does a user intentionally interact with an interactive computer system?,0.3400
-172,What ethical considerations are involved in human-computer interaction design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3393
-173,What standards and guidelines exist for HCI design and evaluation?,What does make up the user interface of an interactive computer system?,0.3327
-174,What methodologies are used to evaluate user experience?,How does a user receive an output from an interactive computer system?,0.3326
-175,What methodologies are used to evaluate user experience?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3274
-176,What are the different types of user interfaces in HCI?,What is a User?,0.3269
-177,How can accessibility be ensured in HCI design?,Why does a user intentionally interact with an interactive computer system?,0.3264
-178,What are the key principles of user-centered design?,What is an interactive computer system?,0.3253
-179,How can accessibility be ensured in HCI design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3237
-180,How is task analysis conducted in the context of HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3230
-181,How is task analysis conducted in the context of HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3192
-182,What standards and guidelines exist for HCI design and evaluation?,What is a complex interactive computer system?,0.3123
-183,What methodologies are used to evaluate user experience?,What is a User?,0.3112
-184,What are the key principles of user-centered design?,What is a User?,0.3095
-185,What methodologies are used to evaluate user experience?,Why does a user intentionally interact with an interactive computer system?,0.3049
-186,How is task analysis conducted in the context of HCI?,How does a user receive an output from an interactive computer system?,0.3038
-187,How do input and output devices impact human-computer interaction?,What does make up a complex user participation?,0.3024
-188,How can accessibility be ensured in HCI design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2979
-189,How do cognitive processes affect user interaction with computer systems?,What is a User?,0.2972
-190,What methodologies are used to evaluate user experience?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2958
-191,What are the key principles of user-centered design?,What is an interactive software system?,0.2955
-192,How can accessibility be ensured in HCI design?,What is a human–computer interaction?,0.2924
-193,What role does usability play in human-computer interaction?,What is a User?,0.2911
-194,How can accessibility be ensured in HCI design?,How is a user input processed by an interactive computer system?,0.2863
-195,What standards and guidelines exist for HCI design and evaluation?,What is an interactive computer system?,0.2827
-196,What standards and guidelines exist for HCI design and evaluation?,How can a user interact in human–computer interactions?,0.2819
-197,What are the different types of user interfaces in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2792
-198,What ethical considerations are involved in human-computer interaction design?,How does a user receive an output from an interactive computer system?,0.2750
-199,How can accessibility be ensured in HCI design?,What is an interactive computer system?,0.2697
-200,How do humans and computers communicate in multimodal interfaces?,What is a User?,0.2579
-201,How can accessibility be ensured in HCI design?,What is a complex interactive computer system?,0.2572
-202,How can accessibility be ensured in HCI design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2547
-203,What standards and guidelines exist for HCI design and evaluation?,What is an interactive software system?,0.2543
-204,What are the key principles of user-centered design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2526
-205,What are the core components of a human-computer interaction system?,What is a User?,0.2500
-206,What are the key principles of user-centered design?,How is a user input processed by an interactive computer system?,0.2490
-207,How can accessibility be ensured in HCI design?,What is an interactive software system?,0.2439
-208,How can accessibility be ensured in HCI design?,What does make up a complex user participation?,0.2350
-209,What are the key principles of user-centered design?,How does a user receive an output from an interactive computer system?,0.2270
-210,How can accessibility be ensured in HCI design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2249
-211,How can accessibility be ensured in HCI design?,How does a user receive an output from an interactive computer system?,0.2172
-212,What standards and guidelines exist for HCI design and evaluation?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2094
-213,What standards and guidelines exist for HCI design and evaluation?,What does make up a complex user participation?,0.2069
-214,What ethical considerations are involved in human-computer interaction design?,What is a User?,0.2044
-215,What standards and guidelines exist for HCI design and evaluation?,Why does a user intentionally interact with an interactive computer system?,0.2033
-216,What standards and guidelines exist for HCI design and evaluation?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2019
-217,How do input and output devices impact human-computer interaction?,What is a User?,0.1961
-218,How is task analysis conducted in the context of HCI?,What is a User?,0.1884
-219,What standards and guidelines exist for HCI design and evaluation?,How is a user input processed by an interactive computer system?,0.1832
-220,What are the common challenges in designing interactive systems?,What is a User?,0.1828
-221,What standards and guidelines exist for HCI design and evaluation?,How does a user receive an output from an interactive computer system?,0.1547
-222,What standards and guidelines exist for HCI design and evaluation?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1358
-223,How can accessibility be ensured in HCI design?,What is a User?,0.0859
-224,What standards and guidelines exist for HCI design and evaluation?,What is a User?,0.0629
+0,What are the primary types of human-computer interaction methodologies?,What is a human–computer interaction?,0.7363
+1,What are the primary types of human-computer interaction methodologies?,How can a user interact in human–computer interactions?,0.6605
+2,How does accessibility influence the design of interactive systems?,What does make up the user interface of an interactive computer system?,0.6515
+3,What are the main interaction paradigms in HCI?,What is a complex interactive computer system?,0.6290
+4,What are the common metrics used to evaluate the effectiveness of an interactive system?,What is an interactive computer system?,0.6288
+5,What are the main interaction paradigms in HCI?,What is a human–computer interaction?,0.6262
+6,What are the primary types of human-computer interaction methodologies?,What is a complex interactive computer system?,0.6239
+7,What are the common metrics used to evaluate the effectiveness of an interactive system?,What does make up the user interface of an interactive computer system?,0.6233
+8,What are the primary types of human-computer interaction methodologies?,What does make up the user interface of an interactive computer system?,0.6132
+9,What are the common metrics used to evaluate the effectiveness of an interactive system?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.6041
+10,What are the primary types of human-computer interaction methodologies?,What is an interactive computer system?,0.6009
+11,What are the common metrics used to evaluate the effectiveness of an interactive system?,What is an interactive software system?,0.5928
+12,How does accessibility influence the design of interactive systems?,What is an interactive computer system?,0.5926
+13,How does accessibility influence the design of interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.5832
+14,What strategies are used to ensure user privacy and data security in interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.5805
+15,What are the main interaction paradigms in HCI?,How can a user interact in human–computer interactions?,0.5796
+16,What are the common metrics used to evaluate the effectiveness of an interactive system?,What is a complex interactive computer system?,0.5770
+17,What are the main interaction paradigms in HCI?,What does make up the user interface of an interactive computer system?,0.5716
+18,How do cultural factors affect human-computer interaction?,What is a human–computer interaction?,0.5698
+19,How do cultural factors affect human-computer interaction?,How can a user interact in human–computer interactions?,0.5687
+20,How do different user interfaces impact user experience?,What does make up the user interface of an interactive computer system?,0.5598
+21,What are the main interaction paradigms in HCI?,What is an interactive computer system?,0.5450
+22,How does accessibility influence the design of interactive systems?,What is an interactive software system?,0.5441
+23,What strategies are used to ensure user privacy and data security in interactive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5424
+24,What are the primary types of human-computer interaction methodologies?,What is an interactive software system?,0.5397
+25,What strategies are used to ensure user privacy and data security in interactive systems?,What does make up the user interface of an interactive computer system?,0.5374
+26,What are the common metrics used to evaluate the effectiveness of an interactive system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5336
+27,How does accessibility influence the design of interactive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5315
+28,What are the key components of user-centered design?,What does make up a complex user participation?,0.5308
+29,How do cognitive principles apply to user interface design?,What does make up the user interface of an interactive computer system?,0.5300
+30,How does accessibility influence the design of interactive systems?,What is a complex interactive computer system?,0.5284
+31,What are the common metrics used to evaluate the effectiveness of an interactive system?,How is a user input processed by an interactive computer system?,0.5264
+32,What strategies are used to ensure user privacy and data security in interactive systems?,What is an interactive computer system?,0.5255
+33,How does accessibility influence the design of interactive systems?,How is a user input processed by an interactive computer system?,0.5255
+34,How does accessibility influence the design of interactive systems?,How can a user interact in human–computer interactions?,0.5210
+35,What are the common metrics used to evaluate the effectiveness of an interactive system?,Why does a user intentionally interact with an interactive computer system?,0.5191
+36,What are the main interaction paradigms in HCI?,What is an interactive software system?,0.5140
+37,What factors influence usability in software systems?,What does make up the user interface of an interactive computer system?,0.5126
+38,What are the key components of user-centered design?,What does make up the user interface of an interactive computer system?,0.5125
+39,What strategies are used to ensure user privacy and data security in interactive systems?,How can a user interact in human–computer interactions?,0.5109
+40,What are the common metrics used to evaluate the effectiveness of an interactive system?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5080
+41,What strategies are used to ensure user privacy and data security in interactive systems?,What is an interactive software system?,0.5025
+42,How do different user interfaces impact user experience?,How can a user interact in human–computer interactions?,0.4961
+43,How does accessibility influence the design of interactive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4941
+44,What are the primary types of human-computer interaction methodologies?,Why does a user intentionally interact with an interactive computer system?,0.4934
+45,How is user feedback typically collected and analyzed in HCI studies?,How can a user interact in human–computer interactions?,0.4930
+46,What role do personas and user scenarios play in HCI design?,What does make up a complex user participation?,0.4888
+47,How is user feedback typically collected and analyzed in HCI studies?,What does make up a complex user participation?,0.4876
+48,What are the primary types of human-computer interaction methodologies?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4870
+49,How do cultural factors affect human-computer interaction?,What does make up the user interface of an interactive computer system?,0.4857
+50,What factors influence usability in software systems?,How can a user interact in human–computer interactions?,0.4849
+51,What strategies are used to ensure user privacy and data security in interactive systems?,How is a user input processed by an interactive computer system?,0.4814
+52,What factors influence usability in software systems?,What is a human–computer interaction?,0.4811
+53,What are the common metrics used to evaluate the effectiveness of an interactive system?,How does a user receive an output from an interactive computer system?,0.4759
+54,How is user feedback typically collected and analyzed in HCI studies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4757
+55,How is user feedback typically collected and analyzed in HCI studies?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4742
+56,What are the common metrics used to evaluate the effectiveness of an interactive system?,What is a human–computer interaction?,0.4729
+57,What are the primary types of human-computer interaction methodologies?,How is a user input processed by an interactive computer system?,0.4714
+58,What factors influence usability in software systems?,What is an interactive software system?,0.4704
+59,How do cultural factors affect human-computer interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4670
+60,What are the common metrics used to evaluate the effectiveness of an interactive system?,How can a user interact in human–computer interactions?,0.4662
+61,How do cognitive principles apply to user interface design?,How can a user interact in human–computer interactions?,0.4659
+62,How do cognitive principles apply to user interface design?,What is a human–computer interaction?,0.4639
+63,What strategies are used to ensure user privacy and data security in interactive systems?,How does a user receive an output from an interactive computer system?,0.4633
+64,What role do personas and user scenarios play in HCI design?,What is a human–computer interaction?,0.4620
+65,What strategies are used to ensure user privacy and data security in interactive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4603
+66,How does accessibility influence the design of interactive systems?,What is a human–computer interaction?,0.4587
+67,How do cognitive principles apply to user interface design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4573
+68,How is the effectiveness of input devices measured in HCI studies?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4562
+69,What are the primary types of human-computer interaction methodologies?,What does make up a complex user participation?,0.4551
+70,What are the main interaction paradigms in HCI?,Why does a user intentionally interact with an interactive computer system?,0.4546
+71,How do cognitive principles apply to user interface design?,What is a complex interactive computer system?,0.4514
+72,What are the main interaction paradigms in HCI?,How is a user input processed by an interactive computer system?,0.4512
+73,How does accessibility influence the design of interactive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4511
+74,How is the effectiveness of input devices measured in HCI studies?,How is a user input processed by an interactive computer system?,0.4473
+75,How do cultural factors affect human-computer interaction?,Why does a user intentionally interact with an interactive computer system?,0.4471
+76,How do cognitive principles apply to user interface design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4461
+77,What are the main interaction paradigms in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4426
+78,What are the main interaction paradigms in HCI?,What does make up a complex user participation?,0.4418
+79,What role do personas and user scenarios play in HCI design?,What does make up the user interface of an interactive computer system?,0.4416
+80,How is user feedback typically collected and analyzed in HCI studies?,What does make up the user interface of an interactive computer system?,0.4377
+81,What factors influence usability in software systems?,What is an interactive computer system?,0.4369
+82,What are the primary types of human-computer interaction methodologies?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4362
+83,What are the primary types of human-computer interaction methodologies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4348
+84,What are the main interaction paradigms in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4339
+85,What strategies are used to ensure user privacy and data security in interactive systems?,What is a complex interactive computer system?,0.4330
+86,What are the key components of user-centered design?,How can a user interact in human–computer interactions?,0.4318
+87,How is user feedback typically collected and analyzed in HCI studies?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4313
+88,What factors influence usability in software systems?,What is a complex interactive computer system?,0.4289
+89,How does accessibility influence the design of interactive systems?,How does a user receive an output from an interactive computer system?,0.4286
+90,What role do personas and user scenarios play in HCI design?,How can a user interact in human–computer interactions?,0.4274
+91,How do cultural factors affect human-computer interaction?,What is a complex interactive computer system?,0.4262
+92,What role do personas and user scenarios play in HCI design?,What is a complex interactive computer system?,0.4259
+93,What factors influence usability in software systems?,Why does a user intentionally interact with an interactive computer system?,0.4234
+94,How do cultural factors affect human-computer interaction?,What does make up a complex user participation?,0.4206
+95,How do cognitive principles apply to user interface design?,Why does a user intentionally interact with an interactive computer system?,0.4202
+96,How is user feedback typically collected and analyzed in HCI studies?,What is a human–computer interaction?,0.4170
+97,How is the effectiveness of input devices measured in HCI studies?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4157
+98,How do cultural factors affect human-computer interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4150
+99,What are the key components of user-centered design?,What is a complex interactive computer system?,0.4144
+100,How is user feedback typically collected and analyzed in HCI studies?,How does a user receive an output from an interactive computer system?,0.4139
+101,How do cultural factors affect human-computer interaction?,What is an interactive computer system?,0.4112
+102,What are the key components of user-centered design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4110
+103,What are the primary types of human-computer interaction methodologies?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4105
+104,How do different user interfaces impact user experience?,Why does a user intentionally interact with an interactive computer system?,0.4100
+105,How is user feedback typically collected and analyzed in HCI studies?,Why does a user intentionally interact with an interactive computer system?,0.4092
+106,What factors influence usability in software systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4091
+107,How do cognitive principles apply to user interface design?,What is an interactive computer system?,0.4080
+108,What strategies are used to ensure user privacy and data security in interactive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4056
+109,How is user feedback typically collected and analyzed in HCI studies?,How is a user input processed by an interactive computer system?,0.4042
+110,What are the key components of user-centered design?,What is a human–computer interaction?,0.4009
+111,How do different user interfaces impact user experience?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3982
+112,What factors influence usability in software systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3956
+113,How is user feedback typically collected and analyzed in HCI studies?,What is a complex interactive computer system?,0.3953
+114,How does accessibility influence the design of interactive systems?,What does make up a complex user participation?,0.3943
+115,How do different user interfaces impact user experience?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3940
+116,How is user feedback typically collected and analyzed in HCI studies?,What is an interactive computer system?,0.3928
+117,What factors influence usability in software systems?,What does make up a complex user participation?,0.3927
+118,How do different user interfaces impact user experience?,What is a human–computer interaction?,0.3910
+119,How is user feedback typically collected and analyzed in HCI studies?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3903
+120,How do cultural factors affect human-computer interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3874
+121,What factors influence usability in software systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3860
+122,What role do personas and user scenarios play in HCI design?,What is an interactive software system?,0.3843
+123,What are the key components of user-centered design?,What is an interactive computer system?,0.3807
+124,How do cognitive principles apply to user interface design?,What does make up a complex user participation?,0.3788
+125,What are the key components of user-centered design?,Why does a user intentionally interact with an interactive computer system?,0.3769
+126,What are the main interaction paradigms in HCI?,How does a user receive an output from an interactive computer system?,0.3738
+127,What role do personas and user scenarios play in HCI design?,What is an interactive computer system?,0.3738
+128,What are the ethical considerations involved in HCI research and design?,What is a human–computer interaction?,0.3721
+129,What role do personas and user scenarios play in HCI design?,Why does a user intentionally interact with an interactive computer system?,0.3716
+130,What are the primary types of human-computer interaction methodologies?,How does a user receive an output from an interactive computer system?,0.3697
+131,How is user feedback typically collected and analyzed in HCI studies?,What is an interactive software system?,0.3697
+132,What role do personas and user scenarios play in HCI design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3681
+133,How is the effectiveness of input devices measured in HCI studies?,How can a user interact in human–computer interactions?,0.3652
+134,How does accessibility influence the design of interactive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3640
+135,What are the key components of user-centered design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3632
+136,What factors influence usability in software systems?,How is a user input processed by an interactive computer system?,0.3623
+137,What are the main interaction paradigms in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3607
+138,What strategies are used to ensure user privacy and data security in interactive systems?,What is a human–computer interaction?,0.3606
+139,What are the key components of user-centered design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3595
+140,What factors influence usability in software systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3585
+141,How is the effectiveness of input devices measured in HCI studies?,What is a human–computer interaction?,0.3557
+142,How do cognitive principles apply to user interface design?,What is an interactive software system?,0.3552
+143,What role do personas and user scenarios play in HCI design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3551
+144,How do different user interfaces impact user experience?,What does make up a complex user participation?,0.3523
+145,What are the key components of user-centered design?,What is an interactive software system?,0.3522
+146,What role do personas and user scenarios play in HCI design?,What is a User?,0.3521
+147,How do cognitive principles apply to user interface design?,How is a user input processed by an interactive computer system?,0.3502
+148,How do cognitive principles apply to user interface design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3502
+149,What are the common metrics used to evaluate the effectiveness of an interactive system?,What does make up a complex user participation?,0.3462
+150,How do different user interfaces impact user experience?,What is an interactive computer system?,0.3451
+151,How do different user interfaces impact user experience?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3434
+152,How do cultural factors affect human-computer interaction?,How is a user input processed by an interactive computer system?,0.3431
+153,How do different user interfaces impact user experience?,How is a user input processed by an interactive computer system?,0.3431
+154,How is the effectiveness of input devices measured in HCI studies?,How does a user receive an output from an interactive computer system?,0.3424
+155,What strategies are used to ensure user privacy and data security in interactive systems?,What is a User?,0.3420
+156,How is the effectiveness of input devices measured in HCI studies?,What does make up the user interface of an interactive computer system?,0.3396
+157,What methods are used to prototype and test new interfaces?,What does make up the user interface of an interactive computer system?,0.3390
+158,How do different user interfaces impact user experience?,What is a complex interactive computer system?,0.3388
+159,What are the main interaction paradigms in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3358
+160,What strategies are used to ensure user privacy and data security in interactive systems?,What does make up a complex user participation?,0.3352
+161,How do different user interfaces impact user experience?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3346
+162,What role do personas and user scenarios play in HCI design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3307
+163,What are the key components of user-centered design?,What is a User?,0.3286
+164,How do cognitive principles apply to user interface design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3281
+165,How do different user interfaces impact user experience?,What is an interactive software system?,0.3259
+166,How do cultural factors affect human-computer interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3230
+167,How is the effectiveness of input devices measured in HCI studies?,What is a complex interactive computer system?,0.3199
+168,How is the effectiveness of input devices measured in HCI studies?,What is an interactive computer system?,0.3157
+169,What are the common metrics used to evaluate the effectiveness of an interactive system?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3098
+170,What are the key components of user-centered design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3068
+171,How do cultural factors affect human-computer interaction?,What is an interactive software system?,0.3054
+172,What are the key components of user-centered design?,How is a user input processed by an interactive computer system?,0.3044
+173,How do cognitive principles apply to user interface design?,How does a user receive an output from an interactive computer system?,0.3027
+174,How is user feedback typically collected and analyzed in HCI studies?,What is a User?,0.3021
+175,What strategies are used to ensure user privacy and data security in interactive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3017
+176,What are the ethical considerations involved in HCI research and design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2994
+177,What role do personas and user scenarios play in HCI design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2982
+178,How is the effectiveness of input devices measured in HCI studies?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2977
+179,What methods are used to prototype and test new interfaces?,What is an interactive software system?,0.2957
+180,What are the ethical considerations involved in HCI research and design?,What is a complex interactive computer system?,0.2950
+181,What are the ethical considerations involved in HCI research and design?,Why does a user intentionally interact with an interactive computer system?,0.2933
+182,How is the effectiveness of input devices measured in HCI studies?,Why does a user intentionally interact with an interactive computer system?,0.2917
+183,What are the ethical considerations involved in HCI research and design?,How can a user interact in human–computer interactions?,0.2907
+184,What factors influence usability in software systems?,How does a user receive an output from an interactive computer system?,0.2870
+185,What role do personas and user scenarios play in HCI design?,How is a user input processed by an interactive computer system?,0.2815
+186,What are the ethical considerations involved in HCI research and design?,What does make up a complex user participation?,0.2776
+187,What are the ethical considerations involved in HCI research and design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2763
+188,What are the primary types of human-computer interaction methodologies?,What is a User?,0.2720
+189,What methods are used to prototype and test new interfaces?,How can a user interact in human–computer interactions?,0.2716
+190,What methods are used to prototype and test new interfaces?,What is an interactive computer system?,0.2657
+191,What are the key components of user-centered design?,How does a user receive an output from an interactive computer system?,0.2608
+192,How do different user interfaces impact user experience?,How does a user receive an output from an interactive computer system?,0.2593
+193,What are the ethical considerations involved in HCI research and design?,What does make up the user interface of an interactive computer system?,0.2543
+194,What methods are used to prototype and test new interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2525
+195,What methods are used to prototype and test new interfaces?,What is a complex interactive computer system?,0.2512
+196,What role do personas and user scenarios play in HCI design?,How does a user receive an output from an interactive computer system?,0.2504
+197,How do cultural factors affect human-computer interaction?,How does a user receive an output from an interactive computer system?,0.2477
+198,What methods are used to prototype and test new interfaces?,What is a human–computer interaction?,0.2473
+199,What factors influence usability in software systems?,What is a User?,0.2460
+200,What are the ethical considerations involved in HCI research and design?,What is an interactive computer system?,0.2381
+201,How do cultural factors affect human-computer interaction?,What is a User?,0.2379
+202,How is the effectiveness of input devices measured in HCI studies?,What is an interactive software system?,0.2348
+203,How do different user interfaces impact user experience?,What is a User?,0.2254
+204,What are the ethical considerations involved in HCI research and design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2245
+205,How is the effectiveness of input devices measured in HCI studies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2216
+206,What are the ethical considerations involved in HCI research and design?,What is an interactive software system?,0.2195
+207,What methods are used to prototype and test new interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2113
+208,What are the common metrics used to evaluate the effectiveness of an interactive system?,What is a User?,0.2079
+209,What methods are used to prototype and test new interfaces?,How is a user input processed by an interactive computer system?,0.2060
+210,How does accessibility influence the design of interactive systems?,What is a User?,0.2053
+211,What methods are used to prototype and test new interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2008
+212,How is the effectiveness of input devices measured in HCI studies?,What does make up a complex user participation?,0.1959
+213,What methods are used to prototype and test new interfaces?,How does a user receive an output from an interactive computer system?,0.1890
+214,How do cognitive principles apply to user interface design?,What is a User?,0.1860
+215,What methods are used to prototype and test new interfaces?,Why does a user intentionally interact with an interactive computer system?,0.1845
+216,What are the ethical considerations involved in HCI research and design?,How is a user input processed by an interactive computer system?,0.1401
+217,What are the ethical considerations involved in HCI research and design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1389
+218,What methods are used to prototype and test new interfaces?,What does make up a complex user participation?,0.1350
+219,What are the main interaction paradigms in HCI?,What is a User?,0.1303
+220,What methods are used to prototype and test new interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1221
+221,What methods are used to prototype and test new interfaces?,What is a User?,0.1039
+222,What are the ethical considerations involved in HCI research and design?,How does a user receive an output from an interactive computer system?,0.0957
+223,How is the effectiveness of input devices measured in HCI studies?,What is a User?,0.0707
+224,What are the ethical considerations involved in HCI research and design?,What is a User?,0.0581

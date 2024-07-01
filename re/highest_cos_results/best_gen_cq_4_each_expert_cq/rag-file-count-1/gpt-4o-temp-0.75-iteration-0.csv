@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.6564
+1,How often are which empirical methods used over time?,How have empirical methods evolved in software engineering since the 1970s?,0.6905
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.6893
+3, How do the authors justify the lack of a proper study?,How can empirical studies be designed to address construct validity threats?,0.5108
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.5823
+5,How many empirical studies are by authors working for large software development companies?,What are the barriers to conducting large-scale empirical studies in software engineering?,0.7038
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,What are the barriers to conducting large-scale empirical studies in software engineering?,0.5966
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.5456
+8,How do the authors justify the selection and combination of empirical methods and design elements?,How have empirical methods evolved in software engineering since the 1970s?,0.6713
+9,How often are which empirical methods used?,What are the most common empirical methods used in Software Engineering research?,0.73
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.6453
+11,How has the proportion of replications evolved over time?,How are replication studies valuable in validating empirical research in Requirements Engineering?,0.4129
+12,How has the use of triangulation for research design evolved over time?,How can variety in research design strengthen empirical studies in Requirements Engineering?,0.4304
+13,How often are those who conduct the studies also the authors of the papers?,How can the credibility of empirical studies be improved through academic-industry collaboration?,0.4085
+14,How do the authors justify preventing bias in the study results?,How can empirical studies be designed to address construct validity threats?,0.5514
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How have empirical methods evolved in software engineering since the 1970s?,0.4362
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How does the relevance of empirical studies impact their industrial applications?,0.5449
+17,How often are which statistical methods used?,What are the most common empirical methods used in Software Engineering research?,0.5755
+18,How has the use of statistical methods evolved over time?,How have empirical methods evolved in software engineering since the 1970s?,0.6107
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How can empirical studies be designed to address construct validity threats?,0.483
+20,How has the definition of the population evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.2644
+21,How has the use of power analysis and effect size estimation evolved over time?,What is the significance of effect size estimation in empirical Requirements Engineering studies?,0.5545
+22,How has the reporting of threats to validity evolved over time?,How can empirical studies be designed to address construct validity threats?,0.676
+23,What types of threats to validity do the authors report?,How can empirical studies be designed to address construct validity threats?,0.7144
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,How can SE theories be systematically reviewed and collected online?,0.559
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How can action research provide the most realistic research setting for empirical studies?,0.706
+26,How has the reporting of the subjects evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.4725
+27,How has the reporting of the objects of study / treatments evolved over time?,How can the scope of empirical studies be systematically defined and extended?,0.4638
+28,How has the reporting of the tasks evolved over time?,What are the common pitfalls in reporting empirical research in Requirements Engineering?,0.4539
+29,How has the reporting of the setting evolved over time?,What are the common pitfalls in reporting empirical research in Requirements Engineering?,0.3975
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,How can empirical research outcomes be effectively translated into industry guidelines?,0.5689
+31,How has the the reporting of the population evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.3262
+32,How has the reporting of the context evolved over time?,How does systematic observation contribute to empirical research in Requirements Engineering?,0.3765
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What are the relative effects of different characteristics on the usefulness of SE technology?,0.3861
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How can empirical studies be designed to address construct validity threats?,0.3209
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,What are the relative effects of different characteristics on the usefulness of SE technology?,0.3761
+36,Do the authors report the selected context of their study with specific characteristics?,How can the scope of empirical studies be systematically defined and extended?,0.5502
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,What is the impact of publishing practices on empirical research design in software engineering?,0.4601
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How does the relevance of empirical studies impact their industrial applications?,0.4876
+39,How has the reporting of research questions and answers evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.5702
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.4833
+41,Do the authors use a well defined taxonomy for their research design?,What are the fundamental taxonomies required for empirical research in Requirements Engineering?,0.5
+42,Do the authors use other channels to publish their results for making them available to industrial users?,How can the credibility of empirical studies be improved through academic-industry collaboration?,0.4322
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What are effective techniques for conducting systematic reviews in software engineering?,0.6518
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.6497
+45,Have the authors done a systematic review of related work?,What are effective techniques for conducting systematic reviews in software engineering?,0.6196
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",What are effective techniques for conducting systematic reviews in software engineering?,0.6025
+47,How many publications are analyzed in (systematic literature) reviews?,What are effective techniques for conducting systematic reviews in software engineering?,0.6147
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",How can empirical research outcomes be effectively translated into industry guidelines?,0.5694
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What are systematic review procedures specific to software engineering?,0.5505
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",How do online resources help in documenting SE theories?,0.5726
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,How can SE theories be systematically reviewed and collected online?,0.4413
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are effective techniques for conducting systematic reviews in software engineering?,0.5247
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How can the scope of empirical studies be systematically defined and extended?,0.606
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How can the scope of empirical studies be systematically defined and extended?,0.6314
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,How can research funding influence the quantity and quality of empirical studies?,0.5322
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,How can the scope of empirical studies be systematically defined and extended?,0.5666
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,What are the core principles behind the development of SE theories using empirical methods?,0.6041
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What are the core principles behind the development of SE theories using empirical methods?,0.6356
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,What are the core principles behind the development of SE theories using empirical methods?,0.5807
+60,How many different empirical methods are used per publication?,What are the most common empirical methods used in Software Engineering research?,0.6737
+61,How has the number of empirical methods used per publication evolved over time?,How has the focus on empirical methods in SE evolved in academic forums since the 1990s?,0.7287
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What are the most common empirical methods used in Software Engineering research?,0.6723
+63,How many studies incorporate theories?,How does theory building contribute to empirical research in Software Engineering?,0.5601
+64,How has the incorporation of theories in studies evolved over time?,How can the development of SE theories be accelerated through empirical methods?,0.5904
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",How does theory building contribute to empirical research in Software Engineering?,0.5108
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How can the development of SE theories be accelerated through empirical methods?,0.5165
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How can the development of SE theories be accelerated through empirical methods?,0.6552
+68,How many theories from the SE and RE are there?,How can SE theories be systematically reviewed and collected online?,0.6043
+69,How has the number of theories from SE and RE evolved over time?,How can the development of SE theories be accelerated through empirical methods?,0.6763
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How can the development of SE theories be accelerated through empirical methods?,0.4736
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,How can the development of SE theories be accelerated through empirical methods?,0.5415
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How can the development of SE theories be accelerated through empirical methods?,0.6123
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",What are the core principles behind the development of SE theories using empirical methods?,0.4532
+74,How often are standards used to describe the theories incorporated?,How can SE theories be systematically reviewed and collected online?,0.5018
+75,How has the use of standards to describe the theories incorporated evolved over time?,What are the core principles behind the development of SE theories using empirical methods?,0.5103
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,How do online resources help in documenting SE theories?,0.5631

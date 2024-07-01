@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,What are the most prevalent RE problems identified in empirical studies?,0.569
+1,How often are which empirical methods used over time?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5509
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,What are the most prevalent RE problems identified in empirical studies?,0.6241
+3, How do the authors justify the lack of a proper study?,What are the most prevalent RE problems identified in empirical studies?,0.46
+4,How has the proportion of papers that do not have an empirical study evolved over time?,What are the most prevalent RE problems identified in empirical studies?,0.4877
+5,How many empirical studies are by authors working for large software development companies?,What are the key success criteria for RE identified in empirical studies?,0.5354
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,What are the benefits of integrating information systems community studies into RE research?,0.4641
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""","What are the challenges in replicating RE studies, and how can they be addressed?",0.4789
+8,How do the authors justify the selection and combination of empirical methods and design elements?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5663
+9,How often are which empirical methods used?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5882
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",What are the key success criteria for RE identified in empirical studies?,0.565
+11,How has the proportion of replications evolved over time?,"What are the challenges in replicating RE studies, and how can they be addressed?",0.3935
+12,How has the use of triangulation for research design evolved over time?,What are the benefits of integrating information systems community studies into RE research?,0.4219
+13,How often are those who conduct the studies also the authors of the papers?,"What are the challenges in replicating RE studies, and how can they be addressed?",0.3588
+14,How do the authors justify preventing bias in the study results?,What are the most prevalent RE problems identified in empirical studies?,0.4516
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.4126
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,What specific RE techniques have been widely adopted across industries?,0.5935
+17,How often are which statistical methods used?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.455
+18,How has the use of statistical methods evolved over time?,What are the benefits of using mixed methods in RE research?,0.4403
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,What are the benefits of using mixed methods in RE research?,0.4127
+20,How has the definition of the population evolved over time?,How do geographic and cultural differences impact RE practices?,0.2917
+21,How has the use of power analysis and effect size estimation evolved over time?,How does the complexity of a project influence the choice of RE techniques?,0.3469
+22,How has the reporting of threats to validity evolved over time?,How do organizations ensure the validity and reliability of their RE data collection methods?,0.432
+23,What types of threats to validity do the authors report?,How do organizations ensure the validity and reliability of their RE data collection methods?,0.4431
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,What are the benefits of using mixed methods in RE research?,0.472
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,What are the key success criteria for RE identified in empirical studies?,0.5625
+26,How has the reporting of the subjects evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.39
+27,How has the reporting of the objects of study / treatments evolved over time?,"What are the challenges in replicating RE studies, and how can they be addressed?",0.4597
+28,How has the reporting of the tasks evolved over time?,What are the common RE process improvements implemented in response to empirical findings?,0.4574
+29,How has the reporting of the setting evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.4282
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,What specific RE techniques have been widely adopted across industries?,0.4778
+31,How has the the reporting of the population evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.3282
+32,How has the reporting of the context evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.3693
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What are the benefits of using mixed methods in RE research?,0.4159
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How do different elicitation techniques compare in terms of effectiveness?,0.3803
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,How do different elicitation techniques compare in terms of effectiveness?,0.4297
+36,Do the authors report the selected context of their study with specific characteristics?,What are the key success criteria for RE identified in empirical studies?,0.5186
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,"What are the challenges in replicating RE studies, and how can they be addressed?",0.5858
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""","What are the challenges in replicating RE studies, and how can they be addressed?",0.4285
+39,How has the reporting of research questions and answers evolved over time?,What are the benefits of integrating information systems community studies into RE research?,0.4287
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.3257
+41,Do the authors use a well defined taxonomy for their research design?,What are the benefits of integrating information systems community studies into RE research?,0.3984
+42,Do the authors use other channels to publish their results for making them available to industrial users?,How do organizations ensure the validity and reliability of their RE data collection methods?,0.3452
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What are the key success criteria for RE identified in empirical studies?,0.5602
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",What are the key success criteria for RE identified in empirical studies?,0.5772
+45,Have the authors done a systematic review of related work?,What are the common RE process improvements implemented in response to empirical findings?,0.3847
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",What are the common RE process improvements implemented in response to empirical findings?,0.4352
+47,How many publications are analyzed in (systematic literature) reviews?,What are the key success criteria for RE identified in empirical studies?,0.4191
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",How do organizations approach the identification and involvement of requirements sources?,0.4387
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What are the key success criteria for RE identified in empirical studies?,0.3978
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",What are the benefits of integrating information systems community studies into RE research?,0.4444
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,What are the benefits of integrating information systems community studies into RE research?,0.411
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are the benefits of integrating information systems community studies into RE research?,0.4277
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,What are the key success criteria for RE identified in empirical studies?,0.6342
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,What are the key success criteria for RE identified in empirical studies?,0.644
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,What are the key success criteria for RE identified in empirical studies?,0.5754
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,What are the key success criteria for RE identified in empirical studies?,0.593
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,What are the key issues identified in empirical studies concerning RE practices?,0.5897
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.6081
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5211
+60,How many different empirical methods are used per publication?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5584
+61,How has the number of empirical methods used per publication evolved over time?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5251
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What empirical methods are most commonly used in Requirements Engineering (RE) research?,0.5448
+63,How many studies incorporate theories?,What are the most prevalent RE problems identified in empirical studies?,0.4239
+64,How has the incorporation of theories in studies evolved over time?,What are the benefits of integrating information systems community studies into RE research?,0.4148
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",What are the benefits of using mixed methods in RE research?,0.4478
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""","What are the challenges in replicating RE studies, and how can they be addressed?",0.4133
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""","What are the challenges in replicating RE studies, and how can they be addressed?",0.4254
+68,How many theories from the SE and RE are there?,What are the main findings from empirical studies on RE in the telecommunications industry?,0.4374
+69,How has the number of theories from SE and RE evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.3698
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",What are the main factors influencing the adoption of specific RE techniques?,0.3497
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,What factors contribute to the success of RE in various projects?,0.3901
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.2797
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",How does the use of formal methods in RE compare to informal practices?,0.3533
+74,How often are standards used to describe the theories incorporated?,How does the use of formal methods in RE compare to informal practices?,0.4253
+75,How has the use of standards to describe the theories incorporated evolved over time?,How has the adoption of RE practices evolved over the last decade?,0.4006
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,How do organizations approach the identification and involvement of requirements sources?,0.3743

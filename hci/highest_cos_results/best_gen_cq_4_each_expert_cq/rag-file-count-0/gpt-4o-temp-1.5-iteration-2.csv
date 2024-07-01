@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the primary components of a human-computer interaction system?,0.7025
-1,What is an interactive software system?,What are the primary components of a human-computer interaction system?,0.6053
-2,What is a complex interactive computer system?,What are the primary components of a human-computer interaction system?,0.7061
-3,What does make up the user interface of an interactive computer system?,How do users interact with computer interfaces?,0.7913
-4,What is a User?,How do users interact with computer interfaces?,0.4395
-5,How can a user interact in human–computer interactions?,How do users interact with computer interfaces?,0.8379
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer interfaces?,0.7311
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer interfaces?,0.7297
-8,What does make up a complex user participation?,How are collaborative work and social interactions supported in HCI systems?,0.5067
-9,What is a human–computer interaction?,What are the primary components of a human-computer interaction system?,0.7371
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with computer interfaces?,0.5796
-11,How is a user input processed by an interactive computer system?,How do users interact with computer interfaces?,0.6707
-12,How does a user receive an output from an interactive computer system?,How do users interact with computer interfaces?,0.604
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with computer interfaces?,0.647
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How are user tasks and goals represented in HCI systems?,0.5944
+0,What is an interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.7259
+1,What is an interactive software system?,What interaction methods can users utilize to communicate with a computer system?,0.6406
+2,What is a complex interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.6664
+3,What does make up the user interface of an interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.7271
+4,What is a User?,What user roles are typically considered in the context of HCI?,0.4556
+5,How can a user interact in human–computer interactions?,What interaction methods can users utilize to communicate with a computer system?,0.7811
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What interaction methods can users utilize to communicate with a computer system?,0.7008
+7,Why does a user intentionally interact with an interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.6887
+8,What does make up a complex user participation?,What are the main elements involved in Human-Computer Interaction (HCI)?,0.493
+9,What is a human–computer interaction?,What are the main elements involved in Human-Computer Interaction (HCI)?,0.7548
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What interaction methods can users utilize to communicate with a computer system?,0.4848
+11,How is a user input processed by an interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.6454
+12,How does a user receive an output from an interactive computer system?,What interaction methods can users utilize to communicate with a computer system?,0.6682
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What interaction methods can users utilize to communicate with a computer system?,0.6312
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How are human cognitive processes modeled in HCI?,0.4971

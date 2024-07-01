@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.6241
+1,How often are which empirical methods used over time?,How does the application of empirical methods vary across different subfields of software engineering?,0.7165
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,"What are the most cited empirical studies in the field of software engineering, and why?",0.5648
+3, How do the authors justify the lack of a proper study?,What are the common obstacles to conducting high-quality empirical studies in software engineering?,0.4304
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.5828
+5,How many empirical studies are by authors working for large software development companies?,How is the generalizability of empirical studies in software engineering assessed?,0.7253
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.6866
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How do empirical studies contribute to understanding software maintenance and evolution?,0.5008
+8,How do the authors justify the selection and combination of empirical methods and design elements?,How does the application of empirical methods vary across different subfields of software engineering?,0.7246
+9,How often are which empirical methods used?,How does the application of empirical methods vary across different subfields of software engineering?,0.7873
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",What methods are used to synthesize evidence from multiple empirical software engineering studies?,0.5812
+11,How has the proportion of replications evolved over time?,How do empirical studies contribute to understanding software maintenance and evolution?,0.3936
+12,How has the use of triangulation for research design evolved over time?,What are the common types of empirical research designs used in software engineering?,0.4415
+13,How often are those who conduct the studies also the authors of the papers?,How are empirical software engineering studies documented and shared within the research community?,0.4006
+14,How do the authors justify preventing bias in the study results?,How do empirical software engineering studies ensure the reliability and validity of their results?,0.4313
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.4416
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How has the focus on empirical methods in software engineering changed since the 1970s?,0.5556
+17,How often are which statistical methods used?,What empirical methods are most commonly used in software engineering research?,0.5924
+18,How has the use of statistical methods evolved over time?,How has the focus on empirical methods in software engineering changed since the 1970s?,0.5662
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How do empirical methods support the development of evidence-based software engineering practices?,0.4586
+20,How has the definition of the population evolved over time?,How do empirical studies contribute to understanding software maintenance and evolution?,0.3654
+21,How has the use of power analysis and effect size estimation evolved over time?,How do empirical studies in software engineering address the context of small vs,0.4225
+22,How has the reporting of threats to validity evolved over time?,What are the guidelines for reporting empirical software engineering research findings?,0.4008
+23,What types of threats to validity do the authors report?,How is data from empirical software engineering studies validated and verified?,0.4045
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,How do empirical methods contribute to theory building in software engineering?,0.4879
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How has the focus on empirical methods in software engineering changed since the 1970s?,0.6404
+26,How has the reporting of the subjects evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.4173
+27,How has the reporting of the objects of study / treatments evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.4879
+28,How has the reporting of the tasks evolved over time?,How do empirical studies address the complexity of software engineering tasks and processes?,0.4396
+29,How has the reporting of the setting evolved over time?,What are the guidelines for reporting empirical software engineering research findings?,0.3665
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,How are empirical findings in software engineering translated into practical guidelines for practitioners?,0.4798
+31,How has the the reporting of the population evolved over time?,How do empirical studies contribute to understanding software maintenance and evolution?,0.3592
+32,How has the reporting of the context evolved over time?,What are the guidelines for reporting empirical software engineering research findings?,0.3702
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,How do empirical studies address the trade-offs in software engineering design decisions?,0.3457
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How do empirical studies account for the variability in software development contexts?,0.3195
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,How do empirical studies address the trade-offs in software engineering design decisions?,0.3424
+36,Do the authors report the selected context of their study with specific characteristics?,What are the guidelines for reporting empirical software engineering research findings?,0.4678
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,What are the common types of empirical research designs used in software engineering?,0.4166
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How do empirical studies contribute to understanding software maintenance and evolution?,0.5215
+39,How has the reporting of research questions and answers evolved over time?,What are the guidelines for reporting empirical software engineering research findings?,0.5075
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.4057
+41,Do the authors use a well defined taxonomy for their research design?,What are the common types of empirical research designs used in software engineering?,0.4741
+42,Do the authors use other channels to publish their results for making them available to industrial users?,What are the success stories of industry-academia collaborations in empirical software engineering research?,0.4104
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What role does systematic review play in empirical software engineering research?,0.6633
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",What role does systematic review play in empirical software engineering research?,0.6923
+45,Have the authors done a systematic review of related work?,What role does systematic review play in empirical software engineering research?,0.6068
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",What role does systematic review play in empirical software engineering research?,0.5651
+47,How many publications are analyzed in (systematic literature) reviews?,What role does systematic review play in empirical software engineering research?,0.6113
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",How are empirical findings in software engineering translated into practical guidelines for practitioners?,0.5028
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What role does systematic review play in empirical software engineering research?,0.5506
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",How are empirical software engineering studies documented and shared within the research community?,0.3748
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,What role does systematic review play in empirical software engineering research?,0.4799
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What role does systematic review play in empirical software engineering research?,0.4793
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How do empirical software engineering studies ensure the reliability and validity of their results?,0.5903
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How has the quality of empirical software engineering studies evolved over time?,0.6217
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,How do empirical methods support the development of evidence-based software engineering practices?,0.5269
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,What methods are used to synthesize evidence from multiple empirical software engineering studies?,0.5558
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,How do qualitative and quantitative empirical methods complement each other in software engineering research?,0.5878
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,In what ways are empirical methods underutilized in software engineering research?,0.614
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,How has the focus on empirical methods in software engineering changed since the 1970s?,0.5594
+60,How many different empirical methods are used per publication?,How does the application of empirical methods vary across different subfields of software engineering?,0.7317
+61,How has the number of empirical methods used per publication evolved over time?,How does the application of empirical methods vary across different subfields of software engineering?,0.7224
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What methods are used to synthesize evidence from multiple empirical software engineering studies?,0.754
+63,How many studies incorporate theories?,How do empirical methods contribute to theory building in software engineering?,0.4983
+64,How has the incorporation of theories in studies evolved over time?,How do empirical methods contribute to theory building in software engineering?,0.5003
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",How do empirical methods contribute to theory building in software engineering?,0.4687
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How do empirical methods contribute to theory building in software engineering?,0.3197
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How do empirical methods contribute to theory building in software engineering?,0.3859
+68,How many theories from the SE and RE are there?,How do empirical methods contribute to theory building in software engineering?,0.3877
+69,How has the number of theories from SE and RE evolved over time?,How do empirical studies contribute to the development of new software engineering models and theories?,0.4469
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How do empirical methods contribute to theory building in software engineering?,0.2782
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,How do empirical methods contribute to theory building in software engineering?,0.3534
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How do empirical methods contribute to theory building in software engineering?,0.3836
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",What role do empirical studies play in software engineering standards development?,0.4389
+74,How often are standards used to describe the theories incorporated?,How do empirical methods contribute to theory building in software engineering?,0.4218
+75,How has the use of standards to describe the theories incorporated evolved over time?,What role do empirical studies play in software engineering standards development?,0.4605
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,What role does systematic review play in empirical software engineering research?,0.4746

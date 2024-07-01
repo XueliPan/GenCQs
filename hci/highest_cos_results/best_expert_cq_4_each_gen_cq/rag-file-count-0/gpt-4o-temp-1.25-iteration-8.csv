@@ -1,16 +1,16 @@
 ,genCQs,best_expertCQs,best_cos_score
-0,What are the main components involved in human-computer interaction?,What is a human–computer interaction?,0.7796
-1,How is user experience evaluated in the context of human-computer interaction?,How can a user interact in human–computer interactions?,0.6867
-2,What are the different types of user interfaces in human-computer interaction?,What is a human–computer interaction?,0.7334
-3,How do users perform tasks within a computational system?,How is a user input processed by an interactive computer system?,0.6376
-4,What factors influence the usability of a computer system?,What does make up the user interface of an interactive computer system?,0.6238
-5,How is feedback provided to users in an interactive system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.676
-6,What are the primary methods for assessing user satisfaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.495
-7,How is accessibility determined in human-computer interaction?,How can a user interact in human–computer interactions?,0.5793
-8,What are the key principles of user-centered design?,What does make up a complex user participation?,0.4818
-9,How do users navigate within an interactive system?,How is a user input processed by an interactive computer system?,0.6487
-10,What are the common models of user interaction?,How can a user interact in human–computer interactions?,0.7038
-11,How is error handling managed in human-computer interfaces?,How can a user interact in human–computer interactions?,0.5297
-12,What role does information architecture play in human-computer interaction?,What is a complex interactive computer system?,0.5939
-13,How is cognitive load measured and managed in human-computer interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4667
-14,What are the ethical considerations in designing human-computer interfaces?,What is a human–computer interaction?,0.5947
+0,What are the primary components involved in human-computer interaction systems?,What is a human–computer interaction?,0.7348
+1,How are user interfaces classified in terms of interaction paradigms?,What does make up the user interface of an interactive computer system?,0.6531
+2,What metrics are used to evaluate user experience in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.521
+3,"What role do human factors, such as cognitive load and ergonomics, play in HCI?",What is a human–computer interaction?,0.5217
+4,Which methodologies are commonly used for usability testing?,What is a human–computer interaction?,0.3768
+5,How is user feedback incorporated into the design process?,What does make up a complex user participation?,0.4587
+6,What are the different types of input devices used in HCI?,How is a user input processed by an interactive computer system?,0.4903
+7,How does the system adapt to user preferences and behaviors?,What does make up the user interface of an interactive computer system?,0.5528
+8,What are the main principles of accessibility in HCI?,What does make up the user interface of an interactive computer system?,0.4392
+9,How can task analysis be applied to improving human-computer interaction?,What is a human–computer interaction?,0.6025
+10,How do interactive systems support collaborative work?,What is an interactive computer system?,0.6716
+11,What are the security and privacy considerations in HCI?,How can a user interact in human–computer interactions?,0.3709
+12,How is emotional response measured and utilized in HCI design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4696
+13,What are the common challenges and solutions in natural language interaction?,How can a user interact in human–computer interactions?,0.4701
+14,How do multi-modal interaction systems integrate different forms of input and output?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5759

@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What cognitive processes are involved in interacting with computers?,0.6226
-1,What is an interactive software system?,What cognitive processes are involved in interacting with computers?,0.5097
-2,What is a complex interactive computer system?,What cognitive processes are involved in interacting with computers?,0.6378
-3,What does make up the user interface of an interactive computer system?,What are the main categories of user interface components?,0.6283
-4,What is a User?,How does context influence user interactions with computer systems?,0.3476
-5,How can a user interact in human–computer interactions?,What are the primary types of interactions between humans and computers?,0.7722
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What cognitive processes are involved in interacting with computers?,0.6111
-7,Why does a user intentionally interact with an interactive computer system?,How does context influence user interactions with computer systems?,0.6331
-8,What does make up a complex user participation?,What cognitive processes are involved in interacting with computers?,0.4779
-9,What is a human–computer interaction?,What are the primary types of interactions between humans and computers?,0.7532
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How does context influence user interactions with computer systems?,0.5206
-11,How is a user input processed by an interactive computer system?,What cognitive processes are involved in interacting with computers?,0.5628
-12,How does a user receive an output from an interactive computer system?,What role does feedback play in Human-Computer Interaction?,0.4923
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What role does feedback play in Human-Computer Interaction?,0.5458
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is usability measured in Human-Computer Interaction?,0.5931
+0,What is an interactive computer system?,What are the fundamental components involved in human-computer interaction?,0.6484
+1,What is an interactive software system?,What role does feedback play in user interaction with computer systems?,0.5703
+2,What is a complex interactive computer system?,What are the fundamental components involved in human-computer interaction?,0.6728
+3,What does make up the user interface of an interactive computer system?,What are the fundamental components involved in human-computer interaction?,0.7067
+4,What is a User?,What methods are used to evaluate user satisfaction with a software application?,0.3199
+5,How can a user interact in human–computer interactions?,What are the fundamental components involved in human-computer interaction?,0.7417
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the fundamental components involved in human-computer interaction?,0.5562
+7,Why does a user intentionally interact with an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.6217
+8,What does make up a complex user participation?,What are the fundamental components involved in human-computer interaction?,0.4908
+9,What is a human–computer interaction?,What are the fundamental components involved in human-computer interaction?,0.792
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What role does feedback play in user interaction with computer systems?,0.5147
+11,How is a user input processed by an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.602
+12,How does a user receive an output from an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.5795
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What role does feedback play in user interaction with computer systems?,0.6127
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used to evaluate user satisfaction with a software application?,0.5253

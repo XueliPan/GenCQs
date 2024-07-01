@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the common user goals when interacting with a computer system?,What does make up the user interface of an interactive computer system?,0.6878
+1,What are the common user goals when interacting with a computer system?,Why does a user intentionally interact with an interactive computer system?,0.6840
+2,What are the common user goals when interacting with a computer system?,What is an interactive computer system?,0.6643
+3,What are the common user goals when interacting with a computer system?,How can a user interact in human–computer interactions?,0.6543
+4,How can user interactions be adapted based on their cognitive capabilities?,How can a user interact in human–computer interactions?,0.6529
+5,What are the common user goals when interacting with a computer system?,"Considering intentionality, how can a user interact with an interactive computer system?",0.6461
+6,What are the common user goals when interacting with a computer system?,What is a complex interactive computer system?,0.6351
+7,What role does user feedback play in the iterative design of interactive systems?,What does make up the user interface of an interactive computer system?,0.6315
+8,What role does user feedback play in the iterative design of interactive systems?,What is an interactive computer system?,0.6177
+9,How do environmental factors influence human-computer interaction?,How can a user interact in human–computer interactions?,0.6064
+10,How do environmental factors influence human-computer interaction?,What is a human–computer interaction?,0.6031
+11,What are the common user goals when interacting with a computer system?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.6016
+12,How can user interactions be adapted based on their cognitive capabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5975
+13,What are the common user goals when interacting with a computer system?,How does a user receive an output from an interactive computer system?,0.5948
+14,What role does user feedback play in the iterative design of interactive systems?,What is an interactive software system?,0.5845
+15,What are the common user goals when interacting with a computer system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5793
+16,What are the common user goals when interacting with a computer system?,How is a user input processed by an interactive computer system?,0.5790
+17,What role does user feedback play in the iterative design of interactive systems?,What is a complex interactive computer system?,0.5783
+18,What are the common user goals when interacting with a computer system?,What is an interactive software system?,0.5701
+19,What role does user feedback play in the iterative design of interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.5647
+20,How can user interactions be adapted based on their cognitive capabilities?,Why does a user intentionally interact with an interactive computer system?,0.5623
+21,How does context-aware information help in personalizing user interactions?,How can a user interact in human–computer interactions?,0.5484
+22,What are the common user goals when interacting with a computer system?,What is a human–computer interaction?,0.5453
+23,What role does user feedback play in the iterative design of interactive systems?,How is a user input processed by an interactive computer system?,0.5445
+24,What role does user feedback play in the iterative design of interactive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5367
+25,How can user interactions be adapted based on their cognitive capabilities?,What does make up the user interface of an interactive computer system?,0.5326
+26,How can user interactions be adapted based on their cognitive capabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.5317
+27,How does user experience vary across different input devices?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5131
+28,How does user experience vary across different input devices?,How is a user input processed by an interactive computer system?,0.5118
+29,How do environmental factors influence human-computer interaction?,What does make up the user interface of an interactive computer system?,0.4997
+30,What are the common user goals when interacting with a computer system?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4985
+31,How can user satisfaction be measured in adaptive interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4949
+32,What role does user feedback play in the iterative design of interactive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4938
+33,How can user interactions be adapted based on their cognitive capabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4911
+34,What role does user feedback play in the iterative design of interactive systems?,How does a user receive an output from an interactive computer system?,0.4896
+35,What role does user feedback play in the iterative design of interactive systems?,How can a user interact in human–computer interactions?,0.4849
+36,What are the common user goals when interacting with a computer system?,What does make up a complex user participation?,0.4834
+37,What activities can users perform with a given set of capabilities?,What does make up a complex user participation?,0.4815
+38,How do environmental factors influence human-computer interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4768
+39,How can user interactions be adapted based on their cognitive capabilities?,What does make up a complex user participation?,0.4740
+40,How do environmental factors influence human-computer interaction?,Why does a user intentionally interact with an interactive computer system?,0.4712
+41,How can user interactions be adapted based on their cognitive capabilities?,What is a human–computer interaction?,0.4688
+42,What role does user feedback play in the iterative design of interactive systems?,What is a human–computer interaction?,0.4666
+43,What role does user feedback play in the iterative design of interactive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4658
+44,How does context-aware information help in personalizing user interactions?,Why does a user intentionally interact with an interactive computer system?,0.4623
+45,How can user interactions be adapted based on their cognitive capabilities?,What is an interactive computer system?,0.4545
+46,How can user interactions be adapted based on their cognitive capabilities?,How is a user input processed by an interactive computer system?,0.4520
+47,How can user satisfaction be measured in adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.4502
+48,How can user interactions be adapted based on their cognitive capabilities?,What is a complex interactive computer system?,0.4501
+49,How do environmental factors influence human-computer interaction?,What is a complex interactive computer system?,0.4470
+50,How does user experience vary across different input devices?,What does make up the user interface of an interactive computer system?,0.4464
+51,How can user interactions be adapted based on their cognitive capabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4442
+52,What role does user feedback play in the iterative design of interactive systems?,What does make up a complex user participation?,0.4428
+53,What role does user feedback play in the iterative design of interactive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4401
+54,How do different interaction modalities support users with sensory disabilities?,How can a user interact in human–computer interactions?,0.4373
+55,How does context-aware information help in personalizing user interactions?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4355
+56,How do environmental factors influence human-computer interaction?,What is an interactive computer system?,0.4342
+57,How do environmental factors influence human-computer interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4290
+58,What activities can users perform with a given set of capabilities?,How can a user interact in human–computer interactions?,0.4261
+59,How does context-aware information help in personalizing user interactions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4251
+60,How do environmental factors influence human-computer interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4194
+61,What are the best practices for designing multimodal interfaces for diverse users?,How can a user interact in human–computer interactions?,0.4185
+62,How can user interactions be adapted based on their cognitive capabilities?,What is an interactive software system?,0.4171
+63,What activities can users perform with a given set of capabilities?,What is a User?,0.4167
+64,How does context-aware information help in personalizing user interactions?,What does make up a complex user participation?,0.4150
+65,How does user experience vary across different input devices?,How can a user interact in human–computer interactions?,0.4143
+66,What activities can users perform with a given set of capabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4121
+67,How can user interactions be adapted based on their cognitive capabilities?,How does a user receive an output from an interactive computer system?,0.4073
+68,What activities can users perform with a given set of capabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4070
+69,How does context-aware information help in personalizing user interactions?,What does make up the user interface of an interactive computer system?,0.4021
+70,How do environmental factors influence human-computer interaction?,What does make up a complex user participation?,0.4020
+71,What are the best practices for designing multimodal interfaces for diverse users?,What does make up the user interface of an interactive computer system?,0.3919
+72,What are the best practices for designing multimodal interfaces for diverse users?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3791
+73,What activities can users perform with a given set of capabilities?,What does make up the user interface of an interactive computer system?,0.3786
+74,How does user experience vary across different input devices?,Why does a user intentionally interact with an interactive computer system?,0.3782
+75,How do environmental factors influence human-computer interaction?,How is a user input processed by an interactive computer system?,0.3768
+76,How does user experience vary across different input devices?,How does a user receive an output from an interactive computer system?,0.3756
+77,How does context-aware information help in personalizing user interactions?,What is a human–computer interaction?,0.3726
+78,What activities can users perform with a given set of capabilities?,What is a human–computer interaction?,0.3672
+79,What activities can users perform with a given set of capabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3672
+80,How do different interaction modalities support users with sensory disabilities?,What does make up the user interface of an interactive computer system?,0.3624
+81,What activities can users perform with a given set of capabilities?,What is a complex interactive computer system?,0.3599
+82,How can user satisfaction be measured in adaptive interfaces?,What does make up a complex user participation?,0.3596
+83,What activities can users perform with a given set of capabilities?,What is an interactive software system?,0.3593
+84,How can user satisfaction be measured in adaptive interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3581
+85,How does context-aware information help in personalizing user interactions?,How is a user input processed by an interactive computer system?,0.3559
+86,What activities can users perform with a given set of capabilities?,What is an interactive computer system?,0.3549
+87,What activities can users perform with a given set of capabilities?,Why does a user intentionally interact with an interactive computer system?,0.3538
+88,To what extent do user profiles impact system personalization?,What is a User?,0.3531
+89,How can user satisfaction be measured in adaptive interfaces?,How can a user interact in human–computer interactions?,0.3530
+90,How do different interaction modalities support users with sensory disabilities?,What is a human–computer interaction?,0.3526
+91,How do different interaction modalities support users with sensory disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3512
+92,What are the best practices for designing multimodal interfaces for diverse users?,What does make up a complex user participation?,0.3507
+93,How does context-aware information help in personalizing user interactions?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3495
+94,How can user satisfaction be measured in adaptive interfaces?,What is an interactive computer system?,0.3493
+95,How do environmental factors influence human-computer interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3487
+96,How can user satisfaction be measured in adaptive interfaces?,How is a user input processed by an interactive computer system?,0.3458
+97,How can user satisfaction be measured in adaptive interfaces?,What is a complex interactive computer system?,0.3440
+98,How does user experience vary across different input devices?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3436
+99,How can user satisfaction be measured in adaptive interfaces?,What is an interactive software system?,0.3422
+100,What are the common user goals when interacting with a computer system?,What is a User?,0.3413
+101,How can user interactions be adapted based on their cognitive capabilities?,What is a User?,0.3409
+102,What are the best practices for designing multimodal interfaces for diverse users?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3395
+103,How does context-aware information help in personalizing user interactions?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3385
+104,How can user satisfaction be measured in adaptive interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3376
+105,How do different interaction modalities support users with sensory disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3314
+106,How do environmental factors influence human-computer interaction?,What is an interactive software system?,0.3287
+107,How can user satisfaction be measured in adaptive interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3264
+108,How does user experience vary across different input devices?,What is an interactive computer system?,0.3239
+109,How do different interaction modalities support users with sensory disabilities?,Why does a user intentionally interact with an interactive computer system?,0.3170
+110,What are the best practices for designing multimodal interfaces for diverse users?,Why does a user intentionally interact with an interactive computer system?,0.3168
+111,How can user satisfaction be measured in adaptive interfaces?,How does a user receive an output from an interactive computer system?,0.3127
+112,How can user satisfaction be measured in adaptive interfaces?,What is a human–computer interaction?,0.3106
+113,How does user experience vary across different input devices?,What is a human–computer interaction?,0.3100
+114,To what extent do user profiles impact system personalization?,What does make up a complex user participation?,0.3097
+115,How does user experience vary across different input devices?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3091
+116,To what extent do user profiles impact system personalization?,What does make up the user interface of an interactive computer system?,0.3066
+117,What are the best practices for designing multimodal interfaces for diverse users?,What is a complex interactive computer system?,0.3061
+118,How do different interaction modalities support users with sensory disabilities?,How is a user input processed by an interactive computer system?,0.3057
+119,How do different interaction modalities support users with sensory disabilities?,What does make up a complex user participation?,0.3051
+120,How can user satisfaction be measured in adaptive interfaces?,Why does a user intentionally interact with an interactive computer system?,0.3041
+121,How does context-aware information help in personalizing user interactions?,What is a User?,0.3034
+122,What are the best practices for designing multimodal interfaces for diverse users?,What is a human–computer interaction?,0.2997
+123,How do different interaction modalities support users with sensory disabilities?,What is a complex interactive computer system?,0.2964
+124,How do different interaction modalities support users with sensory disabilities?,What is an interactive computer system?,0.2956
+125,How does user experience vary across different input devices?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2940
+126,How does context-aware information help in personalizing user interactions?,What is an interactive computer system?,0.2933
+127,In what situations do users prefer specific output modalities?,How does a user receive an output from an interactive computer system?,0.2932
+128,How does context-aware information help in personalizing user interactions?,What is a complex interactive computer system?,0.2905
+129,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,How can a user interact in human–computer interactions?,0.2904
+130,What are the best practices for designing multimodal interfaces for diverse users?,What is an interactive computer system?,0.2865
+131,What assistive technologies are recommended for users with motor impairments?,How can a user interact in human–computer interactions?,0.2859
+132,How does context-aware information help in personalizing user interactions?,What is an interactive software system?,0.2840
+133,How do different interaction modalities support users with sensory disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2836
+134,To what extent do user profiles impact system personalization?,Why does a user intentionally interact with an interactive computer system?,0.2805
+135,How does user experience vary across different input devices?,What is a complex interactive computer system?,0.2795
+136,What assistive technologies are recommended for users with motor impairments?,What is a human–computer interaction?,0.2771
+137,How does context-aware information help in personalizing user interactions?,How does a user receive an output from an interactive computer system?,0.2744
+138,What activities can users perform with a given set of capabilities?,How does a user receive an output from an interactive computer system?,0.2743
+139,How does user experience vary across different input devices?,What is an interactive software system?,0.2703
+140,In what situations do users prefer specific output modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2687
+141,What activities can users perform with a given set of capabilities?,How is a user input processed by an interactive computer system?,0.2682
+142,To what extent do user profiles impact system personalization?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2665
+143,What are the best practices for designing multimodal interfaces for diverse users?,What is an interactive software system?,0.2640
+144,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2633
+145,What role does user feedback play in the iterative design of interactive systems?,What is a User?,0.2630
+146,How do environmental factors influence human-computer interaction?,How does a user receive an output from an interactive computer system?,0.2623
+147,What assistive technologies are recommended for users with motor impairments?,What does make up the user interface of an interactive computer system?,0.2616
+148,What activities can users perform with a given set of capabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2610
+149,In what situations do users prefer specific output modalities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2581
+150,To what extent do user profiles impact system personalization?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2572
+151,How do different interaction modalities support users with sensory disabilities?,What is an interactive software system?,0.2520
+152,What assistive technologies are recommended for users with motor impairments?,What is an interactive computer system?,0.2510
+153,How can user satisfaction be measured in adaptive interfaces?,What is a User?,0.2507
+154,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2495
+155,What are the best practices for designing multimodal interfaces for diverse users?,How is a user input processed by an interactive computer system?,0.2468
+156,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What does make up the user interface of an interactive computer system?,0.2367
+157,To what extent do user profiles impact system personalization?,How is a user input processed by an interactive computer system?,0.2341
+158,How do different interaction modalities support users with sensory disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2335
+159,To what extent do user profiles impact system personalization?,How can a user interact in human–computer interactions?,0.2322
+160,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What does make up a complex user participation?,0.2308
+161,What are the best practices for designing multimodal interfaces for diverse users?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2298
+162,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,How is a user input processed by an interactive computer system?,0.2295
+163,How do different interaction modalities support users with sensory disabilities?,How does a user receive an output from an interactive computer system?,0.2257
+164,To what extent do user profiles impact system personalization?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2254
+165,What assistive technologies are recommended for users with motor impairments?,What is a complex interactive computer system?,0.2190
+166,What types of impairments are associated with specific disabilities?,What does make up a complex user participation?,0.2166
+167,What assistive technologies are recommended for users with motor impairments?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2163
+168,What are the best practices for designing multimodal interfaces for diverse users?,How does a user receive an output from an interactive computer system?,0.2157
+169,How does user experience vary across different input devices?,What does make up a complex user participation?,0.2154
+170,What types of impairments are associated with specific disabilities?,What is a human–computer interaction?,0.2149
+171,What assistive technologies are recommended for users with motor impairments?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2125
+172,To what extent do user profiles impact system personalization?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2064
+173,What are the best practices for designing multimodal interfaces for diverse users?,What is a User?,0.2047
+174,How do environmental factors influence human-computer interaction?,What is a User?,0.2030
+175,In what situations do users prefer specific output modalities?,What does make up the user interface of an interactive computer system?,0.2023
+176,In what situations do users prefer specific output modalities?,How is a user input processed by an interactive computer system?,0.1973
+177,How do different interaction modalities support users with sensory disabilities?,What is a User?,0.1963
+178,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1961
+179,What are the best practices for designing multimodal interfaces for diverse users?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1959
+180,In what situations do users prefer specific output modalities?,What does make up a complex user participation?,0.1952
+181,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What is an interactive computer system?,0.1929
+182,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1924
+183,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What is a User?,0.1921
+184,To what extent do user profiles impact system personalization?,What is an interactive computer system?,0.1913
+185,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,Why does a user intentionally interact with an interactive computer system?,0.1880
+186,What types of impairments are associated with specific disabilities?,What does make up the user interface of an interactive computer system?,0.1872
+187,What assistive technologies are recommended for users with motor impairments?,What does make up a complex user participation?,0.1867
+188,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What is a human–computer interaction?,0.1857
+189,What assistive technologies are recommended for users with motor impairments?,What is an interactive software system?,0.1840
+190,What assistive technologies are recommended for users with motor impairments?,How is a user input processed by an interactive computer system?,0.1828
+191,What types of impairments are associated with specific disabilities?,How can a user interact in human–computer interactions?,0.1803
+192,What types of impairments are associated with specific disabilities?,What is a complex interactive computer system?,0.1784
+193,To what extent do user profiles impact system personalization?,How does a user receive an output from an interactive computer system?,0.1779
+194,In what situations do users prefer specific output modalities?,Why does a user intentionally interact with an interactive computer system?,0.1745
+195,To what extent do user profiles impact system personalization?,What is an interactive software system?,0.1742
+196,What assistive technologies are recommended for users with motor impairments?,What is a User?,0.1723
+197,To what extent do user profiles impact system personalization?,What is a complex interactive computer system?,0.1697
+198,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What is a complex interactive computer system?,0.1678
+199,To what extent do user profiles impact system personalization?,What is a human–computer interaction?,0.1653
+200,What assistive technologies are recommended for users with motor impairments?,Why does a user intentionally interact with an interactive computer system?,0.1645
+201,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,What is an interactive software system?,0.1496
+202,What assistive technologies are recommended for users with motor impairments?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1493
+203,What assistive technologies are recommended for users with motor impairments?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1490
+204,What types of impairments are associated with specific disabilities?,What is a User?,0.1471
+205,In what situations do users prefer specific output modalities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1462
+206,What types of impairments are associated with specific disabilities?,What is an interactive computer system?,0.1454
+207,How does user experience vary across different input devices?,What is a User?,0.1424
+208,What kind of adaptive strategies can improve accessibility for users with learning disabilities?,How does a user receive an output from an interactive computer system?,0.1318
+209,What assistive technologies are recommended for users with motor impairments?,How does a user receive an output from an interactive computer system?,0.1300
+210,In what situations do users prefer specific output modalities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1245
+211,What types of impairments are associated with specific disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1235
+212,In what situations do users prefer specific output modalities?,How can a user interact in human–computer interactions?,0.1226
+213,In what situations do users prefer specific output modalities?,What is an interactive computer system?,0.1120
+214,In what situations do users prefer specific output modalities?,What is a User?,0.1095
+215,In what situations do users prefer specific output modalities?,What is a complex interactive computer system?,0.1075
+216,What types of impairments are associated with specific disabilities?,What is an interactive software system?,0.1036
+217,What types of impairments are associated with specific disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1015
+218,What types of impairments are associated with specific disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1006
+219,What types of impairments are associated with specific disabilities?,How is a user input processed by an interactive computer system?,0.0925
+220,In what situations do users prefer specific output modalities?,What is an interactive software system?,0.0901
+221,In what situations do users prefer specific output modalities?,What is a human–computer interaction?,0.0671
+222,What types of impairments are associated with specific disabilities?,How does a user receive an output from an interactive computer system?,0.0654
+223,What types of impairments are associated with specific disabilities?,Why does a user intentionally interact with an interactive computer system?,0.0475
+224,What types of impairments are associated with specific disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.0381

@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How do users interact with a computer system in various contexts?,0.7165
-1,What is an interactive software system?,How do users interact with a computer system in various contexts?,0.6305
-2,What is a complex interactive computer system?,What are the fundamental components of Human-Computer Interaction?,0.6801
-3,What does make up the user interface of an interactive computer system?,How do users interact with a computer system in various contexts?,0.7562
-4,What is a User?,How do users interact with a computer system in various contexts?,0.4979
-5,How can a user interact in human–computer interactions?,How do users interact with a computer system in various contexts?,0.7947
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with a computer system in various contexts?,0.7682
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with a computer system in various contexts?,0.7741
-8,What does make up a complex user participation?,Which models and theories are pertinent to understanding user interactions in HCI?,0.532
-9,What is a human–computer interaction?,What are the fundamental components of Human-Computer Interaction?,0.8051
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with a computer system in various contexts?,0.5723
-11,How is a user input processed by an interactive computer system?,How do users interact with a computer system in various contexts?,0.6937
-12,How does a user receive an output from an interactive computer system?,How do users interact with a computer system in various contexts?,0.6649
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with a computer system in various contexts?,0.6794
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,Which methods are used to evaluate user experience in HCI?,0.5225
+0,What is an interactive computer system?,What types of user interactions are possible with computer systems?,0.75
+1,What is an interactive software system?,What types of user interactions are possible with computer systems?,0.668
+2,What is a complex interactive computer system?,What types of user interactions are possible with computer systems?,0.7014
+3,What does make up the user interface of an interactive computer system?,What types of user interactions are possible with computer systems?,0.7583
+4,What is a User?,How do different user populations vary in their interaction with computer systems?,0.4797
+5,How can a user interact in human–computer interactions?,What types of user interactions are possible with computer systems?,0.8156
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What types of user interactions are possible with computer systems?,0.7257
+7,Why does a user intentionally interact with an interactive computer system?,What types of user interactions are possible with computer systems?,0.729
+8,What does make up a complex user participation?,What types of user interactions are possible with computer systems?,0.5104
+9,What is a human–computer interaction?,What cognitive processes are involved in human-computer interaction?,0.7718
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What types of user interactions are possible with computer systems?,0.5499
+11,How is a user input processed by an interactive computer system?,What types of user interactions are possible with computer systems?,0.6659
+12,How does a user receive an output from an interactive computer system?,What types of user interactions are possible with computer systems?,0.6113
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What types of user interactions are possible with computer systems?,0.6407
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How can user needs and goals be effectively captured and integrated into system design?,0.5736

@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the fundamental concepts defined within the Human-Computer Interaction (HCI) domain?,What is a human–computer interaction?,0.7475
+1,How is a user profile represented in the HCI ontology?,What is a User?,0.4273
+2,What are the different input and output modalities considered in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.493
+3,How does the ontology model the relationship between users and interaction modalities?,How can a user interact in human–computer interactions?,0.4959
+4,What kinds of sensory and motor abilities need to be included in the user profile?,What does make up the user interface of an interactive computer system?,0.4039
+5,How does the ontology support adaptive user interfaces for people with disabilities?,What does make up the user interface of an interactive computer system?,0.4366
+6,What are the different adaptation rules defined for modifying the user interface based on user characteristics?,What does make up the user interface of an interactive computer system?,0.4403
+7,How are input modes and output modes distinguished in the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3989
+8,How does the ontology integrate user preferences and skill levels?,What does make up a complex user participation?,0.3555
+9,How can the HCI ontology be used to derive high-level adaptations from low-level data?,What is a complex interactive computer system?,0.2995
+10,In what ways can the HCI ontology facilitate multimodal interaction systems?,How can a user interact in human–computer interactions?,0.5571
+11,What methods are employed to infer new information within the HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.284
+12,How does the ontology handle dynamic updates to a user's profile and preferences?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2426
+13,What inferencing techniques are used to ensure the consistency and reliability of the ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2087
+14,How can the HCI ontology be extended to include new interaction modes and modalities?,What is a complex interactive computer system?,0.3842

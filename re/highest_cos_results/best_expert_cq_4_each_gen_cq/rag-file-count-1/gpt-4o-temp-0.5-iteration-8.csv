@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the major challenges in applying empirical research methods in SE?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6249
+1,How can academia and industry collaboration be improved to advance empirical SE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.512
+2,What are the different types of empirical methods used in SE research?,How often are which empirical methods used?,0.8166
+3,How does the quality of empirical studies in SE impact the development of new technologies?,How many empirical studies are by authors working for large software development companies?,0.6398
+4,What are the historical trends in the use of empirical methods in SE research?,How has the number of empirical methods used per publication evolved over time?,0.7848
+5,How many empirical SE studies are needed annually to meet current research demands?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6634
+6,What are the primary research methods in SE?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.6281
+7,How can the relevance of empirical SE studies to industry be increased?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.645
+8,What are the common threats to the validity of empirical SE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6828
+9,What types of systematic reviews are necessary in SE?,How many publications are analyzed in (systematic literature) reviews?,0.6973
+10,What role does meta-analysis play in empirical SE research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5993
+11,How does the quality of experiments in SE impact trust in empirical results?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5272
+12,What are the benefits and risks of industry collaboration in empirical SE studies?,How many empirical studies are by authors working for large software development companies?,0.46
+13,How can SE researchers build on previous research results from other disciplines?,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",0.6621
+14,How should empirical SE studies handle statistical generalization and theory building?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6588
+15,What are the typical archetype classes in SE?,How often are standards used to describe the theories incorporated?,0.3808
+16,How can the SE community increase funding for comprehensive empirical studies?,How has the proportion of empirical studies evolved over time?,0.5337
+17,"What are the possible biases in empirical SE studies, particularly in replications?",How has the proportion of empirical studies evolved over time?,0.6206
+18,How can systematic reviews minimize biases in SE research?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.6981
+19,What is the vision for empirical methods in SE by 2025?,How has the number of empirical methods used per publication evolved over time?,0.6913
+20,How should new SE technology be empirically evaluated?,How do the authors justify the selection and combination of empirical methods and design elements?,0.535
+21,What is the significance of conducting longitudinal case studies in SE?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5824
+22,How can empirical evidence be synthesized to support SE practices?,Which methods are used to synthesize evidence from data of different empirical methods?,0.647
+23,What guidelines exist for performing systematic reviews in SE?,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",0.6692
+24,What is the impact of empirical SE research on software project control?,How many empirical studies are by authors working for large software development companies?,0.6589
+25,How can empirical SE studies ensure robust and generalizable results?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6226
+26,What are the most important factors in designing high-quality empirical SE studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6444
+27,How can empirical SE researchers overcome the challenges of small sample sizes?,How many empirical studies are by authors working for large software development companies?,0.5129
+28,What is the current state of empirical research publications in major SE journals?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6782
+29,How can SE researchers be trained in diverse research methods and techniques?,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,0.5283
+30,What are the characteristics of high-quality empirical SE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6902
+31,How can the relevance of SE studies to practical software development be enhanced?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.6163
+32,What are the common misconceptions about the use of case studies in SE research?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.6698
+33,How do personal biases affect the outcomes of empirical SE studies?,How do the authors justify preventing bias in the study results?,0.6727
+34,How can empirical SE studies achieve better triangulation of research designs?,How has the use of triangulation for research design evolved over time?,0.7152
+35,What are the recommended guidelines for conducting action research in SE?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.4964
+36,How can the SE community prioritize high-impact empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5675
+37,What are the limitations and assumptions of statistical methods in SE research?,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.8462
+38,How can the scope of validity of empirical SE studies be explicitly defined?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6625
+39,What are the major trends in the publication of controlled experiments in SE?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.6022
+40,How can research synthesis contribute to evidence-based SE?,Which methods are used to synthesize evidence from data of different empirical methods?,0.5574
+41,What are the typical design elements that strengthen empirical SE studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.681
+42,How can SE researchers enhance the credibility of their studies in industrial contexts?,How do the authors justify preventing bias in the study results?,0.528
+43,What is the role of theory in empirical SE research?,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",0.6205
+44,How can empirical research methods in SE guide the development of new technologies?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5944
+45,What are the differences between qualitative and quantitative methods in SE research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.48
+46,How can SE researchers improve their skills in conducting surveys and case studies?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5329
+47,How can empirical SE studies incorporate the perspectives of industry practitioners?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6087
+48,What are the common challenges in conducting high-quality empirical SE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6625
+49,How can SE researchers minimize the risk of drawing incorrect conclusions?,How do the authors justify preventing bias in the study results?,0.612
+50,What is the importance of power analysis and effect size estimation in SE experiments?,How has the use of power analysis and effect size estimation evolved over time?,0.8755
+51,How can empirical SE studies be designed to avoid vested interests and biases?,How do the authors justify preventing bias in the study results?,0.6521
+52,What are the potential benefits of involving PhD students in industry for empirical studies?,How many empirical studies are by authors working for large software development companies?,0.3837
+53,How can empirical SE studies balance the need for relevance and exploration?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6581
+54,What are the general procedures for performing systematic reviews in SE?,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",0.6539
+55,How can the SE community achieve the vision of 2000 high-quality empirical studies annually?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6135
+56,What are the implications of underfunding empirical SE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4366
+57,How can SE researchers ensure that their studies are methodologically sound?, How do the authors justify the lack of a proper study?,0.6369
+58,What are the key components of evidence-based SE?,Which methods are used to synthesize evidence from data of different empirical methods?,0.5294
+59,How can the application of empirical methods in SE be expanded and improved?,How often are which empirical methods used?,0.7558
+60,What are the best practices for designing and conducting SE experiments?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4006
+61,How can empirical SE studies handle the diversity of software systems and contexts?,How many empirical studies are by authors working for large software development companies?,0.577
+62,What are the major sources of evidence in empirical SE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7366
+63,How can SE researchers effectively communicate their empirical findings?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.6013
+64,What are the criteria for evaluating the impact of empirical SE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6842
+65,How can SE curricula incorporate empirical research methods and theory building?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5987
+66,What are the emerging trends in empirical SE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7362
+67,How can empirical SE studies be made more cost-effective?,How has the proportion of empirical studies evolved over time?,0.6434
+68,What are the roles of different types of evidence in supporting SE decisions?,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,0.5141
+69,How can the SE community promote a culture of high-quality empirical research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4958
+70,What are the key challenges in empirical SE research related to construct validity?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6192
+71,How can empirical SE research better address the complexities of real-world software development?,How many empirical studies are by authors working for large software development companies?,0.6386
+72,What are the potential trade-offs between internal and external validity in empirical SE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5158
+73,How can SE researchers increase the replicability of their empirical studies?,How has the proportion of empirical studies evolved over time?,0.6515
+74,What are the characteristics of a high-quality systematic review in SE?,How many publications are analyzed in (systematic literature) reviews?,0.6566
+75,How can SE researchers improve their understanding and use of meta-analysis?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5782
+76,What is the impact of empirical SE research on improving software processes and technologies?,How many empirical studies are by authors working for large software development companies?,0.6377

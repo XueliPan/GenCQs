@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.6981
+1,How often are which empirical methods used over time?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.8042
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,What are the common themes found across different empirical RE studies?,0.7263
+3, How do the authors justify the lack of a proper study?,What are the major problems in RE that empirical studies have repeatedly identified?,0.5889
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5909
+5,How many empirical studies are by authors working for large software development companies?,What role do empirical RE studies play in policy-making for software development projects?,0.6035
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5842
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5996
+8,How do the authors justify the selection and combination of empirical methods and design elements?,What methodologies are most commonly used in empirical RE research?,0.6416
+9,How often are which empirical methods used?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.79
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.6977
+11,How has the proportion of replications evolved over time?,How are RE practices evolving according to recent empirical research?,0.3625
+12,How has the use of triangulation for research design evolved over time?,What methodologies are most commonly used in empirical RE research?,0.4469
+13,How often are those who conduct the studies also the authors of the papers?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.4662
+14,How do the authors justify preventing bias in the study results?,What are the major problems in RE that empirical studies have repeatedly identified?,0.5369
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How can empirical evidence be synthesized to guide RE practices?,0.4911
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.6612
+17,How often are which statistical methods used?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.7048
+18,How has the use of statistical methods evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5697
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5318
+20,How has the definition of the population evolved over time?,What trends have been identified in the adoption of RE practices over time?,0.3036
+21,How has the use of power analysis and effect size estimation evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.3833
+22,How has the reporting of threats to validity evolved over time?,How can the findings of empirical studies be effectively communicated to practitioners?,0.4021
+23,What types of threats to validity do the authors report?,What are the major problems in RE that empirical studies have repeatedly identified?,0.4764
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,What new theories have been developed based on empirical evidence in RE?,0.5888
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.7152
+26,How has the reporting of the subjects evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.4459
+27,How has the reporting of the objects of study / treatments evolved over time?,How can the findings of empirical studies be effectively communicated to practitioners?,0.5719
+28,How has the reporting of the tasks evolved over time?,How can empirical surveys be designed to predict future trends in RE practices?,0.4722
+29,How has the reporting of the setting evolved over time?,What trends have been identified in the adoption of RE practices over time?,0.4437
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,What recommendations can be derived from empirical RE studies to improve industrial practices?,0.5393
+31,How has the the reporting of the population evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.3971
+32,How has the reporting of the context evolved over time?,"How does the context of a study (e.g., industry, location) affect its findings on RE practices?",0.4163
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What are the common themes found across different empirical RE studies?,0.3816
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,What are the common themes found across different empirical RE studies?,0.3491
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,What are the common themes found across different empirical RE studies?,0.4028
+36,Do the authors report the selected context of their study with specific characteristics?,How can the findings of empirical studies be effectively communicated to practitioners?,0.6199
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,How are empirical studies replicating findings across different RE projects?,0.5828
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5202
+39,How has the reporting of research questions and answers evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5686
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.3957
+41,Do the authors use a well defined taxonomy for their research design?,How does the terminology of different researchers affect the interpretation of their empirical studies on RE?,0.466
+42,Do the authors use other channels to publish their results for making them available to industrial users?,What role does industry-academic collaboration play in advancing empirical RE research?,0.4151
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",How can the findings of empirical studies be effectively communicated to practitioners?,0.6486
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.7023
+45,Have the authors done a systematic review of related work?,How can the findings of empirical studies be effectively communicated to practitioners?,0.4492
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5659
+47,How many publications are analyzed in (systematic literature) reviews?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.5137
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",What recommendations can be derived from empirical RE studies to improve industrial practices?,0.5068
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",How can the findings of empirical studies be effectively communicated to practitioners?,0.4961
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",What are the primary sources of data for empirical RE research?,0.3997
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,How does the terminology of different researchers affect the interpretation of their empirical studies on RE?,0.4834
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are the primary sources of data for empirical RE research?,0.4804
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How can the findings of empirical studies be effectively communicated to practitioners?,0.5946
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.6894
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.5713
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,How do recent empirical studies compare with earlier research in terms of their findings and methodologies?,0.6555
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,What role do thematic analysis play in the synthesis of empirical RE studies?,0.6543
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What role do thematic analysis play in the synthesis of empirical RE studies?,0.6519
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,What factors contribute to the codification and standardization of RE practices in empirical studies?,0.5815
+60,How many different empirical methods are used per publication?,What methodologies are most commonly used in empirical RE research?,0.7068
+61,How has the number of empirical methods used per publication evolved over time?,How frequently are empirical methods such as surveys and experiments used in RE research compared to other methods?,0.7335
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What methodologies are most commonly used in empirical RE research?,0.7216
+63,How many studies incorporate theories?,What new theories have been developed based on empirical evidence in RE?,0.6692
+64,How has the incorporation of theories in studies evolved over time?,What new theories have been developed based on empirical evidence in RE?,0.6391
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",What new theories have been developed based on empirical evidence in RE?,0.472
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",What new theories have been developed based on empirical evidence in RE?,0.5531
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",What new theories have been developed based on empirical evidence in RE?,0.6277
+68,How many theories from the SE and RE are there?,What new theories have been developed based on empirical evidence in RE?,0.728
+69,How has the number of theories from SE and RE evolved over time?,What new theories have been developed based on empirical evidence in RE?,0.6099
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",What new theories have been developed based on empirical evidence in RE?,0.4952
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,What new theories have been developed based on empirical evidence in RE?,0.5373
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,What new theories have been developed based on empirical evidence in RE?,0.4978
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",What factors contribute to the codification and standardization of RE practices in empirical studies?,0.4537
+74,How often are standards used to describe the theories incorporated?,What new theories have been developed based on empirical evidence in RE?,0.488
+75,How has the use of standards to describe the theories incorporated evolved over time?,What new theories have been developed based on empirical evidence in RE?,0.5092
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,What new theories have been developed based on empirical evidence in RE?,0.4477

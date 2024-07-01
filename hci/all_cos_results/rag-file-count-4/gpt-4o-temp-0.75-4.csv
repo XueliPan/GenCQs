@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the physical devices used for input and output interactions in different contexts?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6227
+1,What are the physical devices used for input and output interactions in different contexts?,How is a user input processed by an interactive computer system?,0.5804
+2,What contextual information is considered for personalizing user interactions?,How can a user interact in human–computer interactions?,0.5649
+3,What are the physical devices used for input and output interactions in different contexts?,How does a user receive an output from an interactive computer system?,0.5562
+4,What are the key parameters for designing adaptive user interfaces?,What does make up the user interface of an interactive computer system?,0.5497
+5,What are the physical devices used for input and output interactions in different contexts?,What does make up the user interface of an interactive computer system?,0.5306
+6,What are the core concepts related to user profiles and their interaction capabilities?,What does make up a complex user participation?,0.5213
+7,How can input and output modalities be adapted based on user characteristics?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5165
+8,What are the semantic relationships between the different interaction concepts?,How can a user interact in human–computer interactions?,0.5128
+9,What interaction modes are supported for users with different sensory and motor abilities?,How can a user interact in human–computer interactions?,0.5049
+10,How is multimodal interaction represented and managed in the ontology?,How can a user interact in human–computer interactions?,0.5039
+11,What are the semantic relationships between the different interaction concepts?,What is a human–computer interaction?,0.4984
+12,What are the core concepts related to user profiles and their interaction capabilities?,What does make up the user interface of an interactive computer system?,0.4976
+13,How is multimodal interaction represented and managed in the ontology?,What is a complex interactive computer system?,0.4935
+14,What are the physical devices used for input and output interactions in different contexts?,What is an interactive computer system?,0.4891
+15,What interaction modes are supported for users with different sensory and motor abilities?,What does make up the user interface of an interactive computer system?,0.4760
+16,What are the semantic relationships between the different interaction concepts?,What does make up the user interface of an interactive computer system?,0.4753
+17,How is multimodal interaction represented and managed in the ontology?,What does make up the user interface of an interactive computer system?,0.4747
+18,What are the semantic relationships between the different interaction concepts?,What is a complex interactive computer system?,0.4732
+19,What are the core concepts related to user profiles and their interaction capabilities?,What is a User?,0.4621
+20,How is multimodal interaction represented and managed in the ontology?,What is a human–computer interaction?,0.4619
+21,How can input and output modalities be adapted based on user characteristics?,How is a user input processed by an interactive computer system?,0.4618
+22,What are the core concepts related to user profiles and their interaction capabilities?,How can a user interact in human–computer interactions?,0.4607
+23,What are the physical devices used for input and output interactions in different contexts?,What is a complex interactive computer system?,0.4569
+24,What are the key parameters for designing adaptive user interfaces?,How can a user interact in human–computer interactions?,0.4564
+25,What are the physical devices used for input and output interactions in different contexts?,How can a user interact in human–computer interactions?,0.4542
+26,How can the adaptability of the user interface improve user experience for people with disabilities?,What does make up the user interface of an interactive computer system?,0.4531
+27,How is multimodal interaction represented and managed in the ontology?,What is an interactive computer system?,0.4523
+28,How can the adaptability of the user interface improve user experience for people with disabilities?,How can a user interact in human–computer interactions?,0.4517
+29,What contextual information is considered for personalizing user interactions?,What does make up the user interface of an interactive computer system?,0.4443
+30,How are interaction components categorized in the ontology?,What does make up the user interface of an interactive computer system?,0.4424
+31,What interaction modes are supported for users with different sensory and motor abilities?,What is a human–computer interaction?,0.4419
+32,What are the physical devices used for input and output interactions in different contexts?,What is a human–computer interaction?,0.4406
+33,What methods are used to measure and adapt to different user capabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4366
+34,What contextual information is considered for personalizing user interactions?,What is a human–computer interaction?,0.4356
+35,What contextual information is considered for personalizing user interactions?,Why does a user intentionally interact with an interactive computer system?,0.4351
+36,How are interaction components categorized in the ontology?,What is a complex interactive computer system?,0.4347
+37,How is multimodal interaction represented and managed in the ontology?,What is an interactive software system?,0.4342
+38,What contextual information is considered for personalizing user interactions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4341
+39,How is multimodal interaction represented and managed in the ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4340
+40,How can input and output modalities be adapted based on user characteristics?,How does a user receive an output from an interactive computer system?,0.4339
+41,What contextual information is considered for personalizing user interactions?,What does make up a complex user participation?,0.4337
+42,What are the semantic relationships between the different interaction concepts?,What is an interactive computer system?,0.4274
+43,What methods are used to measure and adapt to different user capabilities?,What does make up a complex user participation?,0.4222
+44,What methods are used to measure and adapt to different user capabilities?,What is a User?,0.4215
+45,What are the semantic relationships between the different interaction concepts?,What is an interactive software system?,0.4192
+46,What are the key parameters for designing adaptive user interfaces?,What is a human–computer interaction?,0.4174
+47,What rules are used to adapt the user interface to different disabilities?,What does make up the user interface of an interactive computer system?,0.4098
+48,What are the physical devices used for input and output interactions in different contexts?,Why does a user intentionally interact with an interactive computer system?,0.4089
+49,What contextual information is considered for personalizing user interactions?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4068
+50,What interaction modes are supported for users with different sensory and motor abilities?,What is a complex interactive computer system?,0.4058
+51,How is multimodal interaction represented and managed in the ontology?,How is a user input processed by an interactive computer system?,0.4053
+52,What interaction modes are supported for users with different sensory and motor abilities?,What is an interactive computer system?,0.4052
+53,How is multimodal interaction represented and managed in the ontology?,Why does a user intentionally interact with an interactive computer system?,0.4035
+54,What are the core concepts related to user profiles and their interaction capabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4033
+55,What are the key parameters for designing adaptive user interfaces?,What is a complex interactive computer system?,0.4031
+56,What are the physical devices used for input and output interactions in different contexts?,What is an interactive software system?,0.4023
+57,What rules are used to adapt the user interface to different disabilities?,How can a user interact in human–computer interactions?,0.4005
+58,How are interaction components categorized in the ontology?,What is a human–computer interaction?,0.4000
+59,What are the key parameters for designing adaptive user interfaces?,What is an interactive computer system?,0.3966
+60,What interaction modes are supported for users with different sensory and motor abilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3964
+61,How are interaction components categorized in the ontology?,What is an interactive computer system?,0.3952
+62,How is multimodal interaction represented and managed in the ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3944
+63,What are the core concepts related to user profiles and their interaction capabilities?,What is a human–computer interaction?,0.3896
+64,How are interaction components categorized in the ontology?,How can a user interact in human–computer interactions?,0.3874
+65,What are the core concepts related to user profiles and their interaction capabilities?,What is a complex interactive computer system?,0.3862
+66,How is multimodal interaction represented and managed in the ontology?,What does make up a complex user participation?,0.3859
+67,What are the physical devices used for input and output interactions in different contexts?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3847
+68,What are the core concepts related to user profiles and their interaction capabilities?,Why does a user intentionally interact with an interactive computer system?,0.3820
+69,How can the adaptability of the user interface improve user experience for people with disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3804
+70,How are interaction components categorized in the ontology?,What is an interactive software system?,0.3779
+71,What contextual information is considered for personalizing user interactions?,What is a User?,0.3778
+72,What methods are used to measure and adapt to different user capabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3756
+73,What are the core concepts related to user profiles and their interaction capabilities?,What is an interactive computer system?,0.3746
+74,What are the key parameters for designing adaptive user interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3740
+75,How can input and output modalities be adapted based on user characteristics?,What does make up the user interface of an interactive computer system?,0.3702
+76,What are the semantic relationships between the different interaction concepts?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3699
+77,What are the key parameters for designing adaptive user interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3682
+78,What are the key parameters for designing adaptive user interfaces?,How is a user input processed by an interactive computer system?,0.3673
+79,What interaction modes are supported for users with different sensory and motor abilities?,How is a user input processed by an interactive computer system?,0.3668
+80,What are the core concepts related to user profiles and their interaction capabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3667
+81,How can the adaptability of the user interface improve user experience for people with disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3648
+82,What interaction modes are supported for users with different sensory and motor abilities?,Why does a user intentionally interact with an interactive computer system?,0.3634
+83,What are the key parameters for designing adaptive user interfaces?,What is an interactive software system?,0.3603
+84,What are the key parameters for designing adaptive user interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3581
+85,What are the semantic relationships between the different interaction concepts?,Why does a user intentionally interact with an interactive computer system?,0.3561
+86,What are the semantic relationships between the different interaction concepts?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3556
+87,How can the adaptability of the user interface improve user experience for people with disabilities?,What is a human–computer interaction?,0.3555
+88,How can the system infer the best modality for a particular user based on their profile?,What is a User?,0.3554
+89,What contextual information is considered for personalizing user interactions?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3529
+90,What contextual information is considered for personalizing user interactions?,How is a user input processed by an interactive computer system?,0.3526
+91,What are the semantic relationships between the different interaction concepts?,What does make up a complex user participation?,0.3507
+92,What contextual information is considered for personalizing user interactions?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3491
+93,What are the semantic relationships between the different interaction concepts?,How is a user input processed by an interactive computer system?,0.3475
+94,What contextual information is considered for personalizing user interactions?,What is an interactive computer system?,0.3449
+95,What are the core concepts related to user profiles and their interaction capabilities?,What is an interactive software system?,0.3444
+96,What rules are used to adapt the user interface to different disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3443
+97,How are interaction components categorized in the ontology?,What does make up a complex user participation?,0.3441
+98,What are the core concepts related to user profiles and their interaction capabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3440
+99,How is multimodal interaction represented and managed in the ontology?,How does a user receive an output from an interactive computer system?,0.3438
+100,What are the core concepts related to user profiles and their interaction capabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3424
+101,How is multimodal interaction represented and managed in the ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3401
+102,What are the key parameters for designing adaptive user interfaces?,Why does a user intentionally interact with an interactive computer system?,0.3381
+103,What are the key parameters for designing adaptive user interfaces?,What does make up a complex user participation?,0.3376
+104,How can the adaptability of the user interface improve user experience for people with disabilities?,Why does a user intentionally interact with an interactive computer system?,0.3368
+105,How can input and output modalities be adapted based on user characteristics?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3336
+106,What contextual information is considered for personalizing user interactions?,What is a complex interactive computer system?,0.3318
+107,What methods are used to measure and adapt to different user capabilities?,How can a user interact in human–computer interactions?,0.3312
+108,What contextual information is considered for personalizing user interactions?,What is an interactive software system?,0.3311
+109,What interaction modes are supported for users with different sensory and motor abilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3308
+110,What interaction modes are supported for users with different sensory and motor abilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3307
+111,What methods are used to measure and adapt to different user capabilities?,What does make up the user interface of an interactive computer system?,0.3294
+112,What interaction modes are supported for users with different sensory and motor abilities?,What is an interactive software system?,0.3250
+113,How can the adaptability of the user interface improve user experience for people with disabilities?,What is an interactive computer system?,0.3238
+114,How can the system infer the best modality for a particular user based on their profile?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3236
+115,What rules are used to adapt the user interface to different disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3200
+116,What rules are used to adapt the user interface to different disabilities?,What is a human–computer interaction?,0.3185
+117,What are the semantic relationships between the different interaction concepts?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3181
+118,What interaction modes are supported for users with different sensory and motor abilities?,What does make up a complex user participation?,0.3157
+119,What rules are used to adapt the user interface to different disabilities?,What does make up a complex user participation?,0.3144
+120,How can input and output modalities be adapted based on user characteristics?,How can a user interact in human–computer interactions?,0.3138
+121,How can the adaptability of the user interface improve user experience for people with disabilities?,What does make up a complex user participation?,0.3084
+122,How are interaction components categorized in the ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3076
+123,What are the core concepts related to user profiles and their interaction capabilities?,How is a user input processed by an interactive computer system?,0.3049
+124,How can the system infer the best modality for a particular user based on their profile?,How is a user input processed by an interactive computer system?,0.3030
+125,How can the adaptability of the user interface improve user experience for people with disabilities?,What is a complex interactive computer system?,0.3014
+126,How can the system infer the best modality for a particular user based on their profile?,What does make up a complex user participation?,0.3001
+127,What rules are used to adapt the user interface to different disabilities?,What is a complex interactive computer system?,0.2959
+128,What interaction modes are supported for users with different sensory and motor abilities?,How does a user receive an output from an interactive computer system?,0.2952
+129,How can the system infer the best modality for a particular user based on their profile?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2950
+130,How can input and output modalities be adapted based on user characteristics?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2943
+131,What methods are used to measure and adapt to different user capabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2939
+132,How can the adaptability of the user interface improve user experience for people with disabilities?,How is a user input processed by an interactive computer system?,0.2934
+133,What rules are used to adapt the user interface to different disabilities?,How is a user input processed by an interactive computer system?,0.2928
+134,How can the system infer the best modality for a particular user based on their profile?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2918
+135,How can the adaptability of the user interface improve user experience for people with disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2911
+136,What rules are used to adapt the user interface to different disabilities?,What is an interactive computer system?,0.2892
+137,How are interaction components categorized in the ontology?,Why does a user intentionally interact with an interactive computer system?,0.2882
+138,What rules are used to adapt the user interface to different disabilities?,Why does a user intentionally interact with an interactive computer system?,0.2880
+139,How can the adaptability of the user interface improve user experience for people with disabilities?,What is an interactive software system?,0.2878
+140,How can input and output modalities be adapted based on user characteristics?,What is an interactive computer system?,0.2869
+141,What rules are used to adapt the user interface to different disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2859
+142,How can the system infer the best modality for a particular user based on their profile?,How can a user interact in human–computer interactions?,0.2856
+143,How can the adaptability of the user interface improve user experience for people with disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2850
+144,What are the key parameters for designing adaptive user interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2835
+145,What methods are used to measure and adapt to different user capabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2813
+146,What contextual information is considered for personalizing user interactions?,How does a user receive an output from an interactive computer system?,0.2813
+147,How does the reasoning engine use the ontology to derive new information?,What is an interactive software system?,0.2808
+148,How can input and output modalities be adapted based on user characteristics?,Why does a user intentionally interact with an interactive computer system?,0.2808
+149,How is multimodal interaction represented and managed in the ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2806
+150,What are the core concepts related to user profiles and their interaction capabilities?,How does a user receive an output from an interactive computer system?,0.2798
+151,How are interaction components categorized in the ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2788
+152,How are interaction components categorized in the ontology?,How is a user input processed by an interactive computer system?,0.2746
+153,What are the physical devices used for input and output interactions in different contexts?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2745
+154,What interaction modes are supported for users with different sensory and motor abilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2734
+155,How can the system infer the best modality for a particular user based on their profile?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2724
+156,How can the system infer the best modality for a particular user based on their profile?,How does a user receive an output from an interactive computer system?,0.2723
+157,What methods are used to measure and adapt to different user capabilities?,How does a user receive an output from an interactive computer system?,0.2683
+158,How can the adaptability of the user interface improve user experience for people with disabilities?,What is a User?,0.2678
+159,What are the semantic relationships between the different interaction concepts?,How does a user receive an output from an interactive computer system?,0.2639
+160,What are the semantic relationships between the different interaction concepts?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2635
+161,How can the system infer the best modality for a particular user based on their profile?,What does make up the user interface of an interactive computer system?,0.2629
+162,How can input and output modalities be adapted based on user characteristics?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2617
+163,How does the reasoning engine use the ontology to derive new information?,What is a complex interactive computer system?,0.2601
+164,How can input and output modalities be adapted based on user characteristics?,What is an interactive software system?,0.2596
+165,How can input and output modalities be adapted based on user characteristics?,What is a User?,0.2596
+166,How does the reasoning engine use the ontology to derive new information?,What is an interactive computer system?,0.2586
+167,How does the reasoning engine use the ontology to derive new information?,How is a user input processed by an interactive computer system?,0.2580
+168,How can the system infer the best modality for a particular user based on their profile?,Why does a user intentionally interact with an interactive computer system?,0.2576
+169,How can input and output modalities be adapted based on user characteristics?,What is a complex interactive computer system?,0.2559
+170,How can input and output modalities be adapted based on user characteristics?,What does make up a complex user participation?,0.2553
+171,How does the reasoning engine use the ontology to derive new information?,What does make up the user interface of an interactive computer system?,0.2543
+172,What rules are used to adapt the user interface to different disabilities?,What is an interactive software system?,0.2522
+173,How does the reasoning engine use the ontology to derive new information?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2492
+174,How can the adaptability of the user interface improve user experience for people with disabilities?,How does a user receive an output from an interactive computer system?,0.2491
+175,What methods are used to measure and adapt to different user capabilities?,What is a complex interactive computer system?,0.2489
+176,What are the key parameters for designing adaptive user interfaces?,How does a user receive an output from an interactive computer system?,0.2471
+177,What methods are used to measure and adapt to different user capabilities?,What is an interactive computer system?,0.2433
+178,What rules are used to adapt the user interface to different disabilities?,What is a User?,0.2430
+179,What methods are used to measure and adapt to different user capabilities?,What is an interactive software system?,0.2387
+180,What methods are used to measure and adapt to different user capabilities?,How is a user input processed by an interactive computer system?,0.2387
+181,How does the reasoning engine use the ontology to derive new information?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2379
+182,How is consistency and validity of the ontology maintained during reasoning?,What is an interactive software system?,0.2367
+183,What methods are used to measure and adapt to different user capabilities?,What is a human–computer interaction?,0.2355
+184,How is consistency and validity of the ontology maintained during reasoning?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2343
+185,What rules are used to adapt the user interface to different disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2328
+186,What rules are used to adapt the user interface to different disabilities?,How does a user receive an output from an interactive computer system?,0.2323
+187,How are interaction components categorized in the ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2306
+188,What methods are used to measure and adapt to different user capabilities?,Why does a user intentionally interact with an interactive computer system?,0.2264
+189,What are the key parameters for designing adaptive user interfaces?,What is a User?,0.2199
+190,How is consistency and validity of the ontology maintained during reasoning?,What is a complex interactive computer system?,0.2141
+191,How is consistency and validity of the ontology maintained during reasoning?,How is a user input processed by an interactive computer system?,0.2130
+192,How are interaction components categorized in the ontology?,How does a user receive an output from an interactive computer system?,0.2105
+193,How does the reasoning engine use the ontology to derive new information?,How does a user receive an output from an interactive computer system?,0.2104
+194,How does the reasoning engine use the ontology to derive new information?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2103
+195,How is consistency and validity of the ontology maintained during reasoning?,What is an interactive computer system?,0.2100
+196,How can input and output modalities be adapted based on user characteristics?,What is a human–computer interaction?,0.2095
+197,How does the reasoning engine use the ontology to derive new information?,How can a user interact in human–computer interactions?,0.2061
+198,What interaction modes are supported for users with different sensory and motor abilities?,What is a User?,0.2038
+199,How is consistency and validity of the ontology maintained during reasoning?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2023
+200,How does the reasoning engine use the ontology to derive new information?,What does make up a complex user participation?,0.1995
+201,What are the physical devices used for input and output interactions in different contexts?,What does make up a complex user participation?,0.1986
+202,How is consistency and validity of the ontology maintained during reasoning?,How can a user interact in human–computer interactions?,0.1971
+203,What are the physical devices used for input and output interactions in different contexts?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1971
+204,How does the reasoning engine use the ontology to derive new information?,Why does a user intentionally interact with an interactive computer system?,0.1963
+205,What are the physical devices used for input and output interactions in different contexts?,What is a User?,0.1950
+206,How is consistency and validity of the ontology maintained during reasoning?,What does make up the user interface of an interactive computer system?,0.1916
+207,How is multimodal interaction represented and managed in the ontology?,What is a User?,0.1884
+208,How can the system infer the best modality for a particular user based on their profile?,What is an interactive computer system?,0.1859
+209,How does the reasoning engine use the ontology to derive new information?,What is a human–computer interaction?,0.1791
+210,How is consistency and validity of the ontology maintained during reasoning?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1737
+211,How are interaction components categorized in the ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1693
+212,How can the system infer the best modality for a particular user based on their profile?,What is a complex interactive computer system?,0.1669
+213,How does the reasoning engine use the ontology to derive new information?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1640
+214,How is consistency and validity of the ontology maintained during reasoning?,Why does a user intentionally interact with an interactive computer system?,0.1627
+215,How can the system infer the best modality for a particular user based on their profile?,What is an interactive software system?,0.1601
+216,How is consistency and validity of the ontology maintained during reasoning?,What does make up a complex user participation?,0.1600
+217,How is consistency and validity of the ontology maintained during reasoning?,What is a human–computer interaction?,0.1524
+218,How are interaction components categorized in the ontology?,What is a User?,0.1524
+219,What are the semantic relationships between the different interaction concepts?,What is a User?,0.1443
+220,How is consistency and validity of the ontology maintained during reasoning?,How does a user receive an output from an interactive computer system?,0.1347
+221,How is consistency and validity of the ontology maintained during reasoning?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1245
+222,How does the reasoning engine use the ontology to derive new information?,What is a User?,0.1104
+223,How can the system infer the best modality for a particular user based on their profile?,What is a human–computer interaction?,0.0948
+224,How is consistency and validity of the ontology maintained during reasoning?,What is a User?,0.0862

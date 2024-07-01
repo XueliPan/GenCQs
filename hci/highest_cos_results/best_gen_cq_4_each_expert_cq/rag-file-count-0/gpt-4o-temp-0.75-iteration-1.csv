@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the primary types of interactions users can have with a computer system?,0.7259
-1,What is an interactive software system?,What are the primary types of interactions users can have with a computer system?,0.6328
-2,What is a complex interactive computer system?,What are the key components of a human-computer interaction system?,0.6981
-3,What does make up the user interface of an interactive computer system?,What are the primary types of interactions users can have with a computer system?,0.7535
-4,What is a User?,What are the primary types of interactions users can have with a computer system?,0.4074
-5,How can a user interact in human–computer interactions?,What are the primary types of interactions users can have with a computer system?,0.7472
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the primary types of interactions users can have with a computer system?,0.6634
-7,Why does a user intentionally interact with an interactive computer system?,What are the primary types of interactions users can have with a computer system?,0.7078
-8,What does make up a complex user participation?,What are the primary types of interactions users can have with a computer system?,0.5061
-9,What is a human–computer interaction?,What are the key components of a human-computer interaction system?,0.7403
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What are the primary types of interactions users can have with a computer system?,0.5145
-11,How is a user input processed by an interactive computer system?,What are the key components of a human-computer interaction system?,0.5914
-12,How does a user receive an output from an interactive computer system?,What are the primary types of interactions users can have with a computer system?,0.5503
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the key components of a human-computer interaction system?,0.5652
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is user satisfaction quantitatively measured in HCI evaluations?,0.5799
+0,What is an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7025
+1,What is an interactive software system?,What are the primary components of a Human-Computer Interaction system?,0.6053
+2,What is a complex interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7061
+3,What does make up the user interface of an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7393
+4,What is a User?,How is a user categorically defined within HCI?,0.4477
+5,How can a user interact in human–computer interactions?,What are the primary components of a Human-Computer Interaction system?,0.6884
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the primary components of a Human-Computer Interaction system?,0.5729
+7,Why does a user intentionally interact with an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.5778
+8,What does make up a complex user participation?,How are user goals and tasks represented in HCI systems?,0.499
+9,What is a human–computer interaction?,What are the primary components of a Human-Computer Interaction system?,0.7371
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How is user collaboration and communication supported in multi-user HCI systems?,0.5464
+11,How is a user input processed by an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.5778
+12,How does a user receive an output from an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.4783
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the primary components of a Human-Computer Interaction system?,0.5575
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How are user goals and tasks represented in HCI systems?,0.6144

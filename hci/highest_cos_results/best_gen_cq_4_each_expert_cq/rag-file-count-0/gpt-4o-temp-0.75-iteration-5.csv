@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How are interactive systems developed and maintained in HCI?,0.7271
-1,What is an interactive software system?,How are interactive systems developed and maintained in HCI?,0.7189
-2,What is a complex interactive computer system?,How are interactive systems developed and maintained in HCI?,0.7238
-3,What does make up the user interface of an interactive computer system?,How are interactive systems developed and maintained in HCI?,0.7136
-4,What is a User?,How are users characterized in the context of HCI?,0.5499
-5,How can a user interact in human–computer interactions?,What are the fundamental components of Human-Computer Interaction?,0.7345
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How are interactive systems developed and maintained in HCI?,0.5866
-7,Why does a user intentionally interact with an interactive computer system?,How are interactive systems developed and maintained in HCI?,0.5973
-8,What does make up a complex user participation?,How are users characterized in the context of HCI?,0.5452
-9,What is a human–computer interaction?,What are the fundamental components of Human-Computer Interaction?,0.8051
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How are users characterized in the context of HCI?,0.4812
-11,How is a user input processed by an interactive computer system?,How are interactive systems developed and maintained in HCI?,0.6124
-12,How does a user receive an output from an interactive computer system?,How do input and output devices function in an HCI system?,0.5537
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do input and output devices function in an HCI system?,0.6152
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used for user evaluation and feedback in HCI?,0.5174
+0,What is an interactive computer system?,What role do user goals and tasks play in the design of interactive systems?,0.6807
+1,What is an interactive software system?,What role do user goals and tasks play in the design of interactive systems?,0.6541
+2,What is a complex interactive computer system?,What role do user goals and tasks play in the design of interactive systems?,0.6496
+3,What does make up the user interface of an interactive computer system?,What role do user goals and tasks play in the design of interactive systems?,0.6996
+4,What is a User?,How are user personas defined and utilized in the HCI design process?,0.4431
+5,How can a user interact in human–computer interactions?,What are the primary components involved in human-computer interaction?,0.7153
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do human cognitive processes influence interaction with computer systems?,0.612
+7,Why does a user intentionally interact with an interactive computer system?,How do human cognitive processes influence interaction with computer systems?,0.6381
+8,What does make up a complex user participation?,What role do user goals and tasks play in the design of interactive systems?,0.5347
+9,What is a human–computer interaction?,What are the primary components involved in human-computer interaction?,0.753
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do human cognitive processes influence interaction with computer systems?,0.5316
+11,How is a user input processed by an interactive computer system?,How do human cognitive processes influence interaction with computer systems?,0.5772
+12,How does a user receive an output from an interactive computer system?,What role do user goals and tasks play in the design of interactive systems?,0.5054
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What role do user goals and tasks play in the design of interactive systems?,0.5557
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What role do user goals and tasks play in the design of interactive systems?,0.6108

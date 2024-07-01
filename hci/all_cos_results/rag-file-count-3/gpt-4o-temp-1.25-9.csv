@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the core interaction modalities used in Human-Computer Interaction systems?,What does make up the user interface of an interactive computer system?,0.6669
+1,What are the core interaction modalities used in Human-Computer Interaction systems?,What is a human–computer interaction?,0.6600
+2,What are the design patterns for adaptations in interactive systems?,What does make up the user interface of an interactive computer system?,0.6471
+3,What are the core interaction modalities used in Human-Computer Interaction systems?,How can a user interact in human–computer interactions?,0.6435
+4,What are the core interaction modalities used in Human-Computer Interaction systems?,What is a complex interactive computer system?,0.6308
+5,What are the design patterns for adaptations in interactive systems?,What is a complex interactive computer system?,0.6208
+6,What are the design patterns for adaptations in interactive systems?,What is an interactive computer system?,0.6136
+7,What are the core interaction modalities used in Human-Computer Interaction systems?,What is an interactive computer system?,0.6101
+8,What are the design patterns for adaptations in interactive systems?,What is an interactive software system?,0.6017
+9,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,How can a user interact in human–computer interactions?,0.5649
+10,How are multimodal systems characterized in terms of input and output modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5397
+11,What are the design patterns for adaptations in interactive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5394
+12,What are the core interaction modalities used in Human-Computer Interaction systems?,Why does a user intentionally interact with an interactive computer system?,0.5303
+13,What are the core interaction modalities used in Human-Computer Interaction systems?,What is an interactive software system?,0.5267
+14,What are the design patterns for adaptations in interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.5089
+15,What are the core interaction modalities used in Human-Computer Interaction systems?,How is a user input processed by an interactive computer system?,0.5070
+16,How can SWRL rules be used for personalizing interactions in HCI systems?,How can a user interact in human–computer interactions?,0.5050
+17,What are the core interaction modalities used in Human-Computer Interaction systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4998
+18,What are the design patterns for adaptations in interactive systems?,How is a user input processed by an interactive computer system?,0.4997
+19,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What is a human–computer interaction?,0.4970
+20,What types of adaptive interface mechanisms can be defined for visually impaired users?,What does make up the user interface of an interactive computer system?,0.4966
+21,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What does make up the user interface of an interactive computer system?,0.4951
+22,What are the different types of input and output modes available in HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4934
+23,What are the design patterns for adaptations in interactive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4901
+24,How do adaptations improve the user experience in multimodal interactive environments?,What does make up the user interface of an interactive computer system?,0.4880
+25,How are multimodal systems characterized in terms of input and output modalities?,How is a user input processed by an interactive computer system?,0.4874
+26,How do adaptations improve the user experience in multimodal interactive environments?,How can a user interact in human–computer interactions?,0.4853
+27,What are the core interaction modalities used in Human-Computer Interaction systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4845
+28,How do adaptations improve the user experience in multimodal interactive environments?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4840
+29,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,How is a user input processed by an interactive computer system?,0.4812
+30,What are the different types of input and output modes available in HCI systems?,How does a user receive an output from an interactive computer system?,0.4774
+31,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4755
+32,What are the design patterns for adaptations in interactive systems?,How can a user interact in human–computer interactions?,0.4715
+33,How can user profiles be modeled to adapt user interfaces in HCI?,What does make up the user interface of an interactive computer system?,0.4696
+34,How are multimodal systems characterized in terms of input and output modalities?,How does a user receive an output from an interactive computer system?,0.4675
+35,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What does make up the user interface of an interactive computer system?,0.4635
+36,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What is a complex interactive computer system?,0.4613
+37,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4598
+38,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What is an interactive computer system?,0.4562
+39,What are the different types of input and output modes available in HCI systems?,How is a user input processed by an interactive computer system?,0.4484
+40,How can user profiles be modeled to adapt user interfaces in HCI?,How can a user interact in human–computer interactions?,0.4474
+41,What are the different types of input and output modes available in HCI systems?,What does make up the user interface of an interactive computer system?,0.4463
+42,What are the core interaction modalities used in Human-Computer Interaction systems?,What does make up a complex user participation?,0.4420
+43,How do adaptations improve the user experience in multimodal interactive environments?,Why does a user intentionally interact with an interactive computer system?,0.4411
+44,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,Why does a user intentionally interact with an interactive computer system?,0.4370
+45,What are the design patterns for adaptations in interactive systems?,What is a human–computer interaction?,0.4357
+46,What are the design patterns for adaptations in interactive systems?,How does a user receive an output from an interactive computer system?,0.4344
+47,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4337
+48,What are the core interaction modalities used in Human-Computer Interaction systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4327
+49,How are multimodal systems characterized in terms of input and output modalities?,What does make up the user interface of an interactive computer system?,0.4317
+50,How are multimodal systems characterized in terms of input and output modalities?,What is a complex interactive computer system?,0.4312
+51,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,How does a user receive an output from an interactive computer system?,0.4308
+52,What are the different types of input and output modes available in HCI systems?,What is a complex interactive computer system?,0.4290
+53,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,How is a user input processed by an interactive computer system?,0.4288
+54,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What does make up the user interface of an interactive computer system?,0.4269
+55,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4157
+56,What types of adaptive interface mechanisms can be defined for visually impaired users?,What is an interactive computer system?,0.4146
+57,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,How can a user interact in human–computer interactions?,0.4130
+58,What types of adaptive interface mechanisms can be defined for visually impaired users?,How can a user interact in human–computer interactions?,0.4112
+59,What types of adaptive interface mechanisms can be defined for visually impaired users?,What is a complex interactive computer system?,0.4097
+60,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4060
+61,What are the different types of input and output modes available in HCI systems?,What is an interactive computer system?,0.4046
+62,How are multimodal systems characterized in terms of input and output modalities?,What is an interactive computer system?,0.4035
+63,What are the core interaction modalities used in Human-Computer Interaction systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4015
+64,How do adaptations improve the user experience in multimodal interactive environments?,What is an interactive computer system?,0.4004
+65,How do adaptations improve the user experience in multimodal interactive environments?,What is an interactive software system?,0.4000
+66,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,How can a user interact in human–computer interactions?,0.3968
+67,What are the design patterns for adaptations in interactive systems?,What does make up a complex user participation?,0.3965
+68,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What does make up the user interface of an interactive computer system?,0.3964
+69,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What is an interactive computer system?,0.3962
+70,How do adaptations improve the user experience in multimodal interactive environments?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3947
+71,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,Why does a user intentionally interact with an interactive computer system?,0.3944
+72,What types of adaptive interface mechanisms can be defined for visually impaired users?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3920
+73,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3904
+74,What are the main challenges in creating ontologies for HCI systems?,What is a complex interactive computer system?,0.3897
+75,What are the core interaction modalities used in Human-Computer Interaction systems?,How does a user receive an output from an interactive computer system?,0.3862
+76,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What is an interactive software system?,0.3857
+77,What types of adaptive interface mechanisms can be defined for visually impaired users?,What is a human–computer interaction?,0.3855
+78,How can user profiles be modeled to adapt user interfaces in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3855
+79,How can SWRL rules be used for personalizing interactions in HCI systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3835
+80,How can SWRL rules be used for personalizing interactions in HCI systems?,What is a human–computer interaction?,0.3831
+81,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3817
+82,How do adaptations improve the user experience in multimodal interactive environments?,What is a complex interactive computer system?,0.3792
+83,What are the main challenges in creating ontologies for HCI systems?,What is an interactive software system?,0.3787
+84,How do adaptations improve the user experience in multimodal interactive environments?,How is a user input processed by an interactive computer system?,0.3786
+85,How can user profiles be modeled to adapt user interfaces in HCI?,What is a human–computer interaction?,0.3719
+86,What are the different types of input and output modes available in HCI systems?,What is a human–computer interaction?,0.3716
+87,How can user profiles be modeled to adapt user interfaces in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3707
+88,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What is a complex interactive computer system?,0.3678
+89,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,How does a user receive an output from an interactive computer system?,0.3655
+90,What types of adaptive interface mechanisms can be defined for visually impaired users?,How is a user input processed by an interactive computer system?,0.3652
+91,How can user profiles be modeled to adapt user interfaces in HCI?,What does make up a complex user participation?,0.3641
+92,How can SWRL rules be used for personalizing interactions in HCI systems?,Why does a user intentionally interact with an interactive computer system?,0.3622
+93,What types of adaptive interface mechanisms can be defined for visually impaired users?,What is an interactive software system?,0.3616
+94,What types of adaptive interface mechanisms can be defined for visually impaired users?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3596
+95,How do adaptations improve the user experience in multimodal interactive environments?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3583
+96,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What is an interactive software system?,0.3567
+97,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,How can a user interact in human–computer interactions?,0.3553
+98,How can SWRL rules be used for personalizing interactions in HCI systems?,What does make up the user interface of an interactive computer system?,0.3533
+99,How can user profiles be modeled to adapt user interfaces in HCI?,How is a user input processed by an interactive computer system?,0.3529
+100,How can user profiles be modeled to adapt user interfaces in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3524
+101,How can user profiles be modeled to adapt user interfaces in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3517
+102,How do adaptations improve the user experience in multimodal interactive environments?,What is a human–computer interaction?,0.3493
+103,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What is a human–computer interaction?,0.3489
+104,What are the main challenges in creating ontologies for HCI systems?,What is an interactive computer system?,0.3478
+105,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What is an interactive computer system?,0.3473
+106,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3456
+107,How can user profiles be modeled to adapt user interfaces in HCI?,What is a User?,0.3444
+108,What are the main challenges in creating ontologies for HCI systems?,What does make up the user interface of an interactive computer system?,0.3442
+109,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What is an interactive software system?,0.3421
+110,How do adaptations improve the user experience in multimodal interactive environments?,What does make up a complex user participation?,0.3409
+111,How are multimodal systems characterized in terms of input and output modalities?,How can a user interact in human–computer interactions?,0.3391
+112,How are multimodal systems characterized in terms of input and output modalities?,What is an interactive software system?,0.3377
+113,How are multimodal systems characterized in terms of input and output modalities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3359
+114,What are the different types of input and output modes available in HCI systems?,What is an interactive software system?,0.3355
+115,How can SWRL rules be used for personalizing interactions in HCI systems?,What is a complex interactive computer system?,0.3352
+116,How are multimodal systems characterized in terms of input and output modalities?,What is a human–computer interaction?,0.3350
+117,What types of adaptive interface mechanisms can be defined for visually impaired users?,How does a user receive an output from an interactive computer system?,0.3336
+118,What are the main challenges in creating ontologies for HCI systems?,What is a human–computer interaction?,0.3324
+119,How can user profiles be modeled to adapt user interfaces in HCI?,What is a complex interactive computer system?,0.3316
+120,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What does make up a complex user participation?,0.3315
+121,How are multimodal systems characterized in terms of input and output modalities?,Why does a user intentionally interact with an interactive computer system?,0.3312
+122,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What is a User?,0.3305
+123,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,Why does a user intentionally interact with an interactive computer system?,0.3298
+124,How do adaptations improve the user experience in multimodal interactive environments?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3293
+125,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What is a complex interactive computer system?,0.3283
+126,How can SWRL rules be used for personalizing interactions in HCI systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3265
+127,What are the design patterns for adaptations in interactive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3259
+128,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What is a complex interactive computer system?,0.3215
+129,How can user profiles be modeled to adapt user interfaces in HCI?,What is an interactive computer system?,0.3199
+130,How can SWRL rules be used for personalizing interactions in HCI systems?,How is a user input processed by an interactive computer system?,0.3187
+131,What are the design patterns for adaptations in interactive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3171
+132,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What does make up a complex user participation?,0.3158
+133,What types of adaptive interface mechanisms can be defined for visually impaired users?,Why does a user intentionally interact with an interactive computer system?,0.3149
+134,How can SWRL rules be used for personalizing interactions in HCI systems?,What does make up a complex user participation?,0.3145
+135,How can user profiles be modeled to adapt user interfaces in HCI?,What is an interactive software system?,0.3133
+136,What are the different types of input and output modes available in HCI systems?,How can a user interact in human–computer interactions?,0.3120
+137,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3100
+138,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3094
+139,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What does make up a complex user participation?,0.3089
+140,What types of adaptive interface mechanisms can be defined for visually impaired users?,What does make up a complex user participation?,0.3065
+141,How do adaptations improve the user experience in multimodal interactive environments?,How does a user receive an output from an interactive computer system?,0.3064
+142,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,How is a user input processed by an interactive computer system?,0.3062
+143,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What does make up a complex user participation?,0.3061
+144,What are the main challenges in creating ontologies for HCI systems?,How can a user interact in human–computer interactions?,0.3049
+145,What are the main challenges in creating ontologies for HCI systems?,What does make up a complex user participation?,0.3036
+146,What are the main challenges in creating ontologies for HCI systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3018
+147,How can user profiles be modeled to adapt user interfaces in HCI?,How does a user receive an output from an interactive computer system?,0.3003
+148,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What is a human–computer interaction?,0.2997
+149,How are multimodal systems characterized in terms of input and output modalities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2990
+150,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What is a human–computer interaction?,0.2947
+151,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What is an interactive software system?,0.2938
+152,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What is a human–computer interaction?,0.2934
+153,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What is an interactive computer system?,0.2922
+154,How can SWRL rules be used for personalizing interactions in HCI systems?,What is an interactive computer system?,0.2918
+155,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2895
+156,How can SWRL rules be used for personalizing interactions in HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2883
+157,How can SWRL rules be used for personalizing interactions in HCI systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2883
+158,How can SWRL rules be used for personalizing interactions in HCI systems?,What is an interactive software system?,0.2873
+159,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,What is a User?,0.2863
+160,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2822
+161,How can user profiles be modeled to adapt user interfaces in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2812
+162,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,What is a complex interactive computer system?,0.2759
+163,What types of adaptive interface mechanisms can be defined for visually impaired users?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2728
+164,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What does make up the user interface of an interactive computer system?,0.2722
+165,What are the different types of input and output modes available in HCI systems?,Why does a user intentionally interact with an interactive computer system?,0.2669
+166,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What is an interactive computer system?,0.2665
+167,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What does make up a complex user participation?,0.2652
+168,What are the main challenges in creating ontologies for HCI systems?,Why does a user intentionally interact with an interactive computer system?,0.2627
+169,How can reasoning engines like Pellet be used to derive adaptive interfaces based on user characteristics?,What is a User?,0.2622
+170,How can SWRL rules be used for personalizing interactions in HCI systems?,How does a user receive an output from an interactive computer system?,0.2602
+171,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,Why does a user intentionally interact with an interactive computer system?,0.2597
+172,What are the different types of input and output modes available in HCI systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2558
+173,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2557
+174,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,How does a user receive an output from an interactive computer system?,0.2546
+175,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What is an interactive software system?,0.2536
+176,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What is a complex interactive computer system?,0.2477
+177,How are multimodal systems characterized in terms of input and output modalities?,What does make up a complex user participation?,0.2473
+178,What types of adaptive interface mechanisms can be defined for visually impaired users?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2446
+179,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2419
+180,How does an ontology-based approach help in adapting user interfaces for users with disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2411
+181,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What is an interactive software system?,0.2363
+182,How can the sensory and motor abilities of users be captured and utilized to adapt HCI systems?,What is a User?,0.2350
+183,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2313
+184,What are the main challenges in creating ontologies for HCI systems?,How is a user input processed by an interactive computer system?,0.2284
+185,What are the main challenges in creating ontologies for HCI systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2276
+186,What are the core interaction modalities used in Human-Computer Interaction systems?,What is a User?,0.2254
+187,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What is a human–computer interaction?,0.2226
+188,What are the main challenges in creating ontologies for HCI systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2137
+189,How are multimodal systems characterized in terms of input and output modalities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2128
+190,What are the main challenges in creating ontologies for HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2124
+191,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2121
+192,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,How can a user interact in human–computer interactions?,0.2112
+193,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What is an interactive computer system?,0.2095
+194,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What does make up the user interface of an interactive computer system?,0.2033
+195,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,How is a user input processed by an interactive computer system?,0.2001
+196,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1996
+197,What are the different types of input and output modes available in HCI systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1993
+198,What are the different types of input and output modes available in HCI systems?,What does make up a complex user participation?,0.1918
+199,What types of adaptive interface mechanisms can be defined for visually impaired users?,What is a User?,0.1903
+200,What are the main challenges in creating ontologies for HCI systems?,How does a user receive an output from an interactive computer system?,0.1820
+201,What are the object properties defined to relate user profiles to interaction modalities in an ontology?,How does a user receive an output from an interactive computer system?,0.1801
+202,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,How can a user interact in human–computer interactions?,0.1790
+203,How do adaptations improve the user experience in multimodal interactive environments?,What is a User?,0.1655
+204,What are the design patterns for adaptations in interactive systems?,What is a User?,0.1601
+205,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1536
+206,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What does make up a complex user participation?,0.1525
+207,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,What is a User?,0.1516
+208,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1515
+209,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,Why does a user intentionally interact with an interactive computer system?,0.1509
+210,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,How is a user input processed by an interactive computer system?,0.1497
+211,How can SWRL rules be used for personalizing interactions in HCI systems?,What is a User?,0.1494
+212,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1408
+213,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,How is a user input processed by an interactive computer system?,0.1341
+214,What are the main challenges in creating ontologies for HCI systems?,What is a User?,0.1303
+215,How are multimodal systems characterized in terms of input and output modalities?,What is a User?,0.1271
+216,What are the different types of input and output modes available in HCI systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1261
+217,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1228
+218,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1201
+219,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,How does a user receive an output from an interactive computer system?,0.1139
+220,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1088
+221,What are the different types of input and output modes available in HCI systems?,What is a User?,0.1075
+222,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,Why does a user intentionally interact with an interactive computer system?,0.1046
+223,What role does the Web Ontology Language (OWL) play in defining classes of entities in HCI?,How does a user receive an output from an interactive computer system?,0.0936
+224,What are the different methods to validate the consistency and inference capabilities of an HCI ontology?,What is a User?,0.0394

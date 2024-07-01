@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What core concepts and entities are represented within the Human-Computer Interaction (HCI) domain ontology?,What is a human–computer interaction?,0.5825
+1,How are user characteristics and interaction modalities represented and related in the HCI ontology?,What does make up the user interface of an interactive computer system?,0.5291
+2,What are the different types of interaction components modeled in the HCI ontology?,What is a complex interactive computer system?,0.5075
+3,How does the ontology handle the adaptation of user interfaces based on user profiles?,What does make up the user interface of an interactive computer system?,0.428
+4,What rules or policies are implemented for interface adaptations in response to different user abilities?,What does make up the user interface of an interactive computer system?,0.4241
+5,How can input and output modalities be evaluated and adjusted according to user needs in the ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3835
+6,How does the ontology integrate multimodal interaction methods and their respective devices?,How can a user interact in human–computer interactions?,0.5001
+7,"What are the semantic relationships between interaction components, such as modes, modalities, and media?",What does make up the user interface of an interactive computer system?,0.4604
+8,How does the ontology support reasoning to infer new information about user interactions?,How can a user interact in human–computer interactions?,0.498
+9,What properties and constraints are placed on interaction components within the HCI ontology?,What does make up the user interface of an interactive computer system?,0.429
+10,How does the ontology define and manage sensory and motor impairments for adaptive interface design?,What does make up the user interface of an interactive computer system?,0.4024
+11,What methods are used to derive high-level inferences from low-level interaction data in the ontology?,How can a user interact in human–computer interactions?,0.3145
+12,How are ontological models validated and verified for consistency in representing HCI knowledge?,What is an interactive software system?,0.3058
+13,In which ways does the ontology support customization and personalization of user interfaces?,What does make up the user interface of an interactive computer system?,0.4464
+14,How are real-time contextual factors and user environments incorporated into the ontology for adaptive systems?,What does make up the user interface of an interactive computer system?,0.4246

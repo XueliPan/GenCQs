@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the main interaction paradigms used in human-computer interaction?,0.6179
-1,What is an interactive software system?,What are the main interaction paradigms used in human-computer interaction?,0.5668
-2,What is a complex interactive computer system?,What are the main interaction paradigms used in human-computer interaction?,0.6557
-3,What does make up the user interface of an interactive computer system?,What are the main interaction paradigms used in human-computer interaction?,0.6407
-4,What is a User?,How are user personas developed and used in HCI?,0.4828
-5,How can a user interact in human–computer interactions?,What are the main interaction paradigms used in human-computer interaction?,0.7085
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the main interaction paradigms used in human-computer interaction?,0.4929
-7,Why does a user intentionally interact with an interactive computer system?,What are the main interaction paradigms used in human-computer interaction?,0.5194
-8,What does make up a complex user participation?,What are the common user tasks analyzed in HCI studies?,0.5306
-9,What is a human–computer interaction?,What are the main interaction paradigms used in human-computer interaction?,0.7606
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How is user feedback gathered and analyzed in HCI?,0.4683
-11,How is a user input processed by an interactive computer system?,How do different input devices impact user interaction?,0.5541
-12,How does a user receive an output from an interactive computer system?,How is user feedback gathered and analyzed in HCI?,0.4559
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do different input devices impact user interaction?,0.5337
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is user satisfaction measured in HCI?,0.5281
+0,What is an interactive computer system?,What are the main components of a human-computer interaction system?,0.7059
+1,What is an interactive software system?,What are the main components of a human-computer interaction system?,0.6108
+2,What is a complex interactive computer system?,What are the main components of a human-computer interaction system?,0.7127
+3,What does make up the user interface of an interactive computer system?,What are the main components of a human-computer interaction system?,0.7477
+4,What is a User?,What are the different types of user interfaces in HCI?,0.3269
+5,How can a user interact in human–computer interactions?,What are the different interaction modalities in human-computer interaction?,0.7429
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the main components of a human-computer interaction system?,0.5705
+7,Why does a user intentionally interact with an interactive computer system?,What factors influence user experience in human-computer interactions?,0.5908
+8,What does make up a complex user participation?,How do collaboration and social interaction affect the design of HCI systems?,0.4871
+9,What is a human–computer interaction?,What are the main components of a human-computer interaction system?,0.7551
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What factors influence user experience in human-computer interactions?,0.574
+11,How is a user input processed by an interactive computer system?,What are the main components of a human-computer interaction system?,0.5931
+12,How does a user receive an output from an interactive computer system?,How is user feedback incorporated into HCI system design?,0.5007
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the main components of a human-computer interaction system?,0.575
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How do user goals and tasks affect system design in HCI?,0.5638

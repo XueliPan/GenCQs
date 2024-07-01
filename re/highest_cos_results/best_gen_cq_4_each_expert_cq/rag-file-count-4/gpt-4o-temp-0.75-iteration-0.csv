@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How frequently do empirical studies replicate previous research results in RE?,0.6707
+1,How often are which empirical methods used over time?,What are the most frequently used data collection methods in empirical RE research?,0.6979
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How diverse are the empirical research methods used across different RE studies?,0.7063
+3, How do the authors justify the lack of a proper study?,How do empirical studies in RE validate their research design?,0.5088
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How frequently do empirical studies replicate previous research results in RE?,0.5945
+5,How many empirical studies are by authors working for large software development companies?,How do empirical studies in RE address the diversity of project contexts?,0.5831
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,How frequently are case studies used in Requirements Engineering research?,0.561
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How are empirical findings in RE documented and shared within the research community?,0.5464
+8,How do the authors justify the selection and combination of empirical methods and design elements?,How do empirical studies in RE validate their research design?,0.6879
+9,How often are which empirical methods used?,How well are empirical research methods in RE accepted by practitioners?,0.7144
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",How do empirical studies in RE validate their research design?,0.6176
+11,How has the proportion of replications evolved over time?,How frequently do empirical studies replicate previous research results in RE?,0.4561
+12,How has the use of triangulation for research design evolved over time?,What methodologies are commonly used to derive research needs in RE?,0.4724
+13,How often are those who conduct the studies also the authors of the papers?,How often are surveys used to gather data in RE research?,0.4632
+14,How do the authors justify preventing bias in the study results?,How do empirical studies in RE validate their research design?,0.5429
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,How do empirical studies measure the success of RE techniques?,0.4625
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,How are empirical research findings in RE transitioning into industry practices?,0.5777
+17,How often are which statistical methods used?,What are the most frequently used data collection methods in empirical RE research?,0.6049
+18,How has the use of statistical methods evolved over time?,How has the use of quantitative research methods evolved in Requirements Engineering?,0.5418
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How well are empirical research methods in RE accepted by practitioners?,0.5126
+20,How has the definition of the population evolved over time?,How often are surveys used to gather data in RE research?,0.2204
+21,How has the use of power analysis and effect size estimation evolved over time?,How has the use of quantitative research methods evolved in Requirements Engineering?,0.349
+22,How has the reporting of threats to validity evolved over time?,What are the common practices for reporting empirical RE research?,0.4305
+23,What types of threats to validity do the authors report?,How do empirical studies in RE validate their research design?,0.4576
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,How does the RE research community address the gap between theory and practice?,0.5931
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,How frequently are case studies used in Requirements Engineering research?,0.6629
+26,How has the reporting of the subjects evolved over time?,What are the common practices for reporting empirical RE research?,0.4565
+27,How has the reporting of the objects of study / treatments evolved over time?,How are empirical findings in RE documented and shared within the research community?,0.5678
+28,How has the reporting of the tasks evolved over time?,What are the common practices for reporting empirical RE research?,0.4586
+29,How has the reporting of the setting evolved over time?,How are empirical research findings implemented in practical RE settings?,0.446
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,How do empirical studies in RE validate their research design?,0.4902
+31,How has the the reporting of the population evolved over time?,How frequently do empirical studies replicate previous research results in RE?,0.3918
+32,How has the reporting of the context evolved over time?,How are empirical findings in RE documented and shared within the research community?,0.4426
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,How do empirical studies address the contextual factors influencing RE processes?,0.3594
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,How do researchers determine which RE techniques are most suitable for different contexts?,0.3447
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,How do researchers determine which RE techniques are most suitable for different contexts?,0.3909
+36,Do the authors report the selected context of their study with specific characteristics?,How do empirical studies in RE validate their research design?,0.5681
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,How do empirical researchers approach the design of RE experiments?,0.6074
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",How are empirical findings in RE documented and shared within the research community?,0.5381
+39,How has the reporting of research questions and answers evolved over time?,How are empirical findings in RE documented and shared within the research community?,0.6135
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How are empirical findings in RE documented and shared within the research community?,0.3899
+41,Do the authors use a well defined taxonomy for their research design?,How do empirical studies in RE manage diverse terminologies across different contexts?,0.5306
+42,Do the authors use other channels to publish their results for making them available to industrial users?,How are empirical findings in RE documented and shared within the research community?,0.4281
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",How well are empirical research methods in RE accepted by practitioners?,0.656
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",How well are empirical research methods in RE accepted by practitioners?,0.689
+45,Have the authors done a systematic review of related work?,How do empirical studies in RE validate their research design?,0.4785
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",How are empirical findings in RE documented and shared within the research community?,0.5801
+47,How many publications are analyzed in (systematic literature) reviews?,How frequently are qualitative reviews conducted in empirical RE research?,0.5985
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",How are empirical findings in RE documented and shared within the research community?,0.48
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",How are empirical findings in RE documented and shared within the research community?,0.509
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",How are empirical findings in RE documented and shared within the research community?,0.4247
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,How diverse are the empirical research methods used across different RE studies?,0.5173
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are the predominant types of empirical research publications in Requirements Engineering?,0.4781
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,How do empirical studies in RE validate their research design?,0.6709
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,How do empirical studies in RE validate their research design?,0.6602
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,How do empirical studies in RE validate their research design?,0.6172
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,How do empirical studies in RE validate their research design?,0.6271
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,Are there any standardized terminologies used in empirical RE research?,0.7074
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,Are there any standardized terminologies used in empirical RE research?,0.7391
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,Are there any standardized terminologies used in empirical RE research?,0.6388
+60,How many different empirical methods are used per publication?,How diverse are the empirical research methods used across different RE studies?,0.6781
+61,How has the number of empirical methods used per publication evolved over time?,How well are empirical research methods in RE accepted by practitioners?,0.6725
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What are the most frequently used data collection methods in empirical RE research?,0.6611
+63,How many studies incorporate theories?,How does the RE research community address the gap between theory and practice?,0.5397
+64,How has the incorporation of theories in studies evolved over time?,How does the RE research community address the gap between theory and practice?,0.5682
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",How does the RE research community address the gap between theory and practice?,0.5247
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How does the RE research community address the gap between theory and practice?,0.5562
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How does the RE research community address the gap between theory and practice?,0.5547
+68,How many theories from the SE and RE are there?,How does the RE research community address the gap between theory and practice?,0.5778
+69,How has the number of theories from SE and RE evolved over time?,How does the RE research community address the gap between theory and practice?,0.4563
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",How does the RE research community address the gap between theory and practice?,0.4434
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,How does the RE research community address the gap between theory and practice?,0.4579
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,How does the RE research community address the gap between theory and practice?,0.391
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",How do empirical studies in RE validate their research design?,0.4451
+74,How often are standards used to describe the theories incorporated?,Are there any standardized terminologies used in empirical RE research?,0.4561
+75,How has the use of standards to describe the theories incorporated evolved over time?,How has the use of quantitative research methods evolved in Requirements Engineering?,0.4318
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,How does the RE research community address the gap between theory and practice?,0.4888

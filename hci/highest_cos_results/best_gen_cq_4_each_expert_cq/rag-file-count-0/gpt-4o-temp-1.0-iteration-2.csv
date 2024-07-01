@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7025
-1,What is an interactive software system?,How is feedback provided and utilized within a Human-Computer Interaction system?,0.6219
-2,What is a complex interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7061
-3,What does make up the user interface of an interactive computer system?,What are the primary components of a Human-Computer Interaction system?,0.7393
-4,What is a User?,How are users characterized in the context of Human-Computer Interaction?,0.6301
-5,How can a user interact in human–computer interactions?,How are users characterized in the context of Human-Computer Interaction?,0.7614
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How are users characterized in the context of Human-Computer Interaction?,0.5976
-7,Why does a user intentionally interact with an interactive computer system?,How is feedback provided and utilized within a Human-Computer Interaction system?,0.6359
-8,What does make up a complex user participation?,How are users characterized in the context of Human-Computer Interaction?,0.5643
-9,What is a human–computer interaction?,How are interaction techniques categorized in Human-Computer Interaction?,0.7528
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How are users characterized in the context of Human-Computer Interaction?,0.6147
-11,How is a user input processed by an interactive computer system?,How is feedback provided and utilized within a Human-Computer Interaction system?,0.6905
-12,How does a user receive an output from an interactive computer system?,How is feedback provided and utilized within a Human-Computer Interaction system?,0.6331
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How is feedback provided and utilized within a Human-Computer Interaction system?,0.6948
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the common evaluation methods used in Human-Computer Interaction studies?,0.5954
+0,What is an interactive computer system?,How do users interact with computer systems?,0.7287
+1,What is an interactive software system?,How do users interact with computer systems?,0.6418
+2,What is a complex interactive computer system?,What are the essential system components involved in Human-Computer Interaction?,0.6902
+3,What does make up the user interface of an interactive computer system?,How do users interact with computer systems?,0.7528
+4,What is a User?,What are the primary user roles in Human-Computer Interaction?,0.5129
+5,How can a user interact in human–computer interactions?,How do users interact with computer systems?,0.8183
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer systems?,0.7603
+7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer systems?,0.7742
+8,What does make up a complex user participation?,What are the primary user roles in Human-Computer Interaction?,0.57
+9,What is a human–computer interaction?,What types of user interfaces exist in Human-Computer Interaction?,0.7449
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What are the primary user roles in Human-Computer Interaction?,0.5991
+11,How is a user input processed by an interactive computer system?,How do users interact with computer systems?,0.7141
+12,How does a user receive an output from an interactive computer system?,How do users interact with computer systems?,0.6822
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with computer systems?,0.6998
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is task analysis conducted within the context of Human-Computer Interaction?,0.6153

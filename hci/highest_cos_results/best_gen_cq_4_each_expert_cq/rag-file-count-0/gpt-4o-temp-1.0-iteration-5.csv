@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How do users interact with computer systems?,0.7287
-1,What is an interactive software system?,How do software applications and tools support human-computer interaction?,0.6708
-2,What is a complex interactive computer system?,What are the fundamental concepts involved in human-computer interaction?,0.6979
-3,What does make up the user interface of an interactive computer system?,How do users interact with computer systems?,0.7528
-4,What is a User?,How do users interact with computer systems?,0.5106
-5,How can a user interact in human–computer interactions?,How do users interact with computer systems?,0.8183
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer systems?,0.7603
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer systems?,0.7742
-8,What does make up a complex user participation?,How do users interact with computer systems?,0.5346
-9,What is a human–computer interaction?,What are the fundamental concepts involved in human-computer interaction?,0.8181
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with computer systems?,0.5985
-11,How is a user input processed by an interactive computer system?,How do users interact with computer systems?,0.7141
-12,How does a user receive an output from an interactive computer system?,How do users interact with computer systems?,0.6822
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do input and output devices facilitate human-computer interaction?,0.7134
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the goals and objectives of human-computer interaction?,0.7154
+0,What is an interactive computer system?,What are the main components of a human-computer system?,0.615
+1,What is an interactive software system?,How do cognitive processes influence user interaction with computer systems?,0.5046
+2,What is a complex interactive computer system?,What are the main components of a human-computer system?,0.6201
+3,What does make up the user interface of an interactive computer system?,What are the main components of a human-computer system?,0.6508
+4,What is a User?,What types of user interfaces exist in HCI?,0.3198
+5,How can a user interact in human–computer interactions?,How do cognitive processes influence user interaction with computer systems?,0.6678
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do cognitive processes influence user interaction with computer systems?,0.6251
+7,Why does a user intentionally interact with an interactive computer system?,How do cognitive processes influence user interaction with computer systems?,0.6519
+8,What does make up a complex user participation?,What are the primary goals of Human-Computer Interaction?,0.4935
+9,What is a human–computer interaction?,What are the primary goals of Human-Computer Interaction?,0.7298
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do cognitive processes influence user interaction with computer systems?,0.5558
+11,How is a user input processed by an interactive computer system?,How do cognitive processes influence user interaction with computer systems?,0.583
+12,How does a user receive an output from an interactive computer system?,How do cognitive processes influence user interaction with computer systems?,0.4921
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do cognitive processes influence user interaction with computer systems?,0.5615
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the primary goals of Human-Computer Interaction?,0.6917

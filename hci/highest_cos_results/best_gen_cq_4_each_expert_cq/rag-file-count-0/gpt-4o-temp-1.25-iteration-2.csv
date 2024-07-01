@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What constitutes a human-computer interaction?,0.6941
-1,What is an interactive software system?,What constitutes a human-computer interaction?,0.6066
-2,What is a complex interactive computer system?,What constitutes a human-computer interaction?,0.6953
-3,What does make up the user interface of an interactive computer system?,What are the primary components of a user interface?,0.7206
-4,What is a User?,How are user needs identified and addressed in HCI design?,0.3935
-5,How can a user interact in human–computer interactions?,What constitutes a human-computer interaction?,0.7912
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What constitutes a human-computer interaction?,0.6099
-7,Why does a user intentionally interact with an interactive computer system?,What constitutes a human-computer interaction?,0.6161
-8,What does make up a complex user participation?,How are user needs identified and addressed in HCI design?,0.5041
-9,What is a human–computer interaction?,What constitutes a human-computer interaction?,0.9371
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How does context influence the interaction between humans and computers?,0.5429
-11,How is a user input processed by an interactive computer system?,What types of input devices are commonly used in human-computer interaction?,0.6065
-12,How does a user receive an output from an interactive computer system?,What constitutes a human-computer interaction?,0.4753
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What types of input devices are commonly used in human-computer interaction?,0.5678
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What constitutes a human-computer interaction?,0.5597
+0,What is an interactive computer system?,What are the fundamental components of a Human-Computer Interaction system?,0.723
+1,What is an interactive software system?,What are the fundamental components of a Human-Computer Interaction system?,0.6326
+2,What is a complex interactive computer system?,What are the fundamental components of a Human-Computer Interaction system?,0.7347
+3,What does make up the user interface of an interactive computer system?,What are the fundamental components of a Human-Computer Interaction system?,0.7642
+4,What is a User?,How do users' cognitive processes affect their interactions with computers?,0.3844
+5,How can a user interact in human–computer interactions?,What are the fundamental components of a Human-Computer Interaction system?,0.7097
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users' cognitive processes affect their interactions with computers?,0.6179
+7,Why does a user intentionally interact with an interactive computer system?,How do users' cognitive processes affect their interactions with computers?,0.6578
+8,What does make up a complex user participation?,How do users' cognitive processes affect their interactions with computers?,0.4785
+9,What is a human–computer interaction?,What are the fundamental components of a Human-Computer Interaction system?,0.7744
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users' cognitive processes affect their interactions with computers?,0.5902
+11,How is a user input processed by an interactive computer system?,What are the fundamental components of a Human-Computer Interaction system?,0.6061
+12,How does a user receive an output from an interactive computer system?,What are the fundamental components of a Human-Computer Interaction system?,0.4985
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the fundamental components of a Human-Computer Interaction system?,0.596
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used to evaluate user satisfaction in HCI?,0.5464

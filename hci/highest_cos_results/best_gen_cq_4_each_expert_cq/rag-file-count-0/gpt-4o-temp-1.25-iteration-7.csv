@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How do users interact with computer systems?,0.7287
-1,What is an interactive software system?,How do users interact with computer systems?,0.6418
-2,What is a complex interactive computer system?,What are the fundamental concepts of Human-Computer Interaction (HCI)?,0.68
-3,What does make up the user interface of an interactive computer system?,How do users interact with computer systems?,0.7528
-4,What is a User?,How do users interact with computer systems?,0.5106
-5,How can a user interact in human–computer interactions?,How do users interact with computer systems?,0.8183
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer systems?,0.7603
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer systems?,0.7742
-8,What does make up a complex user participation?,How do users interact with computer systems?,0.5346
-9,What is a human–computer interaction?,What are the fundamental concepts of Human-Computer Interaction (HCI)?,0.8062
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with computer systems?,0.5985
-11,How is a user input processed by an interactive computer system?,How do users interact with computer systems?,0.7141
-12,How does a user receive an output from an interactive computer system?,How do users interact with computer systems?,0.6822
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with computer systems?,0.6998
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the fundamental concepts of Human-Computer Interaction (HCI)?,0.5067
+0,What is an interactive computer system?,What are the fundamental principles of human-computer interaction?,0.6055
+1,What is an interactive software system?,What are the fundamental principles of human-computer interaction?,0.5123
+2,What is a complex interactive computer system?,What are the fundamental principles of human-computer interaction?,0.6405
+3,What does make up the user interface of an interactive computer system?,What are the fundamental principles of human-computer interaction?,0.6395
+4,What is a User?,How do we model user behavior in the context of HCI?,0.3645
+5,How can a user interact in human–computer interactions?,What are the fundamental principles of human-computer interaction?,0.7389
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the fundamental principles of human-computer interaction?,0.5423
+7,Why does a user intentionally interact with an interactive computer system?,What are the fundamental principles of human-computer interaction?,0.5395
+8,What does make up a complex user participation?,How do we model user behavior in the context of HCI?,0.4697
+9,What is a human–computer interaction?,What are the fundamental principles of human-computer interaction?,0.7629
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do cultural differences impact human-computer interaction?,0.4672
+11,How is a user input processed by an interactive computer system?,What are the fundamental principles of human-computer interaction?,0.516
+12,How does a user receive an output from an interactive computer system?,How are feedback mechanisms designed within HCI systems?,0.4702
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the fundamental principles of human-computer interaction?,0.5023
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used to evaluate user experience in HCI?,0.5372

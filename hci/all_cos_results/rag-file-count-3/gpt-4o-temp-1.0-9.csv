@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What does make up the user interface of an interactive computer system?,0.7966
+1,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What is an interactive computer system?,0.7684
+2,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What is a complex interactive computer system?,0.7650
+3,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What is a human–computer interaction?,0.7360
+4,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What is an interactive software system?,0.7071
+5,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,How can a user interact in human–computer interactions?,0.6723
+6,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,How is a user input processed by an interactive computer system?,0.6526
+7,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6353
+8,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,Why does a user intentionally interact with an interactive computer system?,0.6145
+9,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5996
+10,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,How does a user receive an output from an interactive computer system?,0.5438
+11,How can multimodal interfaces be categorized and utilized in HCI?,What does make up the user interface of an interactive computer system?,0.5206
+12,What types of interaction modes are recognized in HCI?,What does make up the user interface of an interactive computer system?,0.5184
+13,What types of interaction modes are recognized in HCI?,How can a user interact in human–computer interactions?,0.5088
+14,What types of interaction modes are recognized in HCI?,What is a human–computer interaction?,0.5083
+15,What criteria are used to choose appropriate interaction methods for users with disabilities?,How can a user interact in human–computer interactions?,0.5053
+16,What ontology models are commonly used for representing interaction components in HCI?,What is a complex interactive computer system?,0.5037
+17,What ontology models are commonly used for representing interaction components in HCI?,What does make up the user interface of an interactive computer system?,0.5036
+18,What types of interaction modes are recognized in HCI?,What is a complex interactive computer system?,0.5031
+19,How is user sensory perception mapped to interaction modalities?,How can a user interact in human–computer interactions?,0.4972
+20,How can multimodal interfaces be categorized and utilized in HCI?,What is a complex interactive computer system?,0.4956
+21,How can multimodal interfaces be categorized and utilized in HCI?,What is a human–computer interaction?,0.4911
+22,How does the context of use influence the adaptation of user interfaces?,What does make up the user interface of an interactive computer system?,0.4758
+23,How are input and output modalities defined in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4755
+24,What ontology models are commonly used for representing interaction components in HCI?,How can a user interact in human–computer interactions?,0.4753
+25,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What does make up a complex user participation?,0.4749
+26,How can multimodal interfaces be categorized and utilized in HCI?,How can a user interact in human–computer interactions?,0.4738
+27,How can knowledge representation enhance personalized adaptations in HCI?,How can a user interact in human–computer interactions?,0.4719
+28,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4642
+29,What are the methods for evaluating the effectiveness of adaptive HCI systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4625
+30,What ontology models are commonly used for representing interaction components in HCI?,What is a human–computer interaction?,0.4609
+31,What ontology models are commonly used for representing interaction components in HCI?,What is an interactive computer system?,0.4601
+32,How do external environmental factors affect user-system interactions?,Why does a user intentionally interact with an interactive computer system?,0.4588
+33,What criteria are used to choose appropriate interaction methods for users with disabilities?,What does make up the user interface of an interactive computer system?,0.4543
+34,How does the context of use influence the adaptation of user interfaces?,How can a user interact in human–computer interactions?,0.4537
+35,How does the context of use influence the adaptation of user interfaces?,Why does a user intentionally interact with an interactive computer system?,0.4533
+36,What ontology models are commonly used for representing interaction components in HCI?,What is an interactive software system?,0.4526
+37,What types of interaction modes are recognized in HCI?,What is an interactive computer system?,0.4480
+38,What criteria are used to choose appropriate interaction methods for users with disabilities?,What is a human–computer interaction?,0.4479
+39,What role does reasoning play in adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.4470
+40,How does the user profile influence system adaptations in HCI?,What does make up the user interface of an interactive computer system?,0.4469
+41,How can multimodal interfaces be categorized and utilized in HCI?,What is an interactive computer system?,0.4462
+42,What are the implications of using ontologies for real-time interaction adaptation?,How can a user interact in human–computer interactions?,0.4454
+43,How is user sensory perception mapped to interaction modalities?,What does make up the user interface of an interactive computer system?,0.4433
+44,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What is a complex interactive computer system?,0.4386
+45,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4385
+46,What are the implications of using ontologies for real-time interaction adaptation?,What is an interactive software system?,0.4323
+47,How can multimodal interfaces be categorized and utilized in HCI?,What is an interactive software system?,0.4284
+48,How do external environmental factors affect user-system interactions?,How can a user interact in human–computer interactions?,0.4232
+49,What are the implications of using ontologies for real-time interaction adaptation?,What does make up the user interface of an interactive computer system?,0.4228
+50,What are the implications of using ontologies for real-time interaction adaptation?,What is an interactive computer system?,0.4217
+51,What criteria are used to choose appropriate interaction methods for users with disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4212
+52,How can knowledge representation enhance personalized adaptations in HCI?,What does make up a complex user participation?,0.4205
+53,What are the implications of using ontologies for real-time interaction adaptation?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4204
+54,How does the user profile influence system adaptations in HCI?,Why does a user intentionally interact with an interactive computer system?,0.4177
+55,What are the implications of using ontologies for real-time interaction adaptation?,What is a complex interactive computer system?,0.4162
+56,How is user sensory perception mapped to interaction modalities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4143
+57,How are input and output modalities defined in HCI?,How is a user input processed by an interactive computer system?,0.4121
+58,What types of interaction modes are recognized in HCI?,What is an interactive software system?,0.4114
+59,How is user sensory perception mapped to interaction modalities?,How is a user input processed by an interactive computer system?,0.4109
+60,How is user sensory perception mapped to interaction modalities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4080
+61,What criteria are used to choose appropriate interaction methods for users with disabilities?,Why does a user intentionally interact with an interactive computer system?,0.4074
+62,How does the context of use influence the adaptation of user interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4073
+63,What are the implications of using ontologies for real-time interaction adaptation?,What is a human–computer interaction?,0.4050
+64,What are the implications of using ontologies for real-time interaction adaptation?,Why does a user intentionally interact with an interactive computer system?,0.4018
+65,How does the context of use influence the adaptation of user interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4016
+66,How can knowledge representation enhance personalized adaptations in HCI?,What does make up the user interface of an interactive computer system?,0.4014
+67,How can multimodal interfaces be categorized and utilized in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4003
+68,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What is an interactive computer system?,0.4000
+69,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What does make up the user interface of an interactive computer system?,0.3979
+70,How are input and output modalities defined in HCI?,How does a user receive an output from an interactive computer system?,0.3976
+71,What are the challenges of designing adaptive interfaces for diverse user profiles?,What does make up a complex user participation?,0.3972
+72,What ontology models are commonly used for representing interaction components in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3965
+73,How can knowledge representation enhance personalized adaptations in HCI?,What is a human–computer interaction?,0.3960
+74,What types of interaction modes are recognized in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3957
+75,How can knowledge representation enhance personalized adaptations in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3941
+76,What types of interaction modes are recognized in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3895
+77,What criteria are used to choose appropriate interaction methods for users with disabilities?,What is an interactive computer system?,0.3864
+78,How can multimodal interfaces be categorized and utilized in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3859
+79,What are the challenges of designing adaptive interfaces for diverse user profiles?,What does make up the user interface of an interactive computer system?,0.3856
+80,How do external environmental factors affect user-system interactions?,What does make up the user interface of an interactive computer system?,0.3848
+81,How does the user profile influence system adaptations in HCI?,What does make up a complex user participation?,0.3833
+82,How does the user profile influence system adaptations in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3828
+83,How does the user profile influence system adaptations in HCI?,How can a user interact in human–computer interactions?,0.3825
+84,How is user sensory perception mapped to interaction modalities?,What is a human–computer interaction?,0.3824
+85,How can knowledge representation enhance personalized adaptations in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3812
+86,How do external environmental factors affect user-system interactions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3803
+87,What role does reasoning play in adaptive interfaces?,What is a complex interactive computer system?,0.3787
+88,What types of interaction modes are recognized in HCI?,How is a user input processed by an interactive computer system?,0.3779
+89,How can knowledge representation enhance personalized adaptations in HCI?,What is a complex interactive computer system?,0.3774
+90,How do external environmental factors affect user-system interactions?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3739
+91,What role does reasoning play in adaptive interfaces?,What is an interactive computer system?,0.3723
+92,How can knowledge representation enhance personalized adaptations in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3723
+93,How is user sensory perception mapped to interaction modalities?,What is a complex interactive computer system?,0.3719
+94,What ontology models are commonly used for representing interaction components in HCI?,How is a user input processed by an interactive computer system?,0.3715
+95,How can knowledge representation enhance personalized adaptations in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3706
+96,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What is an interactive software system?,0.3697
+97,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What is a human–computer interaction?,0.3693
+98,How can multimodal interfaces be categorized and utilized in HCI?,How is a user input processed by an interactive computer system?,0.3682
+99,How does the user profile influence system adaptations in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3675
+100,How is user sensory perception mapped to interaction modalities?,What is an interactive computer system?,0.3672
+101,How does the user profile influence system adaptations in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3663
+102,What role does reasoning play in adaptive interfaces?,Why does a user intentionally interact with an interactive computer system?,0.3643
+103,What types of interaction modes are recognized in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3632
+104,What ontology models are commonly used for representing interaction components in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3632
+105,What are the challenges of designing adaptive interfaces for diverse user profiles?,How can a user interact in human–computer interactions?,0.3626
+106,What are the challenges of designing adaptive interfaces for diverse user profiles?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3622
+107,What criteria are used to choose appropriate interaction methods for users with disabilities?,What is a complex interactive computer system?,0.3621
+108,How does the context of use influence the adaptation of user interfaces?,What does make up a complex user participation?,0.3619
+109,What are the methods for evaluating the effectiveness of adaptive HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3615
+110,What are the methods for evaluating the effectiveness of adaptive HCI systems?,How can a user interact in human–computer interactions?,0.3601
+111,What role does reasoning play in adaptive interfaces?,What is an interactive software system?,0.3589
+112,What criteria are used to choose appropriate interaction methods for users with disabilities?,What is an interactive software system?,0.3587
+113,How is user sensory perception mapped to interaction modalities?,Why does a user intentionally interact with an interactive computer system?,0.3580
+114,What are the methods for evaluating the effectiveness of adaptive HCI systems?,How is a user input processed by an interactive computer system?,0.3570
+115,What criteria are used to choose appropriate interaction methods for users with disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3549
+116,What types of interaction modes are recognized in HCI?,What does make up a complex user participation?,0.3537
+117,What role does reasoning play in adaptive interfaces?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3531
+118,How is user sensory perception mapped to interaction modalities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3527
+119,What ontology models are commonly used for representing interaction components in HCI?,What does make up a complex user participation?,0.3514
+120,What ontology models are commonly used for representing interaction components in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3509
+121,What are the implications of using ontologies for real-time interaction adaptation?,How is a user input processed by an interactive computer system?,0.3489
+122,How are input and output modalities defined in HCI?,What does make up the user interface of an interactive computer system?,0.3489
+123,How does the user profile influence system adaptations in HCI?,What is a User?,0.3481
+124,How does the context of use influence the adaptation of user interfaces?,What is a human–computer interaction?,0.3472
+125,What criteria are used to choose appropriate interaction methods for users with disabilities?,What does make up a complex user participation?,0.3470
+126,What role does reasoning play in adaptive interfaces?,How is a user input processed by an interactive computer system?,0.3459
+127,How can multimodal interfaces be categorized and utilized in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3413
+128,What role does reasoning play in adaptive interfaces?,How can a user interact in human–computer interactions?,0.3396
+129,How does the user profile influence system adaptations in HCI?,How is a user input processed by an interactive computer system?,0.3381
+130,What types of interaction modes are recognized in HCI?,How does a user receive an output from an interactive computer system?,0.3358
+131,What role does reasoning play in adaptive interfaces?,What is a human–computer interaction?,0.3358
+132,What are the methods for evaluating the effectiveness of adaptive HCI systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3339
+133,What criteria are used to choose appropriate interaction methods for users with disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3305
+134,How can multimodal interfaces be categorized and utilized in HCI?,What does make up a complex user participation?,0.3299
+135,How do external environmental factors affect user-system interactions?,What is a human–computer interaction?,0.3297
+136,How can knowledge representation enhance personalized adaptations in HCI?,What is an interactive computer system?,0.3281
+137,What are the implications of using ontologies for real-time interaction adaptation?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3281
+138,How are input and output modalities defined in HCI?,What is a complex interactive computer system?,0.3261
+139,How does the user profile influence system adaptations in HCI?,How does a user receive an output from an interactive computer system?,0.3256
+140,How do external environmental factors affect user-system interactions?,What does make up a complex user participation?,0.3247
+141,How does the user profile influence system adaptations in HCI?,What is an interactive computer system?,0.3242
+142,How is user sensory perception mapped to interaction modalities?,How does a user receive an output from an interactive computer system?,0.3237
+143,How can multimodal interfaces be categorized and utilized in HCI?,How does a user receive an output from an interactive computer system?,0.3230
+144,How is user sensory perception mapped to interaction modalities?,What does make up a complex user participation?,0.3217
+145,How is user sensory perception mapped to interaction modalities?,What is an interactive software system?,0.3212
+146,How can knowledge representation enhance personalized adaptations in HCI?,What is an interactive software system?,0.3201
+147,What role does reasoning play in adaptive interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3183
+148,What are the methods for evaluating the effectiveness of adaptive HCI systems?,How does a user receive an output from an interactive computer system?,0.3180
+149,What are the challenges of designing adaptive interfaces for diverse user profiles?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3180
+150,What criteria are used to choose appropriate interaction methods for users with disabilities?,How is a user input processed by an interactive computer system?,0.3178
+151,How can knowledge representation enhance personalized adaptations in HCI?,How is a user input processed by an interactive computer system?,0.3163
+152,How is user sensory perception mapped to interaction modalities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3145
+153,How are input and output modalities defined in HCI?,What is a human–computer interaction?,0.3137
+154,How does the user profile influence system adaptations in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3137
+155,How does the context of use influence the adaptation of user interfaces?,How is a user input processed by an interactive computer system?,0.3127
+156,How can knowledge representation enhance personalized adaptations in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3125
+157,What are the challenges of designing adaptive interfaces for diverse user profiles?,Why does a user intentionally interact with an interactive computer system?,0.3117
+158,What are the methods for evaluating the effectiveness of adaptive HCI systems?,Why does a user intentionally interact with an interactive computer system?,0.3065
+159,How does the user profile influence system adaptations in HCI?,What is a complex interactive computer system?,0.3063
+160,How does the context of use influence the adaptation of user interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3056
+161,How do external environmental factors affect user-system interactions?,What is an interactive computer system?,0.3049
+162,How does the context of use influence the adaptation of user interfaces?,What is an interactive computer system?,0.3040
+163,What criteria are used to choose appropriate interaction methods for users with disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3023
+164,What ontology models are commonly used for representing interaction components in HCI?,How does a user receive an output from an interactive computer system?,0.3006
+165,How does the context of use influence the adaptation of user interfaces?,What is an interactive software system?,0.2989
+166,How does the user profile influence system adaptations in HCI?,What is a human–computer interaction?,0.2986
+167,What are the implications of using ontologies for real-time interaction adaptation?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2985
+168,How does the user profile influence system adaptations in HCI?,What is an interactive software system?,0.2960
+169,How are input and output modalities defined in HCI?,What is an interactive computer system?,0.2949
+170,How do external environmental factors affect user-system interactions?,How is a user input processed by an interactive computer system?,0.2918
+171,What are the implications of using ontologies for real-time interaction adaptation?,What does make up a complex user participation?,0.2908
+172,What are the implications of using ontologies for real-time interaction adaptation?,How does a user receive an output from an interactive computer system?,0.2902
+173,What are the challenges of designing adaptive interfaces for diverse user profiles?,What is a User?,0.2896
+174,What role does reasoning play in adaptive interfaces?,What does make up a complex user participation?,0.2887
+175,How can multimodal interfaces be categorized and utilized in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2884
+176,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What does make up a complex user participation?,0.2841
+177,How does the context of use influence the adaptation of user interfaces?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2815
+178,What types of interaction modes are recognized in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2805
+179,How do external environmental factors affect user-system interactions?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2790
+180,What role does reasoning play in adaptive interfaces?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2769
+181,How does the context of use influence the adaptation of user interfaces?,What is a User?,0.2760
+182,How does the context of use influence the adaptation of user interfaces?,What is a complex interactive computer system?,0.2759
+183,What types of interaction modes are recognized in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2759
+184,What are the challenges of designing adaptive interfaces for diverse user profiles?,What is a complex interactive computer system?,0.2733
+185,How do external environmental factors affect user-system interactions?,What is a complex interactive computer system?,0.2710
+186,How do external environmental factors affect user-system interactions?,What is an interactive software system?,0.2666
+187,What criteria are used to choose appropriate interaction methods for users with disabilities?,How does a user receive an output from an interactive computer system?,0.2633
+188,What ontology models are commonly used for representing interaction components in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2624
+189,How are input and output modalities defined in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2603
+190,What are the challenges of designing adaptive interfaces for diverse user profiles?,What is an interactive computer system?,0.2602
+191,What ontology models are commonly used for representing interaction components in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2593
+192,How do external environmental factors affect user-system interactions?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2556
+193,How can multimodal interfaces be categorized and utilized in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2525
+194,How can knowledge representation enhance personalized adaptations in HCI?,How does a user receive an output from an interactive computer system?,0.2515
+195,How are input and output modalities defined in HCI?,What is an interactive software system?,0.2500
+196,What are the challenges of designing adaptive interfaces for diverse user profiles?,What is a human–computer interaction?,0.2475
+197,What role does reasoning play in adaptive interfaces?,How does a user receive an output from an interactive computer system?,0.2464
+198,What are the challenges of designing adaptive interfaces for diverse user profiles?,What is an interactive software system?,0.2462
+199,What role does reasoning play in adaptive interfaces?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2448
+200,How are input and output modalities defined in HCI?,How can a user interact in human–computer interactions?,0.2433
+201,What are the implications of using ontologies for real-time interaction adaptation?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2425
+202,How do external environmental factors affect user-system interactions?,How does a user receive an output from an interactive computer system?,0.2392
+203,What are the methods for evaluating the effectiveness of adaptive HCI systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2366
+204,What are the challenges of designing adaptive interfaces for diverse user profiles?,How is a user input processed by an interactive computer system?,0.2364
+205,What are the main components of an interactive system in Human-Computer Interaction (HCI)?,What is a User?,0.2355
+206,What criteria are used to choose appropriate interaction methods for users with disabilities?,What is a User?,0.2353
+207,What are the challenges of designing adaptive interfaces for diverse user profiles?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2343
+208,What are the challenges of designing adaptive interfaces for diverse user profiles?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2231
+209,How do external environmental factors affect user-system interactions?,What is a User?,0.2206
+210,How are input and output modalities defined in HCI?,Why does a user intentionally interact with an interactive computer system?,0.2110
+211,How can knowledge representation enhance personalized adaptations in HCI?,What is a User?,0.2086
+212,How are input and output modalities defined in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2077
+213,How does the context of use influence the adaptation of user interfaces?,How does a user receive an output from an interactive computer system?,0.2011
+214,How are input and output modalities defined in HCI?,What does make up a complex user participation?,0.2005
+215,How is user sensory perception mapped to interaction modalities?,What is a User?,0.1905
+216,What are the challenges of designing adaptive interfaces for diverse user profiles?,How does a user receive an output from an interactive computer system?,0.1826
+217,What ontology models are commonly used for representing interaction components in HCI?,What is a User?,0.1468
+218,How are input and output modalities defined in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1276
+219,What are the implications of using ontologies for real-time interaction adaptation?,What is a User?,0.1227
+220,How can multimodal interfaces be categorized and utilized in HCI?,What is a User?,0.1089
+221,What types of interaction modes are recognized in HCI?,What is a User?,0.1066
+222,How are input and output modalities defined in HCI?,What is a User?,0.0879
+223,What are the methods for evaluating the effectiveness of adaptive HCI systems?,What is a User?,0.0847
+224,What role does reasoning play in adaptive interfaces?,What is a User?,0.0770

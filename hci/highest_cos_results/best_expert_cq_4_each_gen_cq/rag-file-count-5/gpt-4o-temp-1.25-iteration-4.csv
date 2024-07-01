@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What disabilities belong to each type of impairment?,What does make up a complex user participation?,0.2302
+1,What impairment or combinations of impairment does a user have?,What is a User?,0.4158
+2,What support assistant can be recommended to a user considering his/her disabilities and capabilities?,What is a User?,0.2711
+3,What activities and participations can a user perform in the information society according to his/her capabilities?,What does make up a complex user participation?,0.6331
+4,How can user interaction be personalized based on their context and preferences?,How can a user interact in human–computer interactions?,0.5698
+5,What sensory and motor abilities are required for each interaction modality?,How can a user interact in human–computer interactions?,0.5031
+6,How do assistive technologies and adaptive strategies support users with disabilities in performing activities?,How can a user interact in human–computer interactions?,0.4525
+7,What are the functional capabilities of users with given impairments?,What is a User?,0.4014
+8,"How can user profiles be represented to reflect individual needs, preferences, and capabilities?",What is a User?,0.4738
+9,How does the identification of user activities contribute to recommending suitable technologies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4905
+10,What are the formal properties and relationships of interaction components in adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.4711
+11,How can adaptive systems infer necessary adaptations based on user interactions?,How can a user interact in human–computer interactions?,0.4704
+12,What types of input and output modalities support user interaction in various contexts?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.6475
+13,How do user modeling algorithms contribute to improving human-computer interaction?,How can a user interact in human–computer interactions?,0.6267
+14,What are the principles and best practices for designing multimodal interfaces that consider user capabilities and impairments?,What does make up the user interface of an interactive computer system?,0.4549

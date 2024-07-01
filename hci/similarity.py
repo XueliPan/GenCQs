@@ -73,9 +73,6 @@ def main(gen_cq_file, ground_truth_cq_file,rag_file_count, iteration, all_cos_re
     cos_sim_df['expertCQ'] = expertCQ_ls
     cos_sim_df['cos_score'] = score_ls
 
-    load_dotenv()
-    gpt_model = os.getenv('MODEL')
-    tempterature = float(os.getenv('TEMPERATURE'))
     cos_sim_df.to_csv(all_cos_results_file)
 
     # calculate the highest cosine similarity for each genCQ or each expertCQ

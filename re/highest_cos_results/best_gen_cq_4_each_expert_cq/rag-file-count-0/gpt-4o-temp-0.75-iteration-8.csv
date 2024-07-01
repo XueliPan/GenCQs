@@ -1,0 +1,78 @@
+,expertCQs,best_genCQs,best_cos_score
+0,How has the proportion of empirical studies evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.5325
+1,How often are which empirical methods used over time?,What methodologies are most frequently used in empirical Requirements Engineering studies?,0.5737
+2,Which sub-fields of SE and RE do the empirical studies cover over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.5367
+3, How do the authors justify the lack of a proper study?,How do empirical studies handle conflicting requirements?,0.4432
+4,How has the proportion of papers that do not have an empirical study evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.5564
+5,How many empirical studies are by authors working for large software development companies?,Who are the most prolific authors in empirical Requirements Engineering research?,0.6497
+6,How has the proportion of studies by authors working for large software development companies evolved over time?,Who are the most prolific authors in empirical Requirements Engineering research?,0.5577
+7,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",How has the focus of empirical research in Requirements Engineering evolved over time?,0.4395
+8,How do the authors justify the selection and combination of empirical methods and design elements?,What methodologies are most frequently used in empirical Requirements Engineering studies?,0.605
+9,How often are which empirical methods used?,What methodologies are most frequently used in empirical Requirements Engineering studies?,0.6219
+10,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",What secondary sources are often cited in empirical Requirements Engineering research?,0.544
+11,How has the proportion of replications evolved over time?,What are the patterns in the evolution of empirical research methodologies in Requirements Engineering?,0.2583
+12,How has the use of triangulation for research design evolved over time?,What are the patterns in the evolution of empirical research methodologies in Requirements Engineering?,0.3887
+13,How often are those who conduct the studies also the authors of the papers?,Who are the most prolific authors in empirical Requirements Engineering research?,0.4828
+14,How do the authors justify preventing bias in the study results?,How do empirical studies handle conflicting requirements?,0.4016
+15,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,What role do prototypes play in empirical Requirements Engineering research?,0.3532
+16,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,What are the most significant innovations coming from empirical research in Requirements Engineering?,0.4315
+17,How often are which statistical methods used?,What statistical methods are commonly used to analyze empirical data in Requirements Engineering?,0.5226
+18,How has the use of statistical methods evolved over time?,What are the patterns in the evolution of empirical research methodologies in Requirements Engineering?,0.4405
+19,Do authors report that assumptions and limitations of statistical methods are met before using them?,How do empirical studies handle conflicting requirements?,0.3915
+20,How has the definition of the population evolved over time?,Which demographic factors are usually considered in empirical Requirements Engineering studies?,0.2547
+21,How has the use of power analysis and effect size estimation evolved over time?,How do different empirical studies in Requirements Engineering compare in terms of sample sizes?,0.3905
+22,How has the reporting of threats to validity evolved over time?,How do researchers in Requirements Engineering validate their empirical findings?,0.3996
+23,What types of threats to validity do the authors report?,How do researchers in Requirements Engineering validate their empirical findings?,0.4196
+24,How has the use of theories for a diverse and reflective generalization of study results evolved over time?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.3891
+25,How have the proportions of case studies and action research in the empirical methods used evolved over time?,What are the patterns in the evolution of empirical research methodologies in Requirements Engineering?,0.5892
+26,How has the reporting of the subjects evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.391
+27,How has the reporting of the objects of study / treatments evolved over time?,What tools or techniques are used to trace requirements changes in empirical research?,0.405
+28,How has the reporting of the tasks evolved over time?,How has the focus of empirical research in Requirements Engineering evolved over time?,0.4569
+29,How has the reporting of the setting evolved over time?,What tools or techniques are used to trace requirements changes in empirical research?,0.3735
+30,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,How do researchers in Requirements Engineering validate their empirical findings?,0.4479
+31,How has the the reporting of the population evolved over time?,Which demographic factors are usually considered in empirical Requirements Engineering studies?,0.2531
+32,How has the reporting of the context evolved over time?,How has the focus of empirical research in Requirements Engineering evolved over time?,0.3959
+33,Do the authors exlain WHY their apporach is better than others in a selected context with specific characteristics?,What measures of quality are applied to requirements in empirical studies?,0.3552
+34,Do the authors exlain WHEN their apporach is better than others in a selected context with specific characteristics?,What measures of quality are applied to requirements in empirical studies?,0.3524
+35,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,What measures of quality are applied to requirements in empirical studies?,0.393
+36,Do the authors report the selected context of their study with specific characteristics?,What role do user studies play in empirical Requirements Engineering research?,0.4904
+37,Does the research design allow for efficient reuse of study (results) by other researchers?,How do empirical studies assess the reuse of requirements?,0.4491
+38,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",What are the most frequently raised research questions in empirical Requirements Engineering?,0.4259
+39,How has the reporting of research questions and answers evolved over time?,How has the focus of empirical research in Requirements Engineering evolved over time?,0.4736
+40,How has the use of language (academic vs. plain) in scientific publications evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.3886
+41,Do the authors use a well defined taxonomy for their research design?,How do empirical Requirements Engineering studies typically structure their research designs?,0.4829
+42,Do the authors use other channels to publish their results for making them available to industrial users?,What are the most significant collaborations between academia and industry in this field?,0.3434
+43,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",What secondary sources are often cited in empirical Requirements Engineering research?,0.5496
+44,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",What secondary sources are often cited in empirical Requirements Engineering research?,0.5557
+45,Have the authors done a systematic review of related work?,Who are the most prolific authors in empirical Requirements Engineering research?,0.4146
+46,"""How up-to-date (and relevant) are reported (systematic) reviews, so-called secondary research?""",How do researchers in Requirements Engineering validate their empirical findings?,0.4257
+47,How many publications are analyzed in (systematic literature) reviews?,Which journals publish the most articles on empirical Requirements Engineering?,0.4715
+48,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",Who are the most prolific authors in empirical Requirements Engineering research?,0.4279
+49,"""Do the authors refer to and consistently use a basic terminology, descriptors, and keywords to identify and select primary studies for (systematic literature) reviews?""",What secondary sources are often cited in empirical Requirements Engineering research?,0.4203
+50,"""Do electronic resources (digital libraries and databases) provide all the functionalies that support the identification, selection, and retrieval of bibliographic and full-text information about SE research?""",What are the citation networks like for empirical Requirements Engineering research papers?,0.4206
+51,Do the authors use multiple digital libraries including publications from SE and RE and related disciplines for (systematic literature) reviews?,What are the citation networks like for empirical Requirements Engineering research papers?,0.377
+52,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,What are the citation networks like for empirical Requirements Engineering research papers?,0.4451
+53,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,What measures of quality are applied to requirements in empirical studies?,0.6401
+54,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,What measures of quality are applied to requirements in empirical studies?,0.6036
+55,Do the authors use (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence?,What measures of quality are applied to requirements in empirical studies?,0.5441
+56,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,What measures of quality are applied to requirements in empirical studies?,0.5225
+57,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,What qualitative methods are prevalent in empirical Requirements Engineering research?,0.5444
+58,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,What qualitative methods are prevalent in empirical Requirements Engineering research?,0.5731
+59,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,How has the focus of empirical research in Requirements Engineering evolved over time?,0.5575
+60,How many different empirical methods are used per publication?,What methodologies are most frequently used in empirical Requirements Engineering studies?,0.5863
+61,How has the number of empirical methods used per publication evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.5798
+62,Which methods are used to synthesize evidence from data of different empirical methods?,What are the common data collection techniques used in empirical Requirements Engineering?,0.5574
+63,How many studies incorporate theories?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.4227
+64,How has the incorporation of theories in studies evolved over time?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.3833
+65,"""For which purpose do authors incorporate theories into their studies (use, testing, modification, formulation)?""",Who are the most prolific authors in empirical Requirements Engineering research?,0.4254
+66,"""What is the proportion of theories from other disciplines, from other disciplines with adaptions for the SE and RE, and from SE and RE itself?""",How has the volume of empirical Requirements Engineering publications changed over the years?,0.3325
+67,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",How has the volume of empirical Requirements Engineering publications changed over the years?,0.3522
+68,How many theories from the SE and RE are there?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.3608
+69,How has the number of theories from SE and RE evolved over time?,How has the volume of empirical Requirements Engineering publications changed over the years?,0.3665
+70,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",What theories are frequently applied in empirical studies of Requirements Engineering?,0.3169
+71,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.3587
+72,How has the proportion of each of the three levels of sophistication for theories from SE and RE evolved over time?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.3519
+73,"""Do the authors use standards to describe the theories incorporated (used, tested, modified, formulated)?""",Who are the most prolific authors in empirical Requirements Engineering research?,0.3757
+74,How often are standards used to describe the theories incorporated?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.468
+75,How has the use of standards to describe the theories incorporated evolved over time?,What theories are frequently applied in empirical studies of Requirements Engineering?,0.4066
+76,Do the authors refer to a reference (website or systematic review) that systematizes and characterizes the theory incorporated?,What secondary sources are often cited in empirical Requirements Engineering research?,0.3823

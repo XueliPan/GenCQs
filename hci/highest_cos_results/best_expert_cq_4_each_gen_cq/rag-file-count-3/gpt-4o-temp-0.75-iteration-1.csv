@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the core entities involved in human-computer interaction in the context of adaptive systems?,What is a human–computer interaction?,0.6323
+1,How are user characteristics and abilities represented in the ontology for adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.5132
+2,"What types of interaction components (mode, modality, medium) are modeled in the HCI ontology?",What is a complex interactive computer system?,0.4582
+3,How can input modalities be adapted based on the user's physical abilities?,How is a user input processed by an interactive computer system?,0.4549
+4,What adaptation rules can be defined to customize the user interface for individuals with disabilities?,What does make up the user interface of an interactive computer system?,0.3853
+5,How are context and user environment integrated into the adaptation of interactive systems?,What does make up the user interface of an interactive computer system?,0.6463
+6,What are the relationships between input and output modalities in the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4736
+7,"How can multimodal interfaces be structured in terms of modes, modalities, and media?",What does make up the user interface of an interactive computer system?,0.4247
+8,What are the main properties and classes used to describe a user's interaction with a system in the ontology?,What does make up the user interface of an interactive computer system?,0.6065
+9,How do reasoning engines like Pellet work with ontological models to infer new information for adaptive interfaces?,What does make up the user interface of an interactive computer system?,0.3722
+10,How is historical interaction data used to model and predict user behavior in adaptive systems?,How can a user interact in human–computer interactions?,0.5223
+11,What methods are used to ensure the consistency and correctness of the ontology in HCI applications?,What is a complex interactive computer system?,0.2903
+12,How can we measure and evaluate the effectiveness of user interface adaptations based on ontological reasoning?,What does make up the user interface of an interactive computer system?,0.4676
+13,What computational techniques can be integrated into the HCI ontology to support real-time adaptation?,What is a complex interactive computer system?,0.3901
+14,How can the HCI ontology be extended to cover new modalities and interaction techniques as technology evolves?,What is a human–computer interaction?,0.4399

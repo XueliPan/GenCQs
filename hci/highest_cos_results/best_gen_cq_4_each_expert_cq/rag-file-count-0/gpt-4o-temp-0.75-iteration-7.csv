@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How are user tasks modeled in interactive systems?,0.7248
-1,What is an interactive software system?,How are user tasks modeled in interactive systems?,0.705
-2,What is a complex interactive computer system?,How are user tasks modeled in interactive systems?,0.6711
-3,What does make up the user interface of an interactive computer system?,How are user tasks modeled in interactive systems?,0.7285
-4,What is a User?,Which user characteristics are considered in HCI design?,0.455
-5,How can a user interact in human–computer interactions?,What are the main components of human-computer interaction?,0.7173
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How are user tasks modeled in interactive systems?,0.6326
-7,Why does a user intentionally interact with an interactive computer system?,How are user tasks modeled in interactive systems?,0.6311
-8,What does make up a complex user participation?,How are user tasks modeled in interactive systems?,0.5123
-9,What is a human–computer interaction?,What are the main components of human-computer interaction?,0.7888
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How are user tasks modeled in interactive systems?,0.4908
-11,How is a user input processed by an interactive computer system?,How are user tasks modeled in interactive systems?,0.7194
-12,How does a user receive an output from an interactive computer system?,How are user tasks modeled in interactive systems?,0.6032
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How are user tasks modeled in interactive systems?,0.7104
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,Which methods are used to evaluate user satisfaction in HCI?,0.5329
+0,What is an interactive computer system?,What are the main types of computer systems used in human-computer interaction?,0.7153
+1,What is an interactive software system?,What are the main types of computer systems used in human-computer interaction?,0.6064
+2,What is a complex interactive computer system?,What are the main types of computer systems used in human-computer interaction?,0.7295
+3,What does make up the user interface of an interactive computer system?,What are the main types of computer systems used in human-computer interaction?,0.713
+4,What is a User?,What constitutes a human in the context of human-computer interaction?,0.469
+5,How can a user interact in human–computer interactions?,What are the common interaction styles between humans and computers?,0.7405
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do humans perceive and process information from computer systems?,0.5722
+7,Why does a user intentionally interact with an interactive computer system?,What are the main types of computer systems used in human-computer interaction?,0.5519
+8,What does make up a complex user participation?,What are the components of a user-centered design process?,0.5329
+9,What is a human–computer interaction?,What constitutes a human in the context of human-computer interaction?,0.8346
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?","How do cognitive, physical, and social factors influence human-computer interaction?",0.5223
+11,How is a user input processed by an interactive computer system?,How do humans perceive and process information from computer systems?,0.5908
+12,How does a user receive an output from an interactive computer system?,How do humans perceive and process information from computer systems?,0.573
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do humans perceive and process information from computer systems?,0.6067
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What constitutes a human in the context of human-computer interaction?,0.5118

@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How do users interact with computer systems in various contexts?,0.6957
-1,What is an interactive software system?,What are the common challenges in designing interactive systems?,0.6522
-2,What is a complex interactive computer system?,What are the core components of a human-computer interaction system?,0.6786
-3,What does make up the user interface of an interactive computer system?,How do users interact with computer systems in various contexts?,0.7304
-4,What is a User?,How do users interact with computer systems in various contexts?,0.4973
-5,How can a user interact in human–computer interactions?,How do users interact with computer systems in various contexts?,0.7876
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer systems in various contexts?,0.7458
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer systems in various contexts?,0.7546
-8,What does make up a complex user participation?,How do users interact with computer systems in various contexts?,0.5244
-9,What is a human–computer interaction?,What role does usability play in human-computer interaction?,0.7026
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with computer systems in various contexts?,0.5692
-11,How is a user input processed by an interactive computer system?,How do users interact with computer systems in various contexts?,0.6689
-12,How does a user receive an output from an interactive computer system?,How do users interact with computer systems in various contexts?,0.6415
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with computer systems in various contexts?,0.6574
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methodologies are used to evaluate user experience?,0.5408
+0,What is an interactive computer system?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.6288
+1,What is an interactive software system?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.5928
+2,What is a complex interactive computer system?,What are the main interaction paradigms in HCI?,0.629
+3,What does make up the user interface of an interactive computer system?,How does accessibility influence the design of interactive systems?,0.6515
+4,What is a User?,What role do personas and user scenarios play in HCI design?,0.3521
+5,How can a user interact in human–computer interactions?,What are the primary types of human-computer interaction methodologies?,0.6605
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What strategies are used to ensure user privacy and data security in interactive systems?,0.5424
+7,Why does a user intentionally interact with an interactive computer system?,How does accessibility influence the design of interactive systems?,0.5832
+8,What does make up a complex user participation?,What are the key components of user-centered design?,0.5308
+9,What is a human–computer interaction?,What are the primary types of human-computer interaction methodologies?,0.7363
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How is user feedback typically collected and analyzed in HCI studies?,0.4757
+11,How is a user input processed by an interactive computer system?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.5264
+12,How does a user receive an output from an interactive computer system?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.4759
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.5336
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the common metrics used to evaluate the effectiveness of an interactive system?,0.6041

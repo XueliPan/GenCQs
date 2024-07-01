@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the main components of an interaction ontology in HCI?,What is a complex interactive computer system?,0.5006
+1,How do input and output modalities encapsulate interaction modes and media?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4877
+2,What role do user characteristics play in determining suitable interaction modalities?,How can a user interact in human–computer interactions?,0.603
+3,How can we define and categorize input and output interaction components in HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5251
+4,"What are the primary relationships between various interaction components such as mode, modality, and medium?",What does make up the user interface of an interactive computer system?,0.4254
+5,How can ontologies be utilized to adapt user interfaces based on individual user profiles?,What does make up the user interface of an interactive computer system?,0.3888
+6,What reasoning mechanisms can be employed within an interaction ontology to infer high-level user interaction preferences?,How can a user interact in human–computer interactions?,0.4941
+7,How can SWRL rules be employed to define adaptation rules for various user needs in HCI?,How can a user interact in human–computer interactions?,0.2222
+8,What are the methods for measuring user physical capabilities and translating them into suitable interaction modalities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4787
+9,How can concepts from user profiles be integrated into HCI ontologies for personalized user interface adaptation?,How can a user interact in human–computer interactions?,0.3628
+10,What kinds of adaptation rules can be created to handle sensory and motor disabilities in user interfaces?,How can a user interact in human–computer interactions?,0.398
+11,How can ontology reasoning help in the dynamic adaptation of user interfaces in real-time applications?,What does make up the user interface of an interactive computer system?,0.4437
+12,What are the benefits of using OWL and SWRL for developing ontologies in the domain of HCI?,What is a complex interactive computer system?,0.3053
+13,How can design guidelines be systematically organized within an HCI ontology to support interface customization?,What does make up the user interface of an interactive computer system?,0.3036
+14,What are the strategies for integrating context-aware features into HCI ontologies for better user interaction experiences?,How can a user interact in human–computer interactions?,0.4654

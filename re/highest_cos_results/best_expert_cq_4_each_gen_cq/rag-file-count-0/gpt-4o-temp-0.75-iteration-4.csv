@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the most common empirical methods used in Requirements Engineering research?,How often are which empirical methods used?,0.603
+1,Which authors have contributed the most to empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.6274
+2,What are the primary research areas within Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3912
+3,How has the focus of Requirements Engineering research evolved over time?,How has the reporting of research questions and answers evolved over time?,0.5118
+4,What are the main challenges identified in empirical research within Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5001
+5,What statistical methods are frequently used in Requirements Engineering studies?,How often are which statistical methods used?,0.628
+6,Which institutions are leading in Requirements Engineering research?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4138
+7,What are the key findings of the most cited papers in Requirements Engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.491
+8,How do different empirical methods compare in their effectiveness for Requirements Engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6242
+9,What tools are commonly used in empirical studies of Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5214
+10,What datasets are available for Requirements Engineering research?,How many empirical studies are by authors working for large software development companies?,0.4164
+11,How are different empirical research methods categorized in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6135
+12,What trends exist in Requirements Engineering research publications over the past decade?,How has the reporting of research questions and answers evolved over time?,0.4637
+13,What gaps are identified in the existing literature on Requirements Engineering?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.406
+14,Which conferences and journals are the primary venues for publishing Requirements Engineering research?,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,0.4836
+15,What theories and models are frequently tested in Requirements Engineering?,How often are standards used to describe the theories incorporated?,0.4671
+16,How do researchers validate their findings in Requirements Engineering studies?,Do the authors report the selected context of their study with specific characteristics?,0.5152
+17,What are the best practices for conducting empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5452
+18,How is the quality of Requirements Engineering empirical research assessed?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4895
+19,What is the geographical distribution of Requirements Engineering research contributions?,How many empirical studies are by authors working for large software development companies?,0.4581
+20,How do project size and complexity affect empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5399
+21,What types of stakeholders are usually involved in empirical studies of Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5502
+22,What are the most cited empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5808
+23,What frameworks are commonly used to guide empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5711
+24,What impact have empirical studies had on practical Requirements Engineering approaches?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.4797
+25,What methods are used to measure the success of Requirements Engineering processes?,How many empirical studies are by authors working for large software development companies?,0.3733
+26,What is the average duration of empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5549
+27,How do empirical studies in Requirements Engineering address ethical considerations?,How many empirical studies are by authors working for large software development companies?,0.4615
+28,What are the most significant trends in Requirements Engineering methodologies?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4267
+29,How has the use of empirical research in Requirements Engineering evolved over time?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5684
+30,What are the best examples of cross-disciplinary research in Requirements Engineering?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.4632
+31,How do researchers ensure reproducibility in Requirements Engineering studies?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4705
+32,How has the citation network of Requirements Engineering research evolved?,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",0.4865
+33,Which empirical studies are considered foundational in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5556
+34,What are the typical sample sizes for empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.6012
+35,What role does industry collaboration play in Requirements Engineering research?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4036
+36,What are the most frequently addressed problems in empirical Requirements Engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5062
+37,How are qualitative and quantitative methods balanced in Requirements Engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4475
+38,How often do Requirements Engineering studies include longitudinal elements?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4982
+39,What are the main findings from case studies in Requirements Engineering?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.507
+40,How is data reliability ensured in empirical Requirements Engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4602
+41,What proportion of empirical studies focus on specific domains within Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5369
+42,What kind of software tools have evolved from empirical research in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5598
+43,What patterns can be observed in authorship collaborations in Requirements Engineering research?,How many empirical studies are by authors working for large software development companies?,0.4932
+44,How accessible are the data and findings from Requirements Engineering studies?,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",0.4893
+45,What are the key theoretical contributions of empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5731
+46,How is the impact of Requirements Engineering research on industry practices measured?,How many empirical studies are by authors working for large software development companies?,0.4799
+47,What are the main limitations identified in Requirements Engineering empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4913
+48,How do cultural factors influence empirical studies in Requirements Engineering?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.4388
+49,What are the most significant challenges faced during empirical research in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.455
+50,How is bias mitigated in empirical studies of Requirements Engineering?,How do the authors justify preventing bias in the study results?,0.5394
+51,What emerging trends can be identified in the latest Requirements Engineering research?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3952
+52,How are empirical research findings disseminated in the Requirements Engineering community?,How many empirical studies are by authors working for large software development companies?,0.5508
+53,What is the role of surveys in empirical Requirements Engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4879
+54,How do empirical studies in Requirements Engineering address international contexts?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5402
+55,What is the relationship between theory and practice in empirical Requirements Engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.554
+56,How do empirical studies in Requirements Engineering handle conflicting requirements?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4257
+57,What are the key success factors for empirical research projects in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5546
+58,How do empirical findings contribute to the development of Requirements Engineering standards?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.493
+59,What metrics are used to evaluate Requirements Engineering processes in empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5145
+60,How have empirical research methods in Requirements Engineering evolved over time?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5972
+61,What role do workshops and focus groups play in Requirements Engineering studies?,Do the authors report the selected context of their study with specific characteristics?,0.41
+62,What are the most commonly reported outcomes of empirical Requirements Engineering research?,How many empirical studies are by authors working for large software development companies?,0.5479
+63,How does empirical research influence the teaching of Requirements Engineering?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.5041
+64,What are the most effective strategies for eliciting requirements according to empirical research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5202
+65,How are empirical research results in Requirements Engineering visualized and presented?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4776
+66,What kind of pilot studies are often conducted in Requirements Engineering research?,Do the authors report the selected context of their study with specific characteristics?,0.4915
+67,How does empirical research in Requirements Engineering address scalability issues?,How many empirical studies are by authors working for large software development companies?,0.4843
+68,What types of innovations in Requirements Engineering are driven by empirical research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5737
+69,How do empirical studies handle multi-stakeholder environments in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5167
+70,What are the most frequent sources of funding for Requirements Engineering research?,How many empirical studies are by authors working for large software development companies?,0.4902
+71,How is the inter-rater reliability assessed in empirical studies of Requirements Engineering?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.3449
+72,What future directions are suggested by empirical studies in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4779
+73,How do empirical studies in Requirements Engineering address usability concerns?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5142
+74,What methods are used to synthesize findings across multiple studies in Requirements Engineering?,Do the authors report the selected context of their study with specific characteristics?,0.5052
+75,How are case study methodologies applied in Requirements Engineering research?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5998
+76,What are the long-term impacts of empirical research findings on Requirements Engineering practices?,How many empirical studies are by authors working for large software development companies?,0.5183

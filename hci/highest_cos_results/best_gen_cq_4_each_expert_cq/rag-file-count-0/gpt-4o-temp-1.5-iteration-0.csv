@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.666
-1,What is an interactive software system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.5828
-2,What is a complex interactive computer system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.7081
-3,What does make up the user interface of an interactive computer system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.715
-4,What is a User?,How are users defined and characterized in HCI?,0.6027
-5,How can a user interact in human–computer interactions?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.6798
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.5366
-7,Why does a user intentionally interact with an interactive computer system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.5508
-8,What does make up a complex user participation?,How are users defined and characterized in HCI?,0.509
-9,What is a human–computer interaction?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.7628
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How is feedback from the user captured and utilized in HCI?,0.4342
-11,How is a user input processed by an interactive computer system?,What are the fundamental components of a Human-Computer Interaction (HCI) system?,0.5684
-12,How does a user receive an output from an interactive computer system?,How is feedback from the user captured and utilized in HCI?,0.581
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How is feedback from the user captured and utilized in HCI?,0.5669
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is user satisfaction evaluated in HCI systems?,0.5418
+0,What is an interactive computer system?,What roles do users play in the design and evaluation of interactive systems?,0.7153
+1,What is an interactive software system?,What roles do users play in the design and evaluation of interactive systems?,0.6998
+2,What is a complex interactive computer system?,What are the essential components of a human-computer interaction system?,0.6965
+3,What does make up the user interface of an interactive computer system?,What roles do users play in the design and evaluation of interactive systems?,0.7431
+4,What is a User?,What roles do users play in the design and evaluation of interactive systems?,0.4266
+5,How can a user interact in human–computer interactions?,What are the essential components of a human-computer interaction system?,0.6869
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What roles do users play in the design and evaluation of interactive systems?,0.6093
+7,Why does a user intentionally interact with an interactive computer system?,What roles do users play in the design and evaluation of interactive systems?,0.6493
+8,What does make up a complex user participation?,What roles do users play in the design and evaluation of interactive systems?,0.5341
+9,What is a human–computer interaction?,What are the essential components of a human-computer interaction system?,0.7373
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What roles do users play in the design and evaluation of interactive systems?,0.5138
+11,How is a user input processed by an interactive computer system?,What roles do users play in the design and evaluation of interactive systems?,0.5952
+12,How does a user receive an output from an interactive computer system?,What roles do users play in the design and evaluation of interactive systems?,0.5466
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What roles do users play in the design and evaluation of interactive systems?,0.595
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used to assess user satisfaction with interactive systems?,0.572

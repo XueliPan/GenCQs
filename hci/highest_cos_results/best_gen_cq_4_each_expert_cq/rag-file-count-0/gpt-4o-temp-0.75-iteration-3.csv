@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the key components involved in human-computer interaction?,0.6059
-1,What is an interactive software system?,What are the key components involved in human-computer interaction?,0.5111
-2,What is a complex interactive computer system?,What are the key components involved in human-computer interaction?,0.6242
-3,What does make up the user interface of an interactive computer system?,What are the key components involved in human-computer interaction?,0.6696
-4,What is a User?,How are user tasks and goals represented in HCI systems?,0.3183
-5,How can a user interact in human–computer interactions?,What are the key components involved in human-computer interaction?,0.7406
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the key components involved in human-computer interaction?,0.5429
-7,Why does a user intentionally interact with an interactive computer system?,What are the key components involved in human-computer interaction?,0.5309
-8,What does make up a complex user participation?,What are the different phases of the user-centered design process?,0.5065
-9,What is a human–computer interaction?,What are the key components involved in human-computer interaction?,0.7543
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What are the key components involved in human-computer interaction?,0.4874
-11,How is a user input processed by an interactive computer system?,What are the key components involved in human-computer interaction?,0.5433
-12,How does a user receive an output from an interactive computer system?,How are user tasks and goals represented in HCI systems?,0.4443
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the key components involved in human-computer interaction?,0.5169
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How are user tasks and goals represented in HCI systems?,0.5944
+0,What is an interactive computer system?,What constitutes an interactive system in HCI?,0.8207
+1,What is an interactive software system?,What constitutes an interactive system in HCI?,0.7856
+2,What is a complex interactive computer system?,What constitutes an interactive system in HCI?,0.7932
+3,What does make up the user interface of an interactive computer system?,What constitutes an interactive system in HCI?,0.7973
+4,What is a User?,How is a user defined in the context of Human-Computer Interaction?,0.7213
+5,How can a user interact in human–computer interactions?,What are the fundamental concepts of Human-Computer Interaction?,0.7525
+6,"Considering intentionality, how can a user interact with an interactive computer system?",What constitutes an interactive system in HCI?,0.6323
+7,Why does a user intentionally interact with an interactive computer system?,What constitutes an interactive system in HCI?,0.6626
+8,What does make up a complex user participation?,How is a user defined in the context of Human-Computer Interaction?,0.5008
+9,What is a human–computer interaction?,What are the fundamental concepts of Human-Computer Interaction?,0.8458
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How is a user defined in the context of Human-Computer Interaction?,0.5205
+11,How is a user input processed by an interactive computer system?,What constitutes an interactive system in HCI?,0.6745
+12,How does a user receive an output from an interactive computer system?,What constitutes an interactive system in HCI?,0.6048
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What constitutes an interactive system in HCI?,0.6542
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the fundamental concepts of Human-Computer Interaction?,0.5322

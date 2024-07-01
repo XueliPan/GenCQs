@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the main characteristics of users interacting with a given ICT system?,What does make up the user interface of an interactive computer system?,0.6698
+1,What are the main characteristics of users interacting with a given ICT system?,How can a user interact in human–computer interactions?,0.6589
+2,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What does make up the user interface of an interactive computer system?,0.6562
+3,What are the main characteristics of users interacting with a given ICT system?,What is an interactive computer system?,0.6439
+4,What are the main characteristics of users interacting with a given ICT system?,Why does a user intentionally interact with an interactive computer system?,0.6026
+5,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What does make up the user interface of an interactive computer system?,0.6008
+6,What are the main characteristics of users interacting with a given ICT system?,What is a complex interactive computer system?,0.5985
+7,How can the interaction between users and a computer system be modeled to support adaptive interface design?,How can a user interact in human–computer interactions?,0.5870
+8,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What is an interactive computer system?,0.5753
+9,What are the main characteristics of users interacting with a given ICT system?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5731
+10,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What does make up the user interface of an interactive computer system?,0.5670
+11,How can the interaction between users and a computer system be modeled to support adaptive interface design?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5642
+12,How can the interaction between users and a computer system be modeled to support adaptive interface design?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5623
+13,How can the interaction between users and a computer system be modeled to support adaptive interface design?,How is a user input processed by an interactive computer system?,0.5570
+14,What are the main characteristics of users interacting with a given ICT system?,What is an interactive software system?,0.5567
+15,How can the interaction between users and a computer system be modeled to support adaptive interface design?,Why does a user intentionally interact with an interactive computer system?,0.5553
+16,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What is an interactive software system?,0.5547
+17,What are the main characteristics of users interacting with a given ICT system?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5514
+18,What are the main characteristics of users interacting with a given ICT system?,What is a human–computer interaction?,0.5498
+19,What are the main characteristics of users interacting with a given ICT system?,How is a user input processed by an interactive computer system?,0.5496
+20,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What is a complex interactive computer system?,0.5470
+21,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What is an interactive computer system?,0.5408
+22,What are the main characteristics of users interacting with a given ICT system?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.5386
+23,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,How can a user interact in human–computer interactions?,0.5381
+24,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,How is a user input processed by an interactive computer system?,0.5345
+25,What role do context and environment play in adaptive user interface systems?,What does make up the user interface of an interactive computer system?,0.5285
+26,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What is an interactive computer system?,0.5270
+27,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What is a complex interactive computer system?,0.5221
+28,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5207
+29,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",How can a user interact in human–computer interactions?,0.5184
+30,What are the main characteristics of users interacting with a given ICT system?,How does a user receive an output from an interactive computer system?,0.5168
+31,How are activities performed by users in daily life identified and categorized in the context of HCI?,What does make up a complex user participation?,0.5163
+32,What are the main characteristics of users interacting with a given ICT system?,What does make up a complex user participation?,0.5138
+33,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What is an interactive software system?,0.5078
+34,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What is a human–computer interaction?,0.5002
+35,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What does make up the user interface of an interactive computer system?,0.4984
+36,How can the interaction between users and a computer system be modeled to support adaptive interface design?,How does a user receive an output from an interactive computer system?,0.4927
+37,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",How can a user interact in human–computer interactions?,0.4916
+38,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,Why does a user intentionally interact with an interactive computer system?,0.4881
+39,What role do context and environment play in adaptive user interface systems?,How can a user interact in human–computer interactions?,0.4776
+40,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4717
+41,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,Why does a user intentionally interact with an interactive computer system?,0.4712
+42,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What is an interactive software system?,0.4710
+43,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What is a complex interactive computer system?,0.4689
+44,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,How can a user interact in human–computer interactions?,0.4651
+45,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?","Considering intentionality, how can a user interact with an interactive computer system?",0.4628
+46,How are activities performed by users in daily life identified and categorized in the context of HCI?,How can a user interact in human–computer interactions?,0.4616
+47,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What is a human–computer interaction?,0.4604
+48,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What does make up a complex user participation?,0.4588
+49,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4562
+50,What are the main characteristics of users interacting with a given ICT system?,What is a User?,0.4552
+51,How can the interaction between users and a computer system be modeled to support adaptive interface design?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4528
+52,How are activities performed by users in daily life identified and categorized in the context of HCI?,What is a human–computer interaction?,0.4527
+53,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,How can a user interact in human–computer interactions?,0.4444
+54,What role do context and environment play in adaptive user interface systems?,Why does a user intentionally interact with an interactive computer system?,0.4432
+55,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What does make up the user interface of an interactive computer system?,0.4415
+56,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",Why does a user intentionally interact with an interactive computer system?,0.4337
+57,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What is a User?,0.4269
+58,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4264
+59,What role do context and environment play in adaptive user interface systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4235
+60,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,How does a user receive an output from an interactive computer system?,0.4226
+61,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",How can a user interact in human–computer interactions?,0.4226
+62,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4158
+63,What role do context and environment play in adaptive user interface systems?,What is a complex interactive computer system?,0.4153
+64,What role do context and environment play in adaptive user interface systems?,What is an interactive computer system?,0.4150
+65,What role do context and environment play in adaptive user interface systems?,What is a human–computer interaction?,0.4133
+66,What role do context and environment play in adaptive user interface systems?,What is an interactive software system?,0.4125
+67,What are the essential components of a semantic layer for adaptive systems in HCI?,What is a complex interactive computer system?,0.4124
+68,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4118
+69,What technological adaptations are necessary to meet the specific needs of users with disabilities?,How can a user interact in human–computer interactions?,0.4098
+70,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What does make up the user interface of an interactive computer system?,0.4089
+71,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?","Considering the human–computer interaction, how can a user participation cause another user participation?",0.4079
+72,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?","Considering intentionality, how can a user interact with an interactive computer system?",0.4077
+73,What are the essential components of a semantic layer for adaptive systems in HCI?,What does make up the user interface of an interactive computer system?,0.4073
+74,How are activities performed by users in daily life identified and categorized in the context of HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4063
+75,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What is a human–computer interaction?,0.4031
+76,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4029
+77,What are the main characteristics of users interacting with a given ICT system?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4017
+78,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What does make up a complex user participation?,0.3987
+79,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What is an interactive computer system?,0.3980
+80,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,How is a user input processed by an interactive computer system?,0.3980
+81,How can user profiles be used to predict the next likely action of a user based on past interactions?,How can a user interact in human–computer interactions?,0.3952
+82,How can the interaction between users and a computer system be modeled to support adaptive interface design?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3951
+83,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3921
+84,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What is a human–computer interaction?,0.3919
+85,What role do context and environment play in adaptive user interface systems?,How is a user input processed by an interactive computer system?,0.3902
+86,How are activities performed by users in daily life identified and categorized in the context of HCI?,What is a complex interactive computer system?,0.3898
+87,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What does make up a complex user participation?,0.3886
+88,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,Why does a user intentionally interact with an interactive computer system?,0.3839
+89,What are the essential components of a semantic layer for adaptive systems in HCI?,What is an interactive computer system?,0.3837
+90,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What is an interactive software system?,0.3828
+91,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?","Considering the human–computer interaction, how can a user participation cause another user participation?",0.3809
+92,How are activities performed by users in daily life identified and categorized in the context of HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3777
+93,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",Why does a user intentionally interact with an interactive computer system?,0.3769
+94,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3769
+95,What role do context and environment play in adaptive user interface systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3729
+96,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What does make up a complex user participation?,0.3721
+97,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What is a human–computer interaction?,0.3717
+98,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What does make up the user interface of an interactive computer system?,0.3710
+99,What are the essential components of a semantic layer for adaptive systems in HCI?,What is a human–computer interaction?,0.3704
+100,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What does make up a complex user participation?,0.3698
+101,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What is an interactive computer system?,0.3697
+102,What types of disabilities are associated with specific impairments in ICT users?,How can a user interact in human–computer interactions?,0.3691
+103,How are activities performed by users in daily life identified and categorized in the context of HCI?,What does make up the user interface of an interactive computer system?,0.3691
+104,What are the essential components of a semantic layer for adaptive systems in HCI?,What is an interactive software system?,0.3678
+105,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What is a complex interactive computer system?,0.3659
+106,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?","Considering the human–computer interaction, how can a user participation cause another user participation?",0.3649
+107,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What is a human–computer interaction?,0.3635
+108,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What is an interactive computer system?,0.3633
+109,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3621
+110,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What is a human–computer interaction?,0.3620
+111,What role do context and environment play in adaptive user interface systems?,What does make up a complex user participation?,0.3618
+112,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What does make up the user interface of an interactive computer system?,0.3604
+113,What types of disabilities are associated with specific impairments in ICT users?,What is a human–computer interaction?,0.3584
+114,What technological adaptations are necessary to meet the specific needs of users with disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3531
+115,What technological adaptations are necessary to meet the specific needs of users with disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3516
+116,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",How is a user input processed by an interactive computer system?,0.3493
+117,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3490
+118,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What is a complex interactive computer system?,0.3485
+119,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,How does a user receive an output from an interactive computer system?,0.3485
+120,How are activities performed by users in daily life identified and categorized in the context of HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3477
+121,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What is a complex interactive computer system?,0.3456
+122,What types of disabilities are associated with specific impairments in ICT users?,What does make up the user interface of an interactive computer system?,0.3450
+123,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3433
+124,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,How is a user input processed by an interactive computer system?,0.3420
+125,How are activities performed by users in daily life identified and categorized in the context of HCI?,Why does a user intentionally interact with an interactive computer system?,0.3419
+126,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3416
+127,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What does make up a complex user participation?,0.3412
+128,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What is an interactive computer system?,0.3407
+129,What types of disabilities are associated with specific impairments in ICT users?,What does make up a complex user participation?,0.3402
+130,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",How is a user input processed by an interactive computer system?,0.3391
+131,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,How does a user receive an output from an interactive computer system?,0.3390
+132,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,What is a User?,0.3386
+133,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3371
+134,How can user profiles be used to predict the next likely action of a user based on past interactions?,Why does a user intentionally interact with an interactive computer system?,0.3362
+135,How can user profiles be used to predict the next likely action of a user based on past interactions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3357
+136,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?","Considering intentionality, how can a user interact with an interactive computer system?",0.3356
+137,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What is an interactive software system?,0.3348
+138,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",How can a user interact in human–computer interactions?,0.3332
+139,What role do context and environment play in adaptive user interface systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3298
+140,How can user profiles be used to predict the next likely action of a user based on past interactions?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3291
+141,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What is a User?,0.3282
+142,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What is a complex interactive computer system?,0.3281
+143,How are activities performed by users in daily life identified and categorized in the context of HCI?,What is an interactive computer system?,0.3273
+144,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",How does a user receive an output from an interactive computer system?,0.3272
+145,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What does make up the user interface of an interactive computer system?,0.3257
+146,How can the interaction between users and a computer system be modeled to support adaptive interface design?,What is a User?,0.3213
+147,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What does make up a complex user participation?,0.3200
+148,How do different user modeling algorithms integrate into adaptive interactive system frameworks?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3193
+149,How can user profiles be used to predict the next likely action of a user based on past interactions?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3188
+150,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",How is a user input processed by an interactive computer system?,0.3186
+151,What role do context and environment play in adaptive user interface systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3185
+152,What types of disabilities are associated with specific impairments in ICT users?,What is a complex interactive computer system?,0.3162
+153,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What does make up a complex user participation?,0.3161
+154,How are activities performed by users in daily life identified and categorized in the context of HCI?,What is a User?,0.3159
+155,How can user profiles be used to predict the next likely action of a user based on past interactions?,How is a user input processed by an interactive computer system?,0.3156
+156,What types of disabilities are associated with specific impairments in ICT users?,What is an interactive computer system?,0.3146
+157,What are the essential components of a semantic layer for adaptive systems in HCI?,How is a user input processed by an interactive computer system?,0.3107
+158,What are the essential components of a semantic layer for adaptive systems in HCI?,How can a user interact in human–computer interactions?,0.3091
+159,What types of disabilities are associated with specific impairments in ICT users?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3084
+160,What types of disabilities are associated with specific impairments in ICT users?,What is a User?,0.3076
+161,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What is an interactive software system?,0.3046
+162,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What is an interactive computer system?,0.3041
+163,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What is an interactive software system?,0.3024
+164,What role do context and environment play in adaptive user interface systems?,How does a user receive an output from an interactive computer system?,0.3022
+165,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?","Considering intentionality, how can a user interact with an interactive computer system?",0.3021
+166,What are the essential components of a semantic layer for adaptive systems in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3011
+167,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3007
+168,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What is an interactive computer system?,0.2994
+169,How are activities performed by users in daily life identified and categorized in the context of HCI?,What is an interactive software system?,0.2990
+170,What technological adaptations are necessary to meet the specific needs of users with disabilities?,Why does a user intentionally interact with an interactive computer system?,0.2984
+171,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What is a human–computer interaction?,0.2977
+172,What are the critical data elements and properties needed to represent user interactions and ICT system adaptations?,What is a User?,0.2957
+173,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",Why does a user intentionally interact with an interactive computer system?,0.2931
+174,How can user profiles be used to predict the next likely action of a user based on past interactions?,What is a User?,0.2920
+175,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What is a complex interactive computer system?,0.2914
+176,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",How does a user receive an output from an interactive computer system?,0.2912
+177,What technological adaptations are necessary to meet the specific needs of users with disabilities?,What is a User?,0.2868
+178,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What is an interactive software system?,0.2851
+179,"What adaptations improve user-system interaction, particularly for users with different levels of experience or specific disabilities?",What is a User?,0.2842
+180,How are activities performed by users in daily life identified and categorized in the context of HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2801
+181,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What is a complex interactive computer system?,0.2801
+182,How can user profiles be used to predict the next likely action of a user based on past interactions?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2797
+183,How are activities performed by users in daily life identified and categorized in the context of HCI?,How is a user input processed by an interactive computer system?,0.2781
+184,What technological adaptations are necessary to meet the specific needs of users with disabilities?,How is a user input processed by an interactive computer system?,0.2765
+185,How can user profiles be used to predict the next likely action of a user based on past interactions?,What does make up the user interface of an interactive computer system?,0.2749
+186,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,What is a human–computer interaction?,0.2726
+187,How can user profiles be used to predict the next likely action of a user based on past interactions?,How does a user receive an output from an interactive computer system?,0.2723
+188,What are the essential components of a semantic layer for adaptive systems in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2722
+189,What technological adaptations are necessary to meet the specific needs of users with disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2707
+190,What role do context and environment play in adaptive user interface systems?,What is a User?,0.2700
+191,What technological adaptations are necessary to meet the specific needs of users with disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2665
+192,What types of disabilities are associated with specific impairments in ICT users?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2644
+193,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2582
+194,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?","Considering the human–computer interaction, how can a user participation cause another user participation?",0.2563
+195,How can ontologies be used to infer new information about users from existing data regarding their interactions with ICT systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2556
+196,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What does make up a complex user participation?,0.2519
+197,How are activities performed by users in daily life identified and categorized in the context of HCI?,How does a user receive an output from an interactive computer system?,0.2516
+198,What are the essential components of a semantic layer for adaptive systems in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2510
+199,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",Why does a user intentionally interact with an interactive computer system?,0.2498
+200,How can user profiles be used to predict the next likely action of a user based on past interactions?,What does make up a complex user participation?,0.2483
+201,How can user profiles be used to predict the next likely action of a user based on past interactions?,What is an interactive computer system?,0.2434
+202,What types of disabilities are associated with specific impairments in ICT users?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2411
+203,What types of disabilities are associated with specific impairments in ICT users?,What is an interactive software system?,0.2403
+204,What technological adaptations are necessary to meet the specific needs of users with disabilities?,How does a user receive an output from an interactive computer system?,0.2375
+205,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",What is a User?,0.2370
+206,"How can users be classified based on their cognitive, motor, sensory, and speech capabilities?",What is an interactive software system?,0.2367
+207,What types of disabilities are associated with specific impairments in ICT users?,How is a user input processed by an interactive computer system?,0.2366
+208,What are the essential components of a semantic layer for adaptive systems in HCI?,How does a user receive an output from an interactive computer system?,0.2338
+209,What are the essential components of a semantic layer for adaptive systems in HCI?,What does make up a complex user participation?,0.2337
+210,What are the essential components of a semantic layer for adaptive systems in HCI?,Why does a user intentionally interact with an interactive computer system?,0.2319
+211,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",How does a user receive an output from an interactive computer system?,0.2317
+212,What types of disabilities are associated with specific impairments in ICT users?,Why does a user intentionally interact with an interactive computer system?,0.2289
+213,How can user profiles be used to predict the next likely action of a user based on past interactions?,What is a human–computer interaction?,0.2286
+214,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",How does a user receive an output from an interactive computer system?,0.2283
+215,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2224
+216,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",How is a user input processed by an interactive computer system?,0.2172
+217,"What types of support assistance (hardware, software, or strategies) can be recommended to users with specific disabilities and capabilities?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2161
+218,How can user profiles be used to predict the next likely action of a user based on past interactions?,What is an interactive software system?,0.2070
+219,How can user profiles be used to predict the next likely action of a user based on past interactions?,What is a complex interactive computer system?,0.2016
+220,What types of disabilities are associated with specific impairments in ICT users?,How does a user receive an output from an interactive computer system?,0.1926
+221,What types of disabilities are associated with specific impairments in ICT users?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1862
+222,What are the essential components of a semantic layer for adaptive systems in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1550
+223,"How can multi-modal interactions (e.g., speech, gestures) be incorporated into user interface design to improve accessibility?",What is a User?,0.1223
+224,What are the essential components of a semantic layer for adaptive systems in HCI?,What is a User?,0.0615

@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the primary components of a human-computer interaction system?,0.7025
-1,What is an interactive software system?,What are the primary components of a human-computer interaction system?,0.6053
-2,What is a complex interactive computer system?,What are the primary components of a human-computer interaction system?,0.7061
-3,What does make up the user interface of an interactive computer system?,What are the primary components of a human-computer interaction system?,0.7393
-4,What is a User?,How are user models represented in HCI?,0.4285
-5,How can a user interact in human–computer interactions?,What are the primary components of a human-computer interaction system?,0.6884
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the primary components of a human-computer interaction system?,0.5729
-7,Why does a user intentionally interact with an interactive computer system?,What are the primary components of a human-computer interaction system?,0.5778
-8,What does make up a complex user participation?,What are the primary components of a human-computer interaction system?,0.4633
-9,What is a human–computer interaction?,What are the primary components of a human-computer interaction system?,0.7371
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What are the primary components of a human-computer interaction system?,0.4437
-11,How is a user input processed by an interactive computer system?,How are system responses to user inputs characterized in HCI?,0.6852
-12,How does a user receive an output from an interactive computer system?,How are system responses to user inputs characterized in HCI?,0.6258
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How are system responses to user inputs characterized in HCI?,0.7054
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What methods are used for evaluating HCI systems?,0.4772
+0,What is an interactive computer system?,What constitutes a computer within the Human-Computer Interaction framework?,0.6667
+1,What is an interactive software system?,What constitutes a computer within the Human-Computer Interaction framework?,0.5667
+2,What is a complex interactive computer system?,What constitutes a computer within the Human-Computer Interaction framework?,0.6708
+3,What does make up the user interface of an interactive computer system?,What constitutes a computer within the Human-Computer Interaction framework?,0.6787
+4,What is a User?,What constitutes a human within the Human-Computer Interaction framework?,0.4501
+5,How can a user interact in human–computer interactions?,How do humans interact with computers?,0.8801
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do humans interact with computers?,0.6818
+7,Why does a user intentionally interact with an interactive computer system?,How do humans interact with computers?,0.6701
+8,What does make up a complex user participation?,What are the main principles of user-centered design in HCI?,0.4904
+9,What is a human–computer interaction?,What constitutes a computer within the Human-Computer Interaction framework?,0.7825
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do humans interact with computers?,0.5654
+11,How is a user input processed by an interactive computer system?,How do humans interact with computers?,0.6277
+12,How does a user receive an output from an interactive computer system?,How do humans interact with computers?,0.5507
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do humans interact with computers?,0.6011
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,What are the key concepts involved in task analysis in HCI?,0.5231

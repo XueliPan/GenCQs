@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What types of surveys have been conducted in Requirements Engineering (RE) research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5127
+1,What major findings have emerged from empirical studies on RE processes?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5811
+2,How do industry practices in RE differ from academic recommendations?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.5379
+3,What methods have been used to gather empirical data in RE research?,Which methods are used to synthesize evidence from data of different empirical methods?,0.6956
+4,What are some common problems identified in RE practice surveys?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.4324
+5,How is RE practice adoption measured across different companies?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4802
+6,What are the key performance indicators in empirical RE studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.627
+7,How does the size of an organization impact its RE practices?,How many empirical studies are by authors working for large software development companies?,0.3812
+8,What empirical evidence exists on the benefits of RE process improvement?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4043
+9,What factors contribute to the success or failure of RE projects?,How many empirical studies are by authors working for large software development companies?,0.4123
+10,What role do case studies play in understanding RE practices?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5928
+11,How are qualitative and quantitative methods incorporated in RE research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5483
+12,What are the most commonly used RE tools in practice?,How often are which empirical methods used over time?,0.3844
+13,How is user participation measured and evaluated in RE studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5394
+14,What is the impact of organizational size on the success of RE practices?,How many empirical studies are by authors working for large software development companies?,0.4309
+15,How do cultural differences affect RE practices and their outcomes?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.3474
+16,What are the main outcomes of RE studies conducted in Germany?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4958
+17,How do RE practices differ between small and medium-sized enterprises (SMEs) and large organizations?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3635
+18,What challenges are commonly faced in managing RE processes?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3975
+19,How do RE practices in the banking industry compare to those in other industries?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4875
+20,What are the standard documentation practices in RE?,How often are standards used to describe the theories incorporated?,0.4601
+21,How is requirements volatility addressed in different RE practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4852
+22,What are the benefits of using scenarios in RE processes?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3475
+23,How often are RE practices updated and improved in the industry?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5327
+24,What are the common issues related to RE process adoption?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.3105
+25,How do academic and industry expectations align regarding RE practices?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.4616
+26,What are the major topics covered in RE surveys?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5666
+27,How does the use of RE tools vary across different industries?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3893
+28,What role does certification play in standardizing RE terminology and practices?,How often are standards used to describe the theories incorporated?,0.4782
+29,What are the critical success factors for the industrial uptake of specific RE techniques?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5014
+30,How do empirical studies on RE contribute to the development of SE theories?,"""How has the proportion of theories from other disciplines, from other disciplines with adaptions for the SE (RE), and from SE (RE) itself evolved over time?""",0.7292
+31,What types of data are typically collected in RE surveys?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5008
+32,How are success criteria defined and measured in RE practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4827
+33,How do RE training and technology transfer influence industry practices?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4391
+34,What are the findings of the CHAOS studies regarding RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4799
+35,What evidence is there for the importance of RE in project management?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4059
+36,How do RE problems impact overall project success?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.3449
+37,What information is typically sought from RE documentation?,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",0.4403
+38,How is the role of project managers evaluated in RE surveys?,How many empirical studies are by authors working for large software development companies?,0.3922
+39,What is the distribution of effort among different RE activities?,How has the reporting of the tasks evolved over time?,0.4118
+40,How is RE process standardization achieved across different companies?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3874
+41,What are the main factors contributing to RE process complexity?,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,0.3716
+42,How does the experience of project managers affect RE outcomes?,Do the authors report the selected context of their study with specific characteristics?,0.3482
+43,How is the impact of RE practices on project timelines measured?,How has the reporting of the tasks evolved over time?,0.4756
+44,What are the common RE practices in the telecommunications industry?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4163
+45,How do different methodologies affect the RE process?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3835
+46,What are the trends in RE process standardization over time?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4992
+47,How do companies measure the success of their RE processes?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4111
+48,What are the main problems related to RE tools and their integration?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3963
+49,How do different types of RE documentation support project success?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3444
+50,How is RE traceability managed across projects?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.3546
+51,What are the typical RE practices in mission-critical systems?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3818
+52,How do empirical studies address the adoption of new RE processes?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6263
+53,What are the common RE practices in the healthcare industry?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4531
+54,How is requirements elicitation performed in different industries?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3766
+55,What role do templates play in RE practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4048
+56,How is RE process improvement measured and evaluated?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3565
+57,What are the impacts of fluctuating and conflicting requirements on RE activities?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4158
+58,How do RE practices evolve in response to market demands?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5052
+59,How do companies manage communication and coordination in the RE process?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3601
+60,What are the benefits of interdisciplinary research in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4509
+61,How do companies use scenarios to complement RE models?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.348
+62,How is the quality of RE processes evaluated in empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.527
+63,What are the typical problems faced during RE documentation management?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.3202
+64,How are requirements reviews conducted in different companies?,How many publications are analyzed in (systematic literature) reviews?,0.3973
+65,What are the trends in user involvement in RE practices?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4775
+66,How do RE problems influence the cost and time overruns in projects?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.3159
+67,What are the common success factors for RE in software projects?,How many empirical studies are by authors working for large software development companies?,0.5363
+68,How is the efficiency of RE practices measured in empirical studies?,How often are which empirical methods used?,0.6012
+69,How do empirical studies classify different RE activities?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6475
+70,What are the impacts of staff retention on RE practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3702
+71,How is RE process integration achieved within teams?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3147
+72,What are the main findings of RE practices in the pharmaceutical industry?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.5085
+73,How do empirical studies support the development of RE standards?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5708
+74,What factors influence the adoption of RE tools in different industries?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5662
+75,How do companies measure the effectiveness of their RE training programs?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3836
+76,How is empirical evidence used to improve RE practices over time?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5774

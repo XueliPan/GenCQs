@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,How do users interact with computer systems?,0.7287
-1,What is an interactive software system?,How do users interact with computer systems?,0.6418
-2,What is a complex interactive computer system?,How do users interact with computer systems?,0.6747
-3,What does make up the user interface of an interactive computer system?,How do users interact with computer systems?,0.7528
-4,What is a User?,How do users interact with computer systems?,0.5106
-5,How can a user interact in human–computer interactions?,How do users interact with computer systems?,0.8183
-6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with computer systems?,0.7603
-7,Why does a user intentionally interact with an interactive computer system?,How do users interact with computer systems?,0.7742
-8,What does make up a complex user participation?,How do users interact with computer systems?,0.5346
-9,What is a human–computer interaction?,What are the core components of Human-Computer Interaction?,0.7402
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with computer systems?,0.5985
-11,How is a user input processed by an interactive computer system?,How do users interact with computer systems?,0.7141
-12,How does a user receive an output from an interactive computer system?,How do users interact with computer systems?,0.6822
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do users interact with computer systems?,0.6998
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is user satisfaction evaluated in HCI?,0.5353
+0,What is an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.6396
+1,What is an interactive software system?,How is context-awareness implemented in interactive systems?,0.5799
+2,What is a complex interactive computer system?,What are the different types of user interfaces in Human-Computer Interaction?,0.5958
+3,What does make up the user interface of an interactive computer system?,What are the different types of user interfaces in Human-Computer Interaction?,0.7234
+4,What is a User?,Which cognitive models are used to understand user behavior in HCI?,0.3808
+5,How can a user interact in human–computer interactions?,What are the different types of user interfaces in Human-Computer Interaction?,0.7178
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How is context-awareness implemented in interactive systems?,0.6077
+7,Why does a user intentionally interact with an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.6217
+8,What does make up a complex user participation?,Which cognitive models are used to understand user behavior in HCI?,0.4824
+9,What is a human–computer interaction?,What are the different types of user interfaces in Human-Computer Interaction?,0.7334
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What role does feedback play in user interaction with computer systems?,0.5147
+11,How is a user input processed by an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.602
+12,How does a user receive an output from an interactive computer system?,What role does feedback play in user interaction with computer systems?,0.5795
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What role does feedback play in user interaction with computer systems?,0.6127
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How are usability testing and evaluation conducted in HCI?,0.4862

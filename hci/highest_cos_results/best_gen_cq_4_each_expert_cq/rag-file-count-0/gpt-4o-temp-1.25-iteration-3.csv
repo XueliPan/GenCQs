@@ -1,16 +1,16 @@
 ,expertCQs,best_genCQs,best_cos_score
-0,What is an interactive computer system?,What are the primary components involved in human-computer interaction?,0.6194
-1,What is an interactive software system?,What are the primary components involved in human-computer interaction?,0.5135
-2,What is a complex interactive computer system?,What are the primary components involved in human-computer interaction?,0.638
-3,What does make up the user interface of an interactive computer system?,What are the primary components involved in human-computer interaction?,0.6724
-4,What is a User?,How are user interfaces classified in the HCI domain?,0.3064
-5,How can a user interact in human–computer interactions?,What are the primary components involved in human-computer interaction?,0.7153
-6,"Considering intentionality, how can a user interact with an interactive computer system?",What are the primary components involved in human-computer interaction?,0.5414
-7,Why does a user intentionally interact with an interactive computer system?,What are the primary components involved in human-computer interaction?,0.5325
-8,What does make up a complex user participation?,What are the primary components involved in human-computer interaction?,0.4809
-9,What is a human–computer interaction?,What are the primary components involved in human-computer interaction?,0.753
-10,"Considering the human–computer interaction, how can a user participation cause another user participation?",What are the primary components involved in human-computer interaction?,0.4868
-11,How is a user input processed by an interactive computer system?,How do different input devices affect human-computer interaction?,0.5839
-12,How does a user receive an output from an interactive computer system?,What role do feedback mechanisms play in HCI systems?,0.4454
-13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,How do different input devices affect human-computer interaction?,0.5644
-14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How is task analysis performed in HCI research?,0.5498
+0,What is an interactive computer system?,What are the primary components of a human-computer interaction system?,0.7025
+1,What is an interactive software system?,How does task analysis contribute to the design of interactive systems?,0.6296
+2,What is a complex interactive computer system?,What are the primary components of a human-computer interaction system?,0.7061
+3,What does make up the user interface of an interactive computer system?,What are the primary components of a human-computer interaction system?,0.7393
+4,What is a User?,How do users interact with different types of user interfaces?,0.4288
+5,How can a user interact in human–computer interactions?,How do users interact with different types of user interfaces?,0.7282
+6,"Considering intentionality, how can a user interact with an interactive computer system?",How do users interact with different types of user interfaces?,0.5969
+7,Why does a user intentionally interact with an interactive computer system?,How do users interact with different types of user interfaces?,0.5932
+8,What does make up a complex user participation?,What are the primary challenges in designing for diverse user populations?,0.5035
+9,What is a human–computer interaction?,What are the primary components of a human-computer interaction system?,0.7371
+10,"Considering the human–computer interaction, how can a user participation cause another user participation?",How do users interact with different types of user interfaces?,0.5077
+11,How is a user input processed by an interactive computer system?,What are the primary components of a human-computer interaction system?,0.5778
+12,How does a user receive an output from an interactive computer system?,How is user feedback incorporated into system design?,0.4882
+13,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,What are the primary components of a human-computer interaction system?,0.5575
+14,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,How does task analysis contribute to the design of interactive systems?,0.5842

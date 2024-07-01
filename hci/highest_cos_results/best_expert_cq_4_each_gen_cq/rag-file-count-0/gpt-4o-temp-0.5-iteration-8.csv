@@ -1,16 +1,16 @@
 ,genCQs,best_expertCQs,best_cos_score
-0,What are the key components that constitute a human-computer interaction system?,What is a human–computer interaction?,0.8021
-1,How do users interact with various types of interfaces?,How can a user interact in human–computer interactions?,0.6625
-2,What are the primary goals of human-computer interaction?,What is a human–computer interaction?,0.7298
-3,How is usability defined and measured within HCI?,What is a human–computer interaction?,0.5149
-4,What are the different types of user interfaces and their characteristics?,What does make up the user interface of an interactive computer system?,0.6907
-5,What methods and tools are used for user experience (UX) design in HCI?,What does make up the user interface of an interactive computer system?,0.5097
-6,How are user requirements captured and documented in HCI projects?,What does make up a complex user participation?,0.4085
-7,What are the principles of effective Human-Computer Interaction design?,What is a human–computer interaction?,0.6731
-8,How do cognitive models apply to human-computer interaction?,How can a user interact in human–computer interactions?,0.6262
-9,What are common interaction techniques used in graphical user interfaces?,How can a user interact in human–computer interactions?,0.6676
-10,How is user feedback collected and utilized in the HCI design process?,What does make up the user interface of an interactive computer system?,0.4698
-11,What are the different evaluation methods used to assess the effectiveness of an HCI system?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4637
-12,What role does accessibility play in human-computer interaction?,How can a user interact in human–computer interactions?,0.6132
-13,How do cultural differences impact HCI design and implementation?,What is a human–computer interaction?,0.367
-14,What are the emerging trends and technologies in the field of human-computer interaction?,What is a human–computer interaction?,0.6522
+0,What constitutes a human-computer interaction event?,What is a human–computer interaction?,0.7976
+1,What are the primary components of a user interface?,What does make up the user interface of an interactive computer system?,0.7206
+2,How is user experience measured in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.5008
+3,What kinds of input devices are used in human-computer interaction?,How is a user input processed by an interactive computer system?,0.6568
+4,How do feedback mechanisms function in HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4889
+5,What types of user tasks are supported by interactive systems?,What is an interactive computer system?,0.7557
+6,How are usability principles applied in interface design?,What does make up the user interface of an interactive computer system?,0.5098
+7,What role do cognitive models play in human-computer interaction?,How can a user interact in human–computer interactions?,0.639
+8,How are interaction techniques classified in HCI?,What is a human–computer interaction?,0.5968
+9,What are the key factors influencing user satisfaction?,What does make up a complex user participation?,0.4474
+10,How is accessibility defined and ensured in interactive systems?,What does make up the user interface of an interactive computer system?,0.5549
+11,What methods are used to evaluate user interfaces?,What does make up the user interface of an interactive computer system?,0.5419
+12,"How do different interaction styles (e.g., command-line, GUI, voice) compare?",What does make up the user interface of an interactive computer system?,0.5635
+13,What are the common challenges in designing for different user populations?,What does make up a complex user participation?,0.5196
+14,How does context of use affect the design of interactive systems?,Why does a user intentionally interact with an interactive computer system?,0.6387
