@@ -19,7 +19,7 @@ def main(rag_file_count, tempterature, iteration):
     api_key = os.getenv('OPEN_API_KEY')
     model = os.getenv('MODEL')
     # tempterature = float(os.getenv('TEMPERATURE'))
-    assistant_instruction = os.getenv('INSTRUCTION')
+    assistant_instruction = os.getenv('CHAT_INSTRUCTION')
     prompt = os.getenv('PROMPT')
     print(os.getcwd())
     print(f"prompt: {prompt}")

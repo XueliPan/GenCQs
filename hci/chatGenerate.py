@@ -9,7 +9,6 @@ def save_to_file(text, file):
     save_to_file: save output to a txt file
     """
     with open(file, 'w') as file:
-    # Step 3: Write the multi-line string to the file
         file.write(text)
 
 
@@ -18,11 +17,8 @@ def main(rag_file_count, tempterature, iteration):
     load_dotenv()
     api_key = os.getenv('OPEN_API_KEY')
     model = os.getenv('MODEL')
-    # tempterature = float(os.getenv('TEMPERATURE'))
-    assistant_instruction = os.getenv('INSTRUCTION')
+    assistant_instruction = os.getenv('CHAT_INSTRUCTION')
     prompt = os.getenv('PROMPT')
-    print(os.getcwd())
-    print(f"prompt: {prompt}")
 
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
