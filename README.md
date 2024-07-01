@@ -4,6 +4,9 @@
 - [Human Computer Interaction](hci/)
 - [Requirement Engeneering](re/)
 
+#### parameter setting
+- [.env.example](hci/.env.example): environment and parameters settings, needs to replace the value of API KEY with your own OPENAI api key
+
 #### Code(hci)
 - [chatGenerate.py](hci/chatGenerate.py): generates CQs using just LLM prompting, output a list of generative CQs
 - [RAGgenerate.py](hci/RAGgenerate.py): generates CQs using just RAG, output a list of generative CQs
