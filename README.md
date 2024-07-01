@@ -10,7 +10,7 @@
 - [generate-iteration.py](hci/generate-iteration.py): iteration of each parameter settings in chatGenerate.py or RAGgenerate.py
 - [similarity.py](hci/similarity.py): similarity calculation between generative CQs and ground-truth CQs
 - [similarity-iteration.py](hci/similarity.py): iteration of each parameter settings in similariy.py
-- [plot.ipynb](hci/plot.ipynb): plots the evaluation metrics
+- [plotting.ipynb](hci/ploting.ipynb): plots the evaluation metrics
 
 #### Data(hci)
 - [references](hci/reference/): papers in PDF format as input to the RAG
