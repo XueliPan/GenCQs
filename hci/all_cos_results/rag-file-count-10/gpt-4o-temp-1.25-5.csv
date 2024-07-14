@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the core concepts and relationships involved in human-computer interaction?,What is a human–computer interaction?,0.7601
+1,What are the core concepts and relationships involved in human-computer interaction?,How can a user interact in human–computer interactions?,0.7171
+2,What are the relevant user attributes that affect interaction with computing systems?,What does make up the user interface of an interactive computer system?,0.6739
+3,What are the core concepts and relationships involved in human-computer interaction?,What is a complex interactive computer system?,0.6483
+4,What are the core concepts and relationships involved in human-computer interaction?,What does make up the user interface of an interactive computer system?,0.6372
+5,What are the relevant user attributes that affect interaction with computing systems?,How can a user interact in human–computer interactions?,0.6035
+6,What are the core concepts and relationships involved in human-computer interaction?,What is an interactive computer system?,0.6005
+7,What are the relevant user attributes that affect interaction with computing systems?,Why does a user intentionally interact with an interactive computer system?,0.5763
+8,What are the relevant user attributes that affect interaction with computing systems?,What is an interactive computer system?,0.5704
+9,How can user activities and participation in daily life be represented in an HCI ontology?,What does make up a complex user participation?,0.5433
+10,What are the relevant user attributes that affect interaction with computing systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5405
+11,What are the core concepts and relationships involved in human-computer interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5247
+12,What are the relevant user attributes that affect interaction with computing systems?,What is a complex interactive computer system?,0.5210
+13,What are the relevant user attributes that affect interaction with computing systems?,What is a human–computer interaction?,0.5160
+14,What are the core concepts and relationships involved in human-computer interaction?,Why does a user intentionally interact with an interactive computer system?,0.5143
+15,What are the core concepts and relationships involved in human-computer interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.5113
+16,What are the relevant user attributes that affect interaction with computing systems?,What is an interactive software system?,0.5111
+17,What are the core concepts and relationships involved in human-computer interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5095
+18,What are the core concepts and relationships involved in human-computer interaction?,What is an interactive software system?,0.5082
+19,What are the core concepts and relationships involved in human-computer interaction?,How is a user input processed by an interactive computer system?,0.5070
+20,What are the relevant user attributes that affect interaction with computing systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4863
+21,What are the relevant user attributes that affect interaction with computing systems?,How is a user input processed by an interactive computer system?,0.4845
+22,What are the core concepts and relationships involved in human-computer interaction?,What does make up a complex user participation?,0.4840
+23,What are the core concepts and relationships involved in human-computer interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4681
+24,How can an ontology model adaptive user interfaces based on user characteristics?,What does make up the user interface of an interactive computer system?,0.4662
+25,What are the relevant user attributes that affect interaction with computing systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4632
+26,How can the ontology support the analysis and design of user tasks and operations in HCI?,What is a human–computer interaction?,0.4546
+27,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What does make up the user interface of an interactive computer system?,0.4535
+28,What are the relevant user attributes that affect interaction with computing systems?,What does make up a complex user participation?,0.4474
+29,How can user activities and participation in daily life be represented in an HCI ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4469
+30,How can the ontology support the analysis and design of user tasks and operations in HCI?,What is a complex interactive computer system?,0.4377
+31,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What is a complex interactive computer system?,0.4372
+32,How can user activities and participation in daily life be represented in an HCI ontology?,How can a user interact in human–computer interactions?,0.4332
+33,What are the relevant user attributes that affect interaction with computing systems?,How does a user receive an output from an interactive computer system?,0.4322
+34,What are the different interaction constraints associated with various user profiles?,What does make up the user interface of an interactive computer system?,0.4298
+35,How can an ontology model adaptive user interfaces based on user characteristics?,How can a user interact in human–computer interactions?,0.4270
+36,How can the ontology support the analysis and design of user tasks and operations in HCI?,How can a user interact in human–computer interactions?,0.4233
+37,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",How can a user interact in human–computer interactions?,0.4232
+38,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What is a User?,0.4211
+39,How can the ontology support the analysis and design of user tasks and operations in HCI?,What is an interactive software system?,0.4201
+40,What types of input and output modalities can be represented in an HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4189
+41,How can the ontology support the analysis and design of user tasks and operations in HCI?,What does make up the user interface of an interactive computer system?,0.4184
+42,What are the relevant user attributes that affect interaction with computing systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4136
+43,What are the relevant user attributes that affect interaction with computing systems?,What is a User?,0.4128
+44,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What is an interactive software system?,0.4054
+45,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What is a human–computer interaction?,0.4046
+46,How can user activities and participation in daily life be represented in an HCI ontology?,What is a human–computer interaction?,0.4039
+47,What are the core concepts and relationships involved in human-computer interaction?,How does a user receive an output from an interactive computer system?,0.4027
+48,How can the ontology support the analysis and design of user tasks and operations in HCI?,What is an interactive computer system?,0.4017
+49,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What is a complex interactive computer system?,0.3997
+50,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What is an interactive computer system?,0.3995
+51,How can an ontology model adaptive user interfaces based on user characteristics?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3965
+52,What are the different interaction constraints associated with various user profiles?,What does make up a complex user participation?,0.3937
+53,How can an ontology model adaptive user interfaces based on user characteristics?,What is a User?,0.3935
+54,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What is a human–computer interaction?,0.3933
+55,How can user activities and participation in daily life be represented in an HCI ontology?,What is a complex interactive computer system?,0.3909
+56,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",Why does a user intentionally interact with an interactive computer system?,0.3896
+57,What types of input and output modalities can be represented in an HCI ontology?,What is a complex interactive computer system?,0.3867
+58,What are the different interaction constraints associated with various user profiles?,How can a user interact in human–computer interactions?,0.3837
+59,What types of input and output modalities can be represented in an HCI ontology?,What does make up the user interface of an interactive computer system?,0.3790
+60,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?","Considering intentionality, how can a user interact with an interactive computer system?",0.3786
+61,What types of input and output modalities can be represented in an HCI ontology?,How is a user input processed by an interactive computer system?,0.3731
+62,What are the different interaction constraints associated with various user profiles?,What is a User?,0.3700
+63,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What is an interactive computer system?,0.3680
+64,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What is an interactive software system?,0.3636
+65,How can the ontology support the analysis and design of user tasks and operations in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3623
+66,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What does make up the user interface of an interactive computer system?,0.3616
+67,What are the different interaction constraints associated with various user profiles?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3603
+68,How can the ontology support the analysis and design of user tasks and operations in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3600
+69,What types of input and output modalities can be represented in an HCI ontology?,How does a user receive an output from an interactive computer system?,0.3595
+70,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,How can a user interact in human–computer interactions?,0.3585
+71,What are the different interaction constraints associated with various user profiles?,Why does a user intentionally interact with an interactive computer system?,0.3583
+72,How can the ontology support the analysis and design of user tasks and operations in HCI?,What does make up a complex user participation?,0.3576
+73,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What does make up the user interface of an interactive computer system?,0.3570
+74,How can an ontology model adaptive user interfaces based on user characteristics?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3570
+75,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3570
+76,What assistive technologies and adaptive strategies can be included in the HCI ontology?,How can a user interact in human–computer interactions?,0.3566
+77,How can user activities and participation in daily life be represented in an HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3553
+78,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What is a complex interactive computer system?,0.3539
+79,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What is an interactive software system?,0.3509
+80,How can an ontology model adaptive user interfaces based on user characteristics?,What is an interactive computer system?,0.3507
+81,How can an ontology model adaptive user interfaces based on user characteristics?,What is an interactive software system?,0.3504
+82,How can an ontology model adaptive user interfaces based on user characteristics?,How is a user input processed by an interactive computer system?,0.3480
+83,What types of input and output modalities can be represented in an HCI ontology?,What is an interactive computer system?,0.3466
+84,How can user activities and participation in daily life be represented in an HCI ontology?,What does make up the user interface of an interactive computer system?,0.3462
+85,How can user activities and participation in daily life be represented in an HCI ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3453
+86,How can an ontology model adaptive user interfaces based on user characteristics?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3439
+87,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What does make up a complex user participation?,0.3432
+88,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What does make up the user interface of an interactive computer system?,0.3413
+89,How can an ontology model adaptive user interfaces based on user characteristics?,Why does a user intentionally interact with an interactive computer system?,0.3406
+90,How does the ontology handle variations in accessibility and usability for users with different impairments?,How can a user interact in human–computer interactions?,0.3387
+91,How can the ontology support the analysis and design of user tasks and operations in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3348
+92,How can an ontology model adaptive user interfaces based on user characteristics?,What does make up a complex user participation?,0.3312
+93,What are the different interaction constraints associated with various user profiles?,What is a human–computer interaction?,0.3310
+94,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What does make up a complex user participation?,0.3299
+95,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What is an interactive computer system?,0.3291
+96,How can the ontology support the analysis and design of user tasks and operations in HCI?,How is a user input processed by an interactive computer system?,0.3287
+97,How does the ontology handle variations in accessibility and usability for users with different impairments?,What does make up the user interface of an interactive computer system?,0.3280
+98,What types of input and output modalities can be represented in an HCI ontology?,What is a human–computer interaction?,0.3261
+99,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What is a human–computer interaction?,0.3260
+100,How can an ontology model adaptive user interfaces based on user characteristics?,What is a human–computer interaction?,0.3250
+101,How can the ontology support the analysis and design of user tasks and operations in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3231
+102,How can user activities and participation in daily life be represented in an HCI ontology?,What is an interactive computer system?,0.3227
+103,How does the ontology handle variations in accessibility and usability for users with different impairments?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3214
+104,What types of input and output modalities can be represented in an HCI ontology?,What is an interactive software system?,0.3192
+105,How can user activities and participation in daily life be represented in an HCI ontology?,Why does a user intentionally interact with an interactive computer system?,0.3180
+106,How can the ontology support the analysis and design of user tasks and operations in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3133
+107,How can an ontology model adaptive user interfaces based on user characteristics?,What is a complex interactive computer system?,0.3130
+108,How does the ontology handle variations in accessibility and usability for users with different impairments?,What does make up a complex user participation?,0.3114
+109,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What does make up the user interface of an interactive computer system?,0.3076
+110,What are the different interaction constraints associated with various user profiles?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3059
+111,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3051
+112,What are the different interaction constraints associated with various user profiles?,What is an interactive computer system?,0.3038
+113,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What is a complex interactive computer system?,0.3032
+114,How can user activities and participation in daily life be represented in an HCI ontology?,What is an interactive software system?,0.3031
+115,What assistive technologies and adaptive strategies can be included in the HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3027
+116,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",How is a user input processed by an interactive computer system?,0.3023
+117,How can user activities and participation in daily life be represented in an HCI ontology?,What is a User?,0.3020
+118,What are the different interaction constraints associated with various user profiles?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3002
+119,How does the ontology handle variations in accessibility and usability for users with different impairments?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2961
+120,What assistive technologies and adaptive strategies can be included in the HCI ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2952
+121,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?","Considering the human–computer interaction, how can a user participation cause another user participation?",0.2950
+122,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2943
+123,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,Why does a user intentionally interact with an interactive computer system?,0.2938
+124,How can an ontology model adaptive user interfaces based on user characteristics?,How does a user receive an output from an interactive computer system?,0.2920
+125,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What does make up a complex user participation?,0.2919
+126,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,How can a user interact in human–computer interactions?,0.2889
+127,What are the core concepts and relationships involved in human-computer interaction?,What is a User?,0.2878
+128,How can an ontology model adaptive user interfaces based on user characteristics?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2874
+129,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,How is a user input processed by an interactive computer system?,0.2863
+130,What types of input and output modalities can be represented in an HCI ontology?,How can a user interact in human–computer interactions?,0.2861
+131,How can the ontology support the analysis and design of user tasks and operations in HCI?,How does a user receive an output from an interactive computer system?,0.2858
+132,What are the different interaction constraints associated with various user profiles?,What is an interactive software system?,0.2856
+133,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What does make up a complex user participation?,0.2842
+134,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2814
+135,What are the different interaction constraints associated with various user profiles?,How is a user input processed by an interactive computer system?,0.2802
+136,What are the different interaction constraints associated with various user profiles?,What is a complex interactive computer system?,0.2800
+137,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What is an interactive software system?,0.2783
+138,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2781
+139,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2765
+140,How does the ontology handle variations in accessibility and usability for users with different impairments?,What is a human–computer interaction?,0.2753
+141,How does the ontology handle variations in accessibility and usability for users with different impairments?,What is a User?,0.2727
+142,How can the ontology support the analysis and design of user tasks and operations in HCI?,What is a User?,0.2723
+143,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",How does a user receive an output from an interactive computer system?,0.2721
+144,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What is an interactive computer system?,0.2695
+145,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2677
+146,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2656
+147,What types of input and output modalities can be represented in an HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2637
+148,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2635
+149,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2615
+150,What competency questions can the ontology answer to validate its coverage of the HCI domain?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2599
+151,What assistive technologies and adaptive strategies can be included in the HCI ontology?,How is a user input processed by an interactive computer system?,0.2578
+152,How does the ontology handle variations in accessibility and usability for users with different impairments?,How is a user input processed by an interactive computer system?,0.2572
+153,What assistive technologies and adaptive strategies can be included in the HCI ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2542
+154,How does the ontology handle variations in accessibility and usability for users with different impairments?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2526
+155,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What is a complex interactive computer system?,0.2525
+156,How does the ontology handle variations in accessibility and usability for users with different impairments?,What is an interactive computer system?,0.2514
+157,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What is a complex interactive computer system?,0.2512
+158,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,How is a user input processed by an interactive computer system?,0.2488
+159,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What is a human–computer interaction?,0.2470
+160,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What is an interactive computer system?,0.2458
+161,What types of input and output modalities can be represented in an HCI ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2425
+162,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What is an interactive software system?,0.2420
+163,How does the ontology handle variations in accessibility and usability for users with different impairments?,What is an interactive software system?,0.2394
+164,How does the ontology handle variations in accessibility and usability for users with different impairments?,Why does a user intentionally interact with an interactive computer system?,0.2393
+165,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,How does a user receive an output from an interactive computer system?,0.2373
+166,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,How is a user input processed by an interactive computer system?,0.2355
+167,How can user activities and participation in daily life be represented in an HCI ontology?,How is a user input processed by an interactive computer system?,0.2343
+168,How does the ontology handle variations in accessibility and usability for users with different impairments?,What is a complex interactive computer system?,0.2340
+169,What assistive technologies and adaptive strategies can be included in the HCI ontology?,Why does a user intentionally interact with an interactive computer system?,0.2336
+170,How can user activities and participation in daily life be represented in an HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2330
+171,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2293
+172,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What is an interactive computer system?,0.2269
+173,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What is a human–computer interaction?,0.2267
+174,What assistive technologies and adaptive strategies can be included in the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2260
+175,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,How does a user receive an output from an interactive computer system?,0.2250
+176,What competency questions can the ontology answer to validate its coverage of the HCI domain?,How can a user interact in human–computer interactions?,0.2246
+177,What types of input and output modalities can be represented in an HCI ontology?,What does make up a complex user participation?,0.2238
+178,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2224
+179,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,What is an interactive software system?,0.2218
+180,How can user activities and participation in daily life be represented in an HCI ontology?,How does a user receive an output from an interactive computer system?,0.2180
+181,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What does make up the user interface of an interactive computer system?,0.2153
+182,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What does make up a complex user participation?,0.2109
+183,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,How can a user interact in human–computer interactions?,0.2099
+184,How can user profiles be modeled in an ontology to represent various abilities and disabilities?,Why does a user intentionally interact with an interactive computer system?,0.2088
+185,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,Why does a user intentionally interact with an interactive computer system?,0.2073
+186,What types of input and output modalities can be represented in an HCI ontology?,Why does a user intentionally interact with an interactive computer system?,0.2059
+187,What are the different interaction constraints associated with various user profiles?,How does a user receive an output from an interactive computer system?,0.2054
+188,What competency questions can the ontology answer to validate its coverage of the HCI domain?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2039
+189,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What is a human–computer interaction?,0.1994
+190,How does the ontology handle variations in accessibility and usability for users with different impairments?,How does a user receive an output from an interactive computer system?,0.1968
+191,What are the different interaction constraints associated with various user profiles?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1963
+192,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What is a human–computer interaction?,0.1956
+193,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,How does a user receive an output from an interactive computer system?,0.1937
+194,How does the ontology handle variations in accessibility and usability for users with different impairments?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1889
+195,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What is an interactive software system?,0.1860
+196,What are the best practices for integrating existing domain ontologies with the HCI ontology?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1847
+197,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What is a complex interactive computer system?,0.1812
+198,What assistive technologies and adaptive strategies can be included in the HCI ontology?,How does a user receive an output from an interactive computer system?,0.1777
+199,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What does make up a complex user participation?,0.1710
+200,What are the best practices for integrating existing domain ontologies with the HCI ontology?,How can a user interact in human–computer interactions?,0.1691
+201,What competency questions can the ontology answer to validate its coverage of the HCI domain?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1635
+202,What competency questions can the ontology answer to validate its coverage of the HCI domain?,How is a user input processed by an interactive computer system?,0.1593
+203,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What does make up the user interface of an interactive computer system?,0.1569
+204,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1569
+205,What competency questions can the ontology answer to validate its coverage of the HCI domain?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1566
+206,What competency questions can the ontology answer to validate its coverage of the HCI domain?,Why does a user intentionally interact with an interactive computer system?,0.1559
+207,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What is an interactive computer system?,0.1444
+208,"How can the ontology represent and reason about different interaction environments (e.g., multi-device scenarios)?",What is a User?,0.1365
+209,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What does make up a complex user participation?,0.1327
+210,What types of input and output modalities can be represented in an HCI ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1310
+211,How can context-awareness be incorporated into the HCI ontology for adaptive systems?,What is a User?,0.1242
+212,What assistive technologies and adaptive strategies can be included in the HCI ontology?,What is a User?,0.1177
+213,What are the best practices for integrating existing domain ontologies with the HCI ontology?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1159
+214,What are the best practices for integrating existing domain ontologies with the HCI ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1140
+215,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1102
+216,What competency questions can the ontology answer to validate its coverage of the HCI domain?,How does a user receive an output from an interactive computer system?,0.1050
+217,What competency questions can the ontology answer to validate its coverage of the HCI domain?,What is a User?,0.0855
+218,What types of input and output modalities can be represented in an HCI ontology?,What is a User?,0.0825
+219,What are the best practices for integrating existing domain ontologies with the HCI ontology?,Why does a user intentionally interact with an interactive computer system?,0.0824
+220,What are the best practices for integrating existing domain ontologies with the HCI ontology?,How is a user input processed by an interactive computer system?,0.0805
+221,What are the best practices for integrating existing domain ontologies with the HCI ontology?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.0749
+222,What are the best practices for integrating existing domain ontologies with the HCI ontology?,How does a user receive an output from an interactive computer system?,0.0444
+223,What reasoning mechanisms can be applied to derive adaptive interface elements based on ontology?,What is a User?,0.0176
+224,What are the best practices for integrating existing domain ontologies with the HCI ontology?,What is a User?,-0.0100

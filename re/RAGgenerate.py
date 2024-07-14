@@ -118,6 +118,9 @@ def main(rag_file_count, tempterature, iteration):
     print(f"prompt: {prompt}")
     print(f"rag_file_count: {rag_file_count}")
 
+    output_folder = f'gpt-output/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
+
     # Chat with RAG-based LLM
     client,assistant = create_client_and_assistant(api_key, model, assistant_name, assistant_instruction)
     print('creating vector store ......')

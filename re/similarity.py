@@ -73,10 +73,13 @@ def main(gen_cq_file, ground_truth_cq_file,rag_file_count, iteration, all_cos_re
     cos_sim_df['expertCQ'] = expertCQ_ls
     cos_sim_df['cos_score'] = score_ls
 
-    cos_sim_df.to_csv(all_cos_results_file)
+    output_folder = f'all_cos_results/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
+    output_file = f'{output_folder}/{all_cos_results_file}'
+    cos_sim_df.to_csv(output_file)
 
     # calculate the highest cosine similarity for each genCQ or each expertCQ
-    data = pd.read_csv(all_cos_results_file)
+    data = pd.read_csv(output_file)
     ###### for each expertCQ, find the most similar genCQ
     highest_score_expertCQs = pd.DataFrame()
     scores = []
@@ -102,7 +105,10 @@ def main(gen_cq_file, ground_truth_cq_file,rag_file_count, iteration, all_cos_re
         recall_0 = 0
     print(f'\nprecision for (expertCQ, best_genCQ): {len(relevant_best_genCQs)}/{len(genCQs)}={precision_0:0.4f}')
     print(f"recall for (expertCQ, best_genCQ): {len(set(relevant_best_genCQs['best_genCQs']))}/{len(relevant_best_genCQs['best_genCQs'])} = {recall_0:0.4f}")
-    output_file = f'highest_cos_results/best_gen_cq_4_each_expert_cq/{bestcq_output_file}.csv'
+    
+    output_folder = f'highest_cos_results/best_gen_cq_4_each_expert_cq/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
+    output_file = f'{output_folder}/{bestcq_output_file}.csv'
     highest_score_expertCQs.to_csv(output_file)
     print('#############')
 
@@ -133,7 +139,9 @@ def main(gen_cq_file, ground_truth_cq_file,rag_file_count, iteration, all_cos_re
         recall_1 = 0
     print(f"\nprecision for (genCQ, best_expertCQ): {len(relevant_best_expertCQs)}/{len(expertCQs)} = {precision_1:0.4f}")
     print(f"recall for (genCQ, best_expertCQ): {recall_1:0.4f}")
-    output_file = f'highest_cos_results/best_expert_cq_4_each_gen_cq/{bestcq_output_file}.csv'
+    
+    output_folder = f'highest_cos_results/best_expert_cq_4_each_gen_cq/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
     highest_score_genCQs.to_csv(output_file)
     return [precision_0, recall_0, precision_1, recall_1]
 

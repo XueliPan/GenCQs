@@ -1,0 +1,226 @@
+,genCQ,expertCQ,cos_score
+0,What are the essential components of an interactive system in HCI?,What does make up the user interface of an interactive computer system?,0.7691
+1,What are the essential components of an interactive system in HCI?,What is an interactive computer system?,0.7443
+2,What are the essential components of an interactive system in HCI?,What is a complex interactive computer system?,0.7424
+3,What are the essential components of an interactive system in HCI?,What is an interactive software system?,0.6969
+4,What are the essential components of an interactive system in HCI?,What is a human–computer interaction?,0.6349
+5,What are the essential components of an interactive system in HCI?,How is a user input processed by an interactive computer system?,0.6105
+6,What are the essential components of an interactive system in HCI?,Why does a user intentionally interact with an interactive computer system?,0.6008
+7,What are the essential components of an interactive system in HCI?,How can a user interact in human–computer interactions?,0.5984
+8,What are the essential components of an interactive system in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.5944
+9,What are the principles for designing user-centered interfaces in HCI?,What does make up the user interface of an interactive computer system?,0.5936
+10,What are the essential components of an interactive system in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.5885
+11,What are the principles for designing user-centered interfaces in HCI?,How can a user interact in human–computer interactions?,0.5620
+12,What are the principles for designing user-centered interfaces in HCI?,What is a human–computer interaction?,0.5606
+13,What is the relationship between user characteristics and interface adaptability in HCI?,What does make up the user interface of an interactive computer system?,0.5543
+14,What are the essential components of an interactive system in HCI?,How does a user receive an output from an interactive computer system?,0.5256
+15,What are the principles for designing user-centered interfaces in HCI?,What is a complex interactive computer system?,0.5230
+16,How can activity-centered design be used to match users with suitable technologies?,What does make up a complex user participation?,0.5150
+17,How can context-aware adaptation techniques improve user interaction?,How can a user interact in human–computer interactions?,0.5104
+18,How are adaptive interfaces generated based on user disabilities?,What does make up the user interface of an interactive computer system?,0.4935
+19,How can user profiles be modeled to enhance personalized interactions?,How can a user interact in human–computer interactions?,0.4890
+20,How can multimodal interfaces be designed for diverse user needs?,How can a user interact in human–computer interactions?,0.4840
+21,How can activity-centered design be used to match users with suitable technologies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4837
+22,How can multimodal interfaces be designed for diverse user needs?,What does make up the user interface of an interactive computer system?,0.4779
+23,How can activity-centered design be used to match users with suitable technologies?,How can a user interact in human–computer interactions?,0.4656
+24,What are the principles for designing user-centered interfaces in HCI?,What is an interactive computer system?,0.4647
+25,What are the essential components of an interactive system in HCI?,What does make up a complex user participation?,0.4636
+26,What is the relationship between user characteristics and interface adaptability in HCI?,How can a user interact in human–computer interactions?,0.4572
+27,How can multimodal interfaces be designed for diverse user needs?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4525
+28,What is the relationship between user characteristics and interface adaptability in HCI?,What is a human–computer interaction?,0.4521
+29,What are the principles for designing user-centered interfaces in HCI?,What does make up a complex user participation?,0.4518
+30,What are the principles for designing user-centered interfaces in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4516
+31,What are the principles for designing user-centered interfaces in HCI?,Why does a user intentionally interact with an interactive computer system?,0.4440
+32,How can context-aware adaptation techniques improve user interaction?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4416
+33,What are the approaches for integrating assistive technologies in HCI for accessibility?,How can a user interact in human–computer interactions?,0.4344
+34,What are the principles for designing user-centered interfaces in HCI?,What is an interactive software system?,0.4323
+35,What are the essential components of an interactive system in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4305
+36,What are the approaches for integrating assistive technologies in HCI for accessibility?,What is a human–computer interaction?,0.4273
+37,How is the user modeling process integrated into adaptive system frameworks?,What is an interactive software system?,0.4250
+38,How can user profiles be modeled to enhance personalized interactions?,What does make up a complex user participation?,0.4224
+39,How is the user modeling process integrated into adaptive system frameworks?,What does make up the user interface of an interactive computer system?,0.4222
+40,How can multimodal interfaces be designed for diverse user needs?,Why does a user intentionally interact with an interactive computer system?,0.4182
+41,How is the user modeling process integrated into adaptive system frameworks?,How is a user input processed by an interactive computer system?,0.4180
+42,How can activity-centered design be used to match users with suitable technologies?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4179
+43,How is the user modeling process integrated into adaptive system frameworks?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4176
+44,How can context-aware adaptation techniques improve user interaction?,Why does a user intentionally interact with an interactive computer system?,0.4163
+45,How are adaptive interfaces generated based on user disabilities?,"Considering intentionality, how can a user interact with an interactive computer system?",0.4137
+46,What are the principles for designing user-centered interfaces in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.4131
+47,How can user profiles be modeled to enhance personalized interactions?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4084
+48,How can context-aware adaptation techniques improve user interaction?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.4082
+49,How can multimodal interfaces be designed for diverse user needs?,What is a complex interactive computer system?,0.4053
+50,How are adaptive interfaces generated based on user disabilities?,How can a user interact in human–computer interactions?,0.4044
+51,What are the approaches for integrating assistive technologies in HCI for accessibility?,What does make up the user interface of an interactive computer system?,0.4015
+52,How can activity-centered design be used to match users with suitable technologies?,What is a human–computer interaction?,0.3986
+53,How are adaptive interfaces generated based on user disabilities?,How is a user input processed by an interactive computer system?,0.3978
+54,How can activity-centered design be used to match users with suitable technologies?,Why does a user intentionally interact with an interactive computer system?,0.3967
+55,What is the relationship between user characteristics and interface adaptability in HCI?,Why does a user intentionally interact with an interactive computer system?,0.3952
+56,How can user profiles be modeled to enhance personalized interactions?,What is a User?,0.3938
+57,How can user profiles be modeled to enhance personalized interactions?,What does make up the user interface of an interactive computer system?,0.3928
+58,What are the principles for designing user-centered interfaces in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3914
+59,How is the user modeling process integrated into adaptive system frameworks?,What is an interactive computer system?,0.3885
+60,What are the principles for designing user-centered interfaces in HCI?,How is a user input processed by an interactive computer system?,0.3877
+61,What is the relationship between user characteristics and interface adaptability in HCI?,What is an interactive computer system?,0.3872
+62,How can multimodal interfaces be designed for diverse user needs?,What is an interactive computer system?,0.3868
+63,How are adaptive interfaces generated based on user disabilities?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3862
+64,How are adaptive interfaces generated based on user disabilities?,What is a complex interactive computer system?,0.3853
+65,What is the relationship between user characteristics and interface adaptability in HCI?,What is a complex interactive computer system?,0.3850
+66,How can multimodal interfaces be designed for diverse user needs?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3843
+67,What are the essential components of an interactive system in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3838
+68,What are the principles for designing user-centered interfaces in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3829
+69,How are adaptive interfaces generated based on user disabilities?,What is an interactive computer system?,0.3817
+70,How can multimodal interfaces be designed for diverse user needs?,What does make up a complex user participation?,0.3801
+71,What role do rules and ontologies play in real-time ubiquitous applications?,How can a user interact in human–computer interactions?,0.3800
+72,What is the relationship between user characteristics and interface adaptability in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3776
+73,What role do rules and ontologies play in real-time ubiquitous applications?,What is a complex interactive computer system?,0.3774
+74,How can activity-centered design be used to match users with suitable technologies?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3774
+75,How are different interaction modalities defined and categorized?,What does make up the user interface of an interactive computer system?,0.3765
+76,How can activity-centered design be used to match users with suitable technologies?,What is a complex interactive computer system?,0.3747
+77,What is the relationship between user characteristics and interface adaptability in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3737
+78,What are the approaches for integrating assistive technologies in HCI for accessibility?,What is a complex interactive computer system?,0.3735
+79,How can context-aware adaptation techniques improve user interaction?,What does make up the user interface of an interactive computer system?,0.3731
+80,What role do rules and ontologies play in real-time ubiquitous applications?,What does make up the user interface of an interactive computer system?,0.3727
+81,What are the approaches for integrating assistive technologies in HCI for accessibility?,What is an interactive computer system?,0.3724
+82,How can multimodal interfaces be designed for diverse user needs?,What is an interactive software system?,0.3722
+83,How can multimodal interfaces be designed for diverse user needs?,What is a human–computer interaction?,0.3700
+84,What inference and reasoning capabilities are employed in HCI ontologies?,What is a complex interactive computer system?,0.3680
+85,How are different interaction modalities defined and categorized?,What is a complex interactive computer system?,0.3669
+86,How is the user modeling process integrated into adaptive system frameworks?,What does make up a complex user participation?,0.3668
+87,What role do rules and ontologies play in real-time ubiquitous applications?,What is an interactive software system?,0.3659
+88,How are adaptive interfaces generated based on user disabilities?,Why does a user intentionally interact with an interactive computer system?,0.3646
+89,How can activity-centered design be used to match users with suitable technologies?,What does make up the user interface of an interactive computer system?,0.3631
+90,How is the user modeling process integrated into adaptive system frameworks?,How can a user interact in human–computer interactions?,0.3627
+91,How can user profiles be modeled to enhance personalized interactions?,Why does a user intentionally interact with an interactive computer system?,0.3603
+92,What is the relationship between user characteristics and interface adaptability in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3603
+93,How are adaptive interfaces generated based on user disabilities?,What is an interactive software system?,0.3600
+94,How are adaptive interfaces generated based on user disabilities?,What is a human–computer interaction?,0.3596
+95,How can user profiles be modeled to enhance personalized interactions?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3594
+96,What methodologies are used for ontology construction in HCI domains?,What is a complex interactive computer system?,0.3594
+97,How can user profiles be modeled to enhance personalized interactions?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3594
+98,How is the user modeling process integrated into adaptive system frameworks?,What is a complex interactive computer system?,0.3592
+99,What are the approaches for integrating assistive technologies in HCI for accessibility?,What is an interactive software system?,0.3578
+100,What is the relationship between user characteristics and interface adaptability in HCI?,What is an interactive software system?,0.3578
+101,How can context-aware adaptation techniques improve user interaction?,How is a user input processed by an interactive computer system?,0.3577
+102,How can multimodal interfaces be designed for diverse user needs?,How is a user input processed by an interactive computer system?,0.3570
+103,How can the efficiency of design guidelines be evaluated in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3557
+104,What is the relationship between user characteristics and interface adaptability in HCI?,What does make up a complex user participation?,0.3555
+105,What are the approaches for integrating assistive technologies in HCI for accessibility?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3554
+106,What role do rules and ontologies play in real-time ubiquitous applications?,What is an interactive computer system?,0.3545
+107,How can user profiles be modeled to enhance personalized interactions?,How is a user input processed by an interactive computer system?,0.3472
+108,How is the user modeling process integrated into adaptive system frameworks?,Why does a user intentionally interact with an interactive computer system?,0.3465
+109,How are different interaction modalities defined and categorized?,What is a human–computer interaction?,0.3452
+110,What is the relationship between user characteristics and interface adaptability in HCI?,How is a user input processed by an interactive computer system?,0.3445
+111,What role do rules and ontologies play in real-time ubiquitous applications?,What is a human–computer interaction?,0.3437
+112,How is the user modeling process integrated into adaptive system frameworks?,What is a User?,0.3436
+113,What role do rules and ontologies play in real-time ubiquitous applications?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3423
+114,What inference and reasoning capabilities are employed in HCI ontologies?,What is an interactive software system?,0.3421
+115,What role do rules and ontologies play in real-time ubiquitous applications?,How is a user input processed by an interactive computer system?,0.3409
+116,How is the user modeling process integrated into adaptive system frameworks?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3404
+117,What are the approaches for integrating assistive technologies in HCI for accessibility?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3403
+118,How is the user modeling process integrated into adaptive system frameworks?,"Considering intentionality, how can a user interact with an interactive computer system?",0.3371
+119,How are adaptive interfaces generated based on user disabilities?,How does a user receive an output from an interactive computer system?,0.3367
+120,What role do rules and ontologies play in real-time ubiquitous applications?,Why does a user intentionally interact with an interactive computer system?,0.3361
+121,How can multimodal interfaces be designed for diverse user needs?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3335
+122,What are the approaches for integrating assistive technologies in HCI for accessibility?,How is a user input processed by an interactive computer system?,0.3333
+123,What inference and reasoning capabilities are employed in HCI ontologies?,What is a human–computer interaction?,0.3328
+124,What are the principles for designing user-centered interfaces in HCI?,How does a user receive an output from an interactive computer system?,0.3311
+125,How are different interaction modalities defined and categorized?,How can a user interact in human–computer interactions?,0.3309
+126,How are adaptive interfaces generated based on user disabilities?,What does make up a complex user participation?,0.3300
+127,How is the user modeling process integrated into adaptive system frameworks?,How does a user receive an output from an interactive computer system?,0.3281
+128,What inference and reasoning capabilities are employed in HCI ontologies?,What is an interactive computer system?,0.3264
+129,How can activity-centered design be used to match users with suitable technologies?,What is an interactive computer system?,0.3256
+130,How are different interaction modalities defined and categorized?,What does make up a complex user participation?,0.3251
+131,How is the user modeling process integrated into adaptive system frameworks?,What is a human–computer interaction?,0.3233
+132,How can user profiles be modeled to enhance personalized interactions?,What is a human–computer interaction?,0.3232
+133,How can context-aware adaptation techniques improve user interaction?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3205
+134,What inference and reasoning capabilities are employed in HCI ontologies?,What does make up the user interface of an interactive computer system?,0.3202
+135,What is the relationship between user characteristics and interface adaptability in HCI?,How does a user receive an output from an interactive computer system?,0.3185
+136,What methodologies are used for ontology construction in HCI domains?,What is a human–computer interaction?,0.3177
+137,How can multimodal interfaces be designed for diverse user needs?,How does a user receive an output from an interactive computer system?,0.3152
+138,How are different interaction modalities defined and categorized?,What is an interactive computer system?,0.3150
+139,What is the relationship between user characteristics and interface adaptability in HCI?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3137
+140,How can context-aware adaptation techniques improve user interaction?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.3134
+141,How are different interaction modalities defined and categorized?,What is an interactive software system?,0.3117
+142,What role do rules and ontologies play in real-time ubiquitous applications?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.3103
+143,How are adaptive interfaces generated based on user disabilities?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.3064
+144,What is the relationship between user characteristics and interface adaptability in HCI?,What is a User?,0.3052
+145,What are the approaches for integrating assistive technologies in HCI for accessibility?,Why does a user intentionally interact with an interactive computer system?,0.3047
+146,How can context-aware adaptation techniques improve user interaction?,What is a human–computer interaction?,0.3043
+147,How can user profiles be modeled to enhance personalized interactions?,What is an interactive computer system?,0.3037
+148,What are the approaches for integrating assistive technologies in HCI for accessibility?,What does make up a complex user participation?,0.3031
+149,How can user profiles be modeled to enhance personalized interactions?,What is a complex interactive computer system?,0.3016
+150,What methodologies are used for ontology construction in HCI domains?,What is an interactive software system?,0.2998
+151,What inference and reasoning capabilities are employed in HCI ontologies?,How can a user interact in human–computer interactions?,0.2997
+152,What role do rules and ontologies play in real-time ubiquitous applications?,What does make up a complex user participation?,0.2995
+153,How can activity-centered design be used to match users with suitable technologies?,What is an interactive software system?,0.2993
+154,How can context-aware adaptation techniques improve user interaction?,What is an interactive software system?,0.2986
+155,How can context-aware adaptation techniques improve user interaction?,What does make up a complex user participation?,0.2946
+156,What are the approaches for integrating assistive technologies in HCI for accessibility?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2923
+157,What are the approaches for integrating assistive technologies in HCI for accessibility?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2907
+158,How can context-aware adaptation techniques improve user interaction?,What is an interactive computer system?,0.2901
+159,How can user profiles be modeled to enhance personalized interactions?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2867
+160,How is the user modeling process integrated into adaptive system frameworks?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2856
+161,What methodologies are used for ontology construction in HCI domains?,What is an interactive computer system?,0.2856
+162,What methodologies are used for ontology construction in HCI domains?,What does make up the user interface of an interactive computer system?,0.2825
+163,How are adaptive interfaces generated based on user disabilities?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2780
+164,What inference and reasoning capabilities are employed in HCI ontologies?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2762
+165,How can the efficiency of design guidelines be evaluated in HCI?,What is a human–computer interaction?,0.2755
+166,How can user profiles be modeled to enhance personalized interactions?,What is an interactive software system?,0.2685
+167,What inference and reasoning capabilities are employed in HCI ontologies?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2678
+168,How can activity-centered design be used to match users with suitable technologies?,What is a User?,0.2672
+169,What inference and reasoning capabilities are employed in HCI ontologies?,What does make up a complex user participation?,0.2657
+170,How can the efficiency of design guidelines be evaluated in HCI?,What does make up the user interface of an interactive computer system?,0.2650
+171,How can user profiles be modeled to enhance personalized interactions?,How does a user receive an output from an interactive computer system?,0.2626
+172,How can context-aware adaptation techniques improve user interaction?,What is a complex interactive computer system?,0.2587
+173,How can the efficiency of design guidelines be evaluated in HCI?,What is a complex interactive computer system?,0.2565
+174,What methodologies are used for ontology construction in HCI domains?,What does make up a complex user participation?,0.2561
+175,What inference and reasoning capabilities are employed in HCI ontologies?,How is a user input processed by an interactive computer system?,0.2543
+176,What role do rules and ontologies play in real-time ubiquitous applications?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2505
+177,What role do rules and ontologies play in real-time ubiquitous applications?,How does a user receive an output from an interactive computer system?,0.2491
+178,What role do rules and ontologies play in real-time ubiquitous applications?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2486
+179,How are different interaction modalities defined and categorized?,Why does a user intentionally interact with an interactive computer system?,0.2476
+180,How can multimodal interfaces be designed for diverse user needs?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.2476
+181,What inference and reasoning capabilities are employed in HCI ontologies?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2417
+182,How are different interaction modalities defined and categorized?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2412
+183,What methodologies are used for ontology construction in HCI domains?,How can a user interact in human–computer interactions?,0.2406
+184,How are adaptive interfaces generated based on user disabilities?,What is a User?,0.2400
+185,How can context-aware adaptation techniques improve user interaction?,How does a user receive an output from an interactive computer system?,0.2371
+186,What are the approaches for integrating assistive technologies in HCI for accessibility?,How does a user receive an output from an interactive computer system?,0.2338
+187,What are the principles for designing user-centered interfaces in HCI?,What is a User?,0.2337
+188,How can multimodal interfaces be designed for diverse user needs?,What is a User?,0.2265
+189,How can the efficiency of design guidelines be evaluated in HCI?,What is an interactive software system?,0.2239
+190,How are different interaction modalities defined and categorized?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.2205
+191,How are different interaction modalities defined and categorized?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.2198
+192,How can the efficiency of design guidelines be evaluated in HCI?,What does make up a complex user participation?,0.2144
+193,How can activity-centered design be used to match users with suitable technologies?,How is a user input processed by an interactive computer system?,0.2095
+194,How can the efficiency of design guidelines be evaluated in HCI?,What is an interactive computer system?,0.2090
+195,What inference and reasoning capabilities are employed in HCI ontologies?,Why does a user intentionally interact with an interactive computer system?,0.2073
+196,How are different interaction modalities defined and categorized?,How is a user input processed by an interactive computer system?,0.2052
+197,What methodologies are used for ontology construction in HCI domains?,"Considering intentionality, how can a user interact with an interactive computer system?",0.2030
+198,How can the efficiency of design guidelines be evaluated in HCI?,How can a user interact in human–computer interactions?,0.2013
+199,What inference and reasoning capabilities are employed in HCI ontologies?,How does a user receive an output from an interactive computer system?,0.2007
+200,How can activity-centered design be used to match users with suitable technologies?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1978
+201,What are the essential components of an interactive system in HCI?,What is a User?,0.1963
+202,What methodologies are used for ontology construction in HCI domains?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1955
+203,How can context-aware adaptation techniques improve user interaction?,What is a User?,0.1938
+204,What role do rules and ontologies play in real-time ubiquitous applications?,What is a User?,0.1926
+205,What methodologies are used for ontology construction in HCI domains?,How is a user input processed by an interactive computer system?,0.1916
+206,What inference and reasoning capabilities are employed in HCI ontologies?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1906
+207,How can the efficiency of design guidelines be evaluated in HCI?,"Considering intentionality, how can a user interact with an interactive computer system?",0.1857
+208,How can activity-centered design be used to match users with suitable technologies?,How does a user receive an output from an interactive computer system?,0.1847
+209,What methodologies are used for ontology construction in HCI domains?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1838
+210,How can the efficiency of design guidelines be evaluated in HCI?,Why does a user intentionally interact with an interactive computer system?,0.1793
+211,How are different interaction modalities defined and categorized?,How does a user evaluate if his/her goal was achieved in a human–computer interaction?,0.1691
+212,How can the efficiency of design guidelines be evaluated in HCI?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.1660
+213,How can the efficiency of design guidelines be evaluated in HCI?,How is a user input processed by an interactive computer system?,0.1623
+214,How are different interaction modalities defined and categorized?,How does a user receive an output from an interactive computer system?,0.1511
+215,What methodologies are used for ontology construction in HCI domains?,Why does a user intentionally interact with an interactive computer system?,0.1493
+216,What methodologies are used for ontology construction in HCI domains?,How does a user receive an output from an interactive computer system?,0.1362
+217,What methodologies are used for ontology construction in HCI domains?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1285
+218,How can the efficiency of design guidelines be evaluated in HCI?,"Considering the human–computer interaction, how can a user participation cause another user participation?",0.1261
+219,What are the approaches for integrating assistive technologies in HCI for accessibility?,What is a User?,0.1243
+220,How are different interaction modalities defined and categorized?,What is a User?,0.1160
+221,What methodologies are used for ontology construction in HCI domains?,What is a User?,0.1143
+222,What inference and reasoning capabilities are employed in HCI ontologies?,What is a User?,0.1120
+223,How can the efficiency of design guidelines be evaluated in HCI?,How does a user receive an output from an interactive computer system?,0.1051
+224,How can the efficiency of design guidelines be evaluated in HCI?,What is a User?,0.0117

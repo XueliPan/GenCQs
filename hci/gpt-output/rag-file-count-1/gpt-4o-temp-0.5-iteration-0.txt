@@ -1,15 +1,15 @@
-1. What defines the user's profile in an HCI system?
-2. How are user abilities such as seeing, hearing, and moving categorized?
-3. What are the primary input modalities available for user interaction?
-4. What are the primary output modalities available for user interaction?
-5. What rules are used to map user abilities to appropriate interaction modalities?
-6. How is the reasoning process applied to adapt user interfaces based on an ontology?
-7. What is the role of SWRL rules in deriving new information for adaptive interfaces?
-8. How are the properties of modalities (such as size and volume) adjusted based on user abilities?
-9. What is the relationship between input modes, modalities, and mediums in an HCI ontology?
-10. What criteria are used to decide when a modality should be eliminated or adapted?
-11. How are multimodal interfaces defined within the HCI domain?
-12. What constraints are considered to ensure that an HCI system provides at least one input and one output modality?
-13. How do user preferences and skills affect the customization of adaptive interfaces?
-14. How can ontology-based systems support personalization and adaptation in HCI?
-15. What are the key challenges in creating an ontology for adaptive HCI systems?
+1. What are the main components of human-computer interaction systems?
+2. How do user characteristics influence the adaptation of user interfaces?
+3. What types of interaction modalities are used in HCI systems?
+4. How can multimodal interaction enhance user experience in HCI?
+5. What are the critical factors for designing adaptive user interfaces?
+6. How is user context utilized in personalizing HCI systems?
+7. What are the different input and output modalities in HCI?
+8. How can ontologies support reasoning in HCI systems?
+9. What role do sensory and motor abilities play in HCI interaction modalities?
+10. How can rule-based reasoning be applied to HCI adaptation?
+11. What are the relationships between input, output, and medium components in HCI?
+12. How does the environment impact human-computer interaction?
+13. What methodologies are used to construct ontologies for HCI?
+14. How do user preferences and skills influence HCI system design?
+15. How can semantic technologies improve user interface adaptation in HCI?

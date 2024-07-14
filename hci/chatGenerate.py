@@ -20,6 +20,9 @@ def main(rag_file_count, tempterature, iteration):
     assistant_instruction = os.getenv('CHAT_INSTRUCTION')
     prompt = os.getenv('PROMPT')
 
+    output_folder = f'gpt-output/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
+
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
         model=model,

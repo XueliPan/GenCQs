@@ -24,6 +24,9 @@ def main(rag_file_count, tempterature, iteration):
     print(os.getcwd())
     print(f"prompt: {prompt}")
 
+    output_folder = f'gpt-output/rag-file-count-{rag_file_count}'
+    os.makedirs(output_folder, exist_ok=True)
+
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
         model=model,

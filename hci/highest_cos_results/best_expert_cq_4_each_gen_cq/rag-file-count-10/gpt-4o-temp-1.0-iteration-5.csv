@@ -1,0 +1,16 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the core components of human-computer interaction (HCI) systems?,What is a human–computer interaction?,0.7136
+1,How are user profiles represented in HCI ontologies?,What is a User?,0.4119
+2,What types of interaction modes are identified in HCI systems?,What does make up the user interface of an interactive computer system?,0.5907
+3,"How are different modalities (e.g., visual, auditory, tactile) represented in an HCI ontology?",What does make up the user interface of an interactive computer system?,0.3747
+4,What types of devices serve as input and output media in HCI systems?,How is a user input processed by an interactive computer system and how is the corresponding output presented to him/her?,0.4672
+5,How are user preferences and skills accounted for in adaptive HCI systems?,What does make up the user interface of an interactive computer system?,0.4798
+6,What rules govern the adaptation of user interfaces in HCI systems?,What does make up the user interface of an interactive computer system?,0.5768
+7,"How does the ontology differentiate between different user interaction methods (e.g., gestures vs",How can a user interact in human–computer interactions?,0.5165
+8,What are the key user characteristics that influence interface adaptation in HCI?,What does make up the user interface of an interactive computer system?,0.5669
+9,"How is context (e.g., location, time) represented in HCI ontologies to influence interaction?",How can a user interact in human–computer interactions?,0.4424
+10,"What role do haptic interfaces play in HCI, and how are they modeled in an ontology?",What does make up the user interface of an interactive computer system?,0.4855
+11,How are multimodal interfaces designed and represented in HCI ontologies?,What does make up the user interface of an interactive computer system?,0.5222
+12,What methods and algorithms are used for user modeling and interface adaptation in HCI systems?,What does make up the user interface of an interactive computer system?,0.5302
+13,How is semantic reasoning used to ensure ontology consistency and interface adaptability in HCI?,What does make up the user interface of an interactive computer system?,0.3551
+14,How do HCI systems manage and integrate sensor data for context-aware interactions?,How can a user interact in human–computer interactions?,0.5266
