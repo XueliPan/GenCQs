@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,Which era of RE research has maximum progress in terms of new advances?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6008
+1,"Which country is frequently involved in RE research and in which era, these countries showed maximum progress?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.5407
+2,"In which context, have the empirical studies of RE been carried out over the period of RE research?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.7185
+3,How has empirical research in various RE knowledge areas evolved over the years?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.708
+4,What types of interventions have been proposed or investigated in RE research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5412
+5,In which channels are empirical studies of RE published?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6989
+6,"How is the research method, type, intervention, and domains related to RE core areas?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.5388
+7,Which research method is frequently used in primary studies?,How often are which statistical methods used?,0.6637
+8,What kind of research participants are frequently involved in primary studies?,How often are those who conduct the studies also the authors of the papers?,0.6333
+9,Which data collection method is frequently used in the investigation of research in primary studies?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5743
+10,What is the frequency of different research types of primary studies?,How often are those who conduct the studies also the authors of the papers?,0.6418
+11,How rigorous is the reported research in different RE core areas?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6022
+12,What is the state of the art in empirical studies of RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6891
+13,What is the strength of empirical evidence in empirical requirement engineering literature?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5524
+14,How many empirical studies have been conducted on tools in the field of RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6556
+15,What empirical studies have been carried out related to techniques in RE?,How often are which empirical methods used?,0.6
+16,Which frameworks proposed in RE have been empirically studied?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6007
+17,How many guidelines in RE have been empirically validated?,How many different empirical methods are used per publication?,0.5284
+18,"Which RE areas are identified as rich in terms of tools, techniques, frameworks, and guidelines based on empirical evidence?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.6514
+19,Which RE areas are deprived of much empirical research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6455
+20,What are the research trends and opportunities identified from the SMS in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.494
+21,How has the quality of empirical studies in RE evolved over time?,How has the proportion of empirical studies evolved over time?,0.8167
+22,What themes emerged from the overall aggregation and synthesis of RE empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6641
+23,How do empirical studies in RE benefit both industry and academia?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.631
+24,What existing empirical interventions in RE lack rigorous validation?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.484
+25,What are popular publication venues for empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7191
+26,Which RE knowledge areas have seen the most empirical research advances?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6331
+27,What are common challenges faced in aggregating empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.68
+28,What are the gaps identified in empirical research on RE processes?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6048
+29,How did empirical research on requirements elicitation evolve?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5081
+30,"Which sectors (e.g., embedded, telecom) frequently appear in empirical RE studies?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.714
+31,Which non-functional requirements are most extensively researched in empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5288
+32,What impact do geographical regions have on the progress of empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6277
+33,Which empirical studies focus on the globalization of RE practices?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5004
+34,How are emerging topics like RE for small and medium enterprises represented in empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6014
+35,How often are practitioners involved as participants in empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6675
+36,What are the main findings from empirical studies on requirements validation and verification?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4672
+37,How do empirical studies in RE address the problem formulation stage?,How do the authors justify the selection and combination of empirical methods and design elements?,0.613
+38,Which case studies in RE include real-world scenarios versus hypothetical ones?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.4701
+39,"Which empirical studies investigate the RE practices in industries of different sizes (e.g., SMEs vs",How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4855
+40,How do empirical studies in RE handle cultural and regional differences?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5252
+41,What are key empirical findings on requirements traceability?,How many empirical studies are by authors working for large software development companies?,0.3813
+42,How do empirical studies evaluate the effectiveness of different requirements elicitation techniques?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5337
+43,What empirical evidence exists for the effectiveness of management practices in RE?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.473
+44,Which data collection methods yield the most reliable results in empirical RE studies?,How often are which empirical methods used?,0.664
+45,What are the trends in the type of research methods used in empirical RE over the years?,How often are which empirical methods used over time?,0.7522
+46,Which empirical RE studies have been replicated to validate findings?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6822
+47,How does the rigor of empirical studies vary across different RE areas?,How has the proportion of empirical studies evolved over time?,0.7702
+48,What are the empirical research trends related to agile RE practices?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5382
+49,Which empirical RE studies address the security requirements?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5635
+50,How do empirical studies contribute to our understanding of requirements negotiation?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4393
+51,"What types of empirical studies dominate the field of RE (e.g., case studies, experiments)?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.7603
+52,What are the empirical trends in requirements change management?,How has the reporting of the tasks evolved over time?,0.4164
+53,Which empirical studies in RE focus on the requirements specification phase?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5421
+54,How does empirical research in RE contribute to requirements documentation practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5662
+55,What are the empirical findings on the relationship between RE and software architecture?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.4161
+56,Which systematic reviews cover empirical research in specific sub-areas of RE?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.7626
+57,How often do empirical studies report negative findings in RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6228
+58,How do empirical studies in RE address the issue of the relevance of research to industrial problems?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6078
+59,Which empirical studies in RE address the themes of requirements elicitation and validation?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.549
+60,"What is the distribution of empirical RE studies across different publication types (e.g., conference papers, journal articles)?",How many different empirical methods are used per publication?,0.7007
+61,Which countries have seen the most notable empirical progress in RE since the 1990s?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5291
+62,How do empirical studies detail stakeholder involvement in RE processes?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.5731
+63,What empirical studies focus on creativity techniques for requirements engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4523
+64,How do empirical studies approach the empirical validation of new RE methods?,How often are which empirical methods used?,0.6645
+65,What are the key empirical findings on requirements prioritization techniques?,How do the authors justify the selection and combination of empirical methods and design elements?,0.453
+66,How do empirical studies investigate causes of requirements change?,How has the proportion of empirical studies evolved over time?,0.4976
+67,Which empirical studies in RE focus on requirements reuse practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4997
+68,How do empirical studies in the RE field handle the complexity of distributed software development?,How many empirical studies are by authors working for large software development companies?,0.6386
+69,What empirical research has been conducted on requirements visualization techniques?,How has the use of triangulation for research design evolved over time?,0.4227
+70,How are empirical results in RE typically reported?,How often are which empirical methods used?,0.6069
+71,Which empirical studies in RE have influenced industry practices?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6129
+72,What empirical studies focus on validating requirements derivation and flow-down processes?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4537
+73,How comprehensive are the empirical studies in covering various domains of RE practice?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.655
+74,What empirical evidence supports the use of specific RE tools in practice?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.5154
+75,How do empirical studies in RE address the adaptability of practices in dynamic environments?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.5438
+76,What are the empirical research opportunities identified in the field of RE for future exploration?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6242

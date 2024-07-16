@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the prevailing research interests in Requirements Engineering (RE)?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4837
+1,How have the topics of interest in RE evolved over time?,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",0.6561
+2,Which methods are predominantly used in empirical studies in RE?,How often are which empirical methods used?,0.8033
+3,What are the most significant challenges in RE as identified by empirical research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6184
+4,What metrics are typically used to evaluate RE processes?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3952
+5,How effective are various RE methods and techniques?,How often are which empirical methods used?,0.5213
+6,Which tools are most commonly used in the RE domain?,Which digital libraries with publications from SE and RE and related disciplines do authors use for (systematic literature) reviews?,0.4493
+7,What are the success factors for RE projects?,How many empirical studies are by authors working for large software development companies?,0.4462
+8,How does stakeholder involvement impact the success of RE processes?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.3832
+9,What role do social and human factors play in the RE process?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4209
+10,How do different RE approaches compare in terms of scalability?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4801
+11,What are the benefits of adopting agile methods in RE?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.465
+12,How has the adoption of model-driven development influenced RE?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4473
+13,What is the impact of distributed development on RE practices?,How many empirical studies are by authors working for large software development companies?,0.4212
+14,"How do RE practices differ across various industries (e.g., automotive, healthcare)?",How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.4822
+15,What are the common sources of requirements changes in RE projects?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3983
+16,How do teams handle requirements elicitation in large projects?,How many empirical studies are by authors working for large software development companies?,0.361
+17,How does the use of requirements management tools affect project outcomes?,How many empirical studies are by authors working for large software development companies?,0.3819
+18,What are the typical roles and responsibilities in an RE team?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3473
+19,How does the clarity of requirements affect system quality?,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,0.3356
+20,How is the prioritization of requirements managed in agile vs,How do the authors justify the selection and combination of empirical methods and design elements?,0.242
+21,What are the common pitfalls in RE and how are they mitigated?,What types of threats to validity do the authors report?,0.4043
+22,How important is traceability in the RE process?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3486
+23,What techniques are used for validating and verifying requirements?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.395
+24,How is requirements validation performed in different RE methodologies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3248
+25,What are the best practices for conducting requirements workshops?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3244
+26,How do regulatory requirements impact RE processes?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4424
+27,What strategies are used to manage requirements in highly regulated industries?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3699
+28,How has the use of artificial intelligence and machine learning affected RE?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3949
+29,What research gaps exist in the current understanding of RE practices?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5078
+30,How do cultural differences affect global RE projects?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.333
+31,What training and skills are essential for RE practitioners?,How has the proportion of pure demonstrations (proof of concept) and simple experience reports (lessons learned) evolved over time?,0.2824
+32,How does early stakeholder engagement influence RE success?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.3546
+33,What are the effects of RE on project time and cost overruns?,How many empirical studies are by authors working for large software development companies?,0.2874
+34,What are the critical success factors for RE in agile projects?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3763
+35,How does the complexity of a project impact RE activities?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3352
+36,How is the communication between stakeholders and RE teams managed?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3484
+37,What is the role of RE in the overall software development lifecycle?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4309
+38,How is user feedback integrated into the RE process?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3566
+39,What are the emerging trends in RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.649
+40,How do small and medium-sized enterprises (SMEs) handle RE differently than large organizations?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.336
+41,What are the impacts of RE outsourcing?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3694
+42,How is requirements documentation maintained and updated?,How has the reporting of the tasks evolved over time?,0.3479
+43,What role does prototyping play in RE?,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,0.3386
+44,How is requirements engineering handled in DevOps environments?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3305
+45,What is the impact of inadequate requirements on software project failures?,How many empirical studies are by authors working for large software development companies?,0.3937
+46,How do different RE methods support innovation in software development?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.505
+47,What are the common misunderstandings about RE among stakeholders?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.4301
+48,How do RE practices impact software maintainability?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4048
+49,How do RE teams ensure the completeness of requirements?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3329
+50,What tools are available for automating RE activities?,How has the reporting of the tasks evolved over time?,0.3252
+51,How do project managers perceive the importance of RE?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.399
+52,How do RE practices influence the quality of end-user experience?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3844
+53,What is the impact of RE on software security?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.3351
+54,How does RE contribute to risk management in software projects?,How many empirical studies are by authors working for large software development companies?,0.3754
+55,How are requirements conflicts identified and resolved?,What types of threats to validity do the authors report?,0.2715
+56,What strategies are employed for managing non-functional requirements?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3605
+57,How do different RE practices impact customer satisfaction?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.396
+58,What are the best practices for aligning business goals with RE activities?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3279
+59,How is the success of RE measured?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4676
+60,How do RE practices adapt to changing technology landscapes?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5694
+61,How do artificial intelligence and RE intersect?,"""On which levels of sophistication are the theories from SE and RE? (level 1, level 2, or level 3 defined in Sjøberg et al. [1])""",0.3582
+62,What are the implications of technical debt on RE?,How many theories from the SE and RE are there?,0.3191
+63,How does RE support continuous delivery models?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3477
+64,How are user stories used in RE?,How has the reporting of the context evolved over time?,0.3149
+65,What methodological approaches are most effective in RE?,How often are which empirical methods used?,0.5427
+66,What is the role of RE in system integration projects?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3842
+67,How do regulatory changes affect RE practices?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.3906
+68,What are the strategies for improving the elicitation of implicit requirements?,Do the authors exlain HOW their apporach is better than others in a selected context with specific characteristics?,0.3746
+69,How can RE practices be scaled in large and complex projects?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3514
+70,How does RE impact the flexibility of software systems?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.375
+71,What are the common pitfalls in requirements negotiation?,What types of threats to validity do the authors report?,0.2908
+72,How do RE teams integrate feedback loops into their processes?,How has the reporting of the tasks evolved over time?,0.322
+73,What is the role of RE in software reuse?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.4229
+74,How do different sectors prioritize requirements differently in RE?,What is the proportion of each of the three levels of sophistication for theories from SE and RE?,0.3252
+75,How do RE practices evolve throughout the software development lifecycle?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4713
+76,What future directions might RE research take given current technological advancements?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.563

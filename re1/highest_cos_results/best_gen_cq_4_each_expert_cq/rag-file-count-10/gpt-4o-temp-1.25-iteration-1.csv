@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are common practices in designing and reporting empirical research carried out by researchers and practitioners?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.6251
+1,What recommended practices reported in the literature do researchers and practitioners consider useful for designing and reporting empirical research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.6644
+2,Is your empirical research usually motivated by the goal to improve some artifact?,How has the proportion of empirical studies evolved over time?,0.5261
+3,Do you usually define a top-level knowledge goal for your empirical research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.499
+4,Do you usually review the current state of knowledge related to your empirical research?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.5433
+5,Do you think that the following practices would be useful to have a better contextualization of your research?,Do the authors report the selected context of their study with specific characteristics?,0.562
+6,Definition of improvement goal,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.2385
+7,Definition of knowledge goal,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.2975
+8,Review of the current state of knowledge,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",0.3687
+9,Do you usually define a conceptual framework for the phenomena to be investigated in your research?,How many studies incorporate theories?,0.5684
+10,Do you usually operationalize the concepts of this framework?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.4482
+11,Do you validate these operationalizations?,What types of threats to validity do the authors report?,0.4142
+12,Do you usually formulate the research questions in your empirical research?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5981
+13,Do you usually describe the population in your empirical research?,How has the the reporting of the population evolved over time?,0.5512
+14,Do you think that the following practices would be useful to improve the understanding of your research problem?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5273
+15,Definition of relevant concepts of the phenomena to be investigated,How many studies incorporate theories?,0.4809
+16,Operationalization of the concepts defined,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5513
+17,Validation of the operationalization of concepts,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5365
+18,Formulation of research questions,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5373
+19,Description of population,How has the definition of the population evolved over time?,0.6197
+20,Do you usually justify the acquisition process of the object of study for your empirical research?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.5756
+21,Do you consider any ethical issue in your research involving human subjects?,What types of threats to validity do the authors report?,0.4157
+22,Do you usually justify the representativeness of the object of study for the population in your empirical research?,Do the authors report the selected context of their study with specific characteristics?,0.5293
+23,Do you usually consider all the assumptions of inference techniques to be used in your empirical research?,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.7197
+24,Do you usually plan the procedures to be followed in the experimental treatment?,How has the reporting of the objects of study / treatments evolved over time?,0.4279
+25,Do you usually specify any instruments needed to apply the treatments of your experimental research?,How has the reporting of the objects of study / treatments evolved over time?,0.4657
+26,Do you usually specify any instruments needed for measurement?,How has the use of power analysis and effect size estimation evolved over time?,0.2911
+27,Do you usually specify procedures to be followed when performing measurements?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3959
+28,Could you indicate whether you usually consider the validity of the following issues?,What types of threats to validity do the authors report?,0.5719
+29,Measures,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.2705
+30,Measurement procedure,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.2828
+31,Measurement instrument,How has the use of power analysis and effect size estimation evolved over time?,0.2482
+32,Treatment,How has the reporting of the objects of study / treatments evolved over time?,0.3468
+33,Treatment procedure,How has the reporting of the objects of study / treatments evolved over time?,0.2988
+34,Treatment instrument,How has the reporting of the objects of study / treatments evolved over time?,0.4041
+35,Do you think that the following practices would be useful to improve your research design?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.6248
+36,Justification of the acquisition process of the objects of study, How do the authors justify the lack of a proper study?,0.5308
+37,Ethical issues,What types of threats to validity do the authors report?,0.4261
+38,Representativeness of the objects of study selected,Do the authors report the selected context of their study with specific characteristics?,0.5521
+39,Consideration of all assumptions of the inference technique to be used,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.6056
+40,Specification of the treatments planning,How has the reporting of the objects of study / treatments evolved over time?,0.3814
+41,Design of the instruments and procedures to apply the treatments,How has the reporting of the objects of study / treatments evolved over time?,0.4199
+42,Design of the measurement instruments and procedures,How has the use of power analysis and effect size estimation evolved over time?,0.3038
+43,Do you think that it is necessary to report what actually happened during the execution of an empirical research about the following issues?,Do the authors report the selected context of their study with specific characteristics?,0.5433
+44,Deviations from the acquisition plan of objects of study, How do the authors justify the lack of a proper study?,0.4814
+45,Deviations from the treatment plan,How has the reporting of the objects of study / treatments evolved over time?,0.3827
+46,Deviations from the measurement plan,How has the use of power analysis and effect size estimation evolved over time?,0.3257
+47,Do you usually explain your observations in terms of underlying mechanisms or available theories?,How many studies incorporate theories?,0.6484
+48,Do you usually assess the plausibility of your explanations?,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.4511
+49,Do you usually answer the research questions explicitly?,How has the reporting of research questions and answers evolved over time?,0.4931
+50,What is the state of the art in empirical studies of RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6891
+51,What is the strength of empirical evidence in empirical requirement engineering literature?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5524
+52,Which era of RE research has maximum progress in terms of new advances?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6008
+53,Which country is frequently involved in RE research and in which era these countries showed maximum progress?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5468
+54,In which context have these empirical studies of RE been carried out over the period of RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.713
+55,How has empirical research in various RE knowledge areas evolved over the years?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.708
+56,What types of interventions have been proposed or investigated in RE research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5412
+57,In which channels are the empirical studies of RE published?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7048
+58,"How are the research method, type, intervention, and domains related to RE core areas?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.542
+59,Which research method is frequently used in primary studies?,How often are which statistical methods used?,0.6637
+60,What kind of research participants are frequently involved in primary studies?,How often are those who conduct the studies also the authors of the papers?,0.6333
+61,Which data collection method is frequently used in the investigation of research in primary studies?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5743
+62,What is the frequency of different research types of primary studies?,How often are those who conduct the studies also the authors of the papers?,0.6418
+63,How rigorous is the reported research in different RE core areas?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6022
+64,What empirical practices are performed by researchers and practitioners in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6501
+65,To what extent are the research methods of empirical software engineering adopted in the RE community?,How many empirical studies are by authors working for large software development companies?,0.6901
+66,Do senior researchers and PhD students perceive research practices differently in RE?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.4766
+67,What empirical approaches in RE are most commonly used?,How often are which empirical methods used?,0.7288
+68,What evidence-based methods are used to validate empirical research in RE?,Which methods are used to synthesize evidence from data of different empirical methods?,0.7273
+69,How do RE practices align with the recommended guidelines in empirical software engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5861
+70,Have empirical studies in RE been replicated to strengthen their validity?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6178
+71,What are the primary challenges faced in conducting empirical research in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6436
+72,How frequently are formal modeling techniques used in empirical RE?,How often are which empirical methods used?,0.729
+73,What tools and techniques are most commonly assessed in empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6881
+74,Which empirical research practices are seen as most beneficial by the RE community?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6381
+75,How has the focus of empirical RE studies shifted over time?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.8289
+76,What future research directions are indicated by trends in empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7371

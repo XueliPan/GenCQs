@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the different types of empirical evaluations in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5669
+1,How has the quantity of empirical evaluations in Requirements Engineering evolved over time?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5163
+2,What are the key components of a sound empirical study in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.565
+3,What are the common themes in empirical research published in Requirements Engineering conferences?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5825
+4,How often are hypotheses explicitly stated in empirical studies?,How often are which empirical methods used?,0.6767
+5,What proportion of empirical studies in Requirements Engineering are self-confirmatory?,How many empirical studies are by authors working for large software development companies?,0.5348
+6,What methods are most frequently used for data analysis in empirical studies?,How often are which empirical methods used?,0.8
+7,How is the external validity of empirical studies in Requirements Engineering assessed?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.5295
+8,What are the most common threats to validity reported in empirical studies?,What types of threats to validity do the authors report?,0.796
+9,How frequently are empirical studies replicated in the field of Requirements Engineering?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5866
+10,What types of sampling are most commonly reported in empirical studies?,How often are which empirical methods used?,0.62
+11,What are the target populations for empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5463
+12,How are data interpretation criteria defined in empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6257
+13,How often do empirical studies in Requirements Engineering report biases?,How many empirical studies are by authors working for large software development companies?,0.5974
+14,Which researchers are recognized leaders in the field of empirical evaluations?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5991
+15,How is the quality of empirical evaluations in Requirements Engineering conferences perceived over time?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4337
+16,What are the common critiques of empirical evaluations in Requirements Engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5072
+17,What role does the discussion section play in the evaluation of empirical studies?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.6045
+18,What are the major trends in the publication of empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5504
+19,"What is the impact of keynote talks, panels, and workshops on empirical evaluations in the field?",What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4089
+20,How do empirical evaluations in Requirements Engineering compare across different journals and conferences?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4526
+21,What guidelines are provided for performing high-quality empirical research in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6467
+22,How do researchers define and categorize study types in empirical evaluations?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6171
+23,What is the importance of specifying research questions in empirical studies?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5851
+24,What is the role of replication in developing a body of knowledge in Requirements Engineering?,How has the proportion of replications evolved over time?,0.3705
+25,How often do empirical studies specify the methods for selecting subjects and objects?,How often are which empirical methods used?,0.7166
+26,How has the pressure to publish new work affected empirical evaluations in the field?,How has the number of empirical methods used per publication evolved over time?,0.5452
+27,What measures are taken to minimize biases in empirical studies?,How do the authors justify preventing bias in the study results?,0.7267
+28,How frequently do empirical studies report negative results?,How has the proportion of empirical studies evolved over time?,0.6594
+29,What are the most common types of empirical methods used in Requirements Engineering?,How often are which empirical methods used?,0.6668
+30,How are the results of empirical studies typically presented and interpreted?,How has the proportion of empirical studies evolved over time?,0.6764
+31,How do researchers address the generalizability of their findings in empirical studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6754
+32,What are the key lessons learned from prominent empirical software engineering researchers?,How many empirical studies are by authors working for large software development companies?,0.7169
+33,How often do empirical studies fail to define their study type explicitly?,How has the proportion of empirical studies evolved over time?,0.6859
+34,What are the major systemic problems identified in empirical practice in the field?,How often are which empirical methods used?,0.5409
+35,How has the author and investigator perspective on study types evolved over time?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.6595
+36,How are empirical studies classified and categorized by their evaluation type?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6122
+37,What legal analysis methods are used to ensure the validity of empirical studies?,Which methods are used to synthesize evidence from data of different empirical methods?,0.6192
+38,How do empirical studies in Requirements Engineering handle different scales of measurement?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5211
+39,What is the significance of defining the population in empirical research?,How has the definition of the population evolved over time?,0.6284
+40,How do researchers ensure the internal validity of their empirical studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6802
+41,How are empirical evaluations in Requirements Engineering improving over time?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.4616
+42,What are the gaps and challenges identified in the current empirical practices in the field?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5533
+43,How do researchers critique the lack of rigor in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.6033
+44,What are the recommended steps for improving individual empirical studies?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.6266
+45,How is the experimental context defined and reported in empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.617
+46,What importance is given to the hypotheses in empirical evaluations?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6247
+47,How are the experimental design and conduct reported in empirical studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6591
+48,What are the criteria for a high-quality meta-analysis in empirical research?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6344
+49,How do empirical studies evolve a body of knowledge in Requirements Engineering?,How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.5616
+50,What are the common biases reported in self-evaluated empirical studies?,How do the authors justify preventing bias in the study results?,0.6758
+51,How is data preparation and analysis reported in empirical studies?,Which methods are used to synthesize evidence from data of different empirical methods?,0.6534
+52,What are the recommended practices for minimizing the impact of vested interests in empirical studies?,How do the authors justify preventing bias in the study results?,0.5178
+53,How is the balance of industrial data vs,"""How has the provision of data (the materials used, raw data collected, and study results identified) evolved over time?""",0.4185
+54,What are the research guidelines for empirical software engineering provided by Kitchenham et al.?,How many empirical studies are by authors working for large software development companies?,0.669
+55,How is the lack of replicated studies in Requirements Engineering addressed?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4703
+56,What are the trends observed in empirical evaluations over the lifetime of ICSE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4275
+57,How do empirical studies address the notion of independent evaluation?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5338
+58,What are the discrepancies observed between author-reported and investigator-defined study types?,Do the authors report the selected context of their study with specific characteristics?,0.6722
+59,How do empirical studies in Requirements Engineering handle the reporting of experimental results?,How many empirical studies are by authors working for large software development companies?,0.5117
+60,What are the key metrics used for evaluating the success of empirical studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.7048
+61,How often are the findings generalized to a population different from the sample in empirical research?,How has the proportion of empirical studies evolved over time?,0.6804
+62,What are the common logical linkages used in connecting data in empirical studies?,Which methods are used to synthesize evidence from data of different empirical methods?,0.5932
+63,How do empirical studies define and use hypotheses for their evaluations?,Which methods are used to synthesize evidence from data of different empirical methods?,0.6504
+64,What is the significance of well-defined hypotheses in empirical research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5877
+65,What are the trends in the publication frequency of empirical studies in Requirements Engineering journals?,How has the proportion of papers that do not have an empirical study evolved over time?,0.6298
+66,How do researchers ensure the construct validity of their empirical studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.7075
+67,What are the recommended practices for performing simple study designs?, How do the authors justify the lack of a proper study?,0.4744
+68,How do empirical studies report the legal use of methods for data analysis?,Which methods are used to synthesize evidence from data of different empirical methods?,0.666
+69,What role does theory play in empirical evaluations in Requirements Engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5195
+70,How do empirical studies define the context for their research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.662
+71,What are the common evaluation types reported in empirical research?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6137
+72,How often are empirical studies conducted by the inventors of the theory being evaluated?,How has the proportion of empirical studies evolved over time?,0.7042
+73,How do empirical studies in Requirements Engineering address the issue of self-confirmation bias?,How do the authors justify preventing bias in the study results?,0.4079
+74,What are the key highlights identified in the empirical evaluations of ICSE papers?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4521
+75,How do researchers critique the current state of empirical studies in Requirements Engineering?,How many empirical studies are by authors working for large software development companies?,0.5413
+76,How is the maturity of the field reflected in the evolving trends of empirical evaluations?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.5109

@@ -45,7 +45,7 @@ def create_vector_store(client, vector_store_name, rag_file_folder, rag_file_cou
     file_paths = get_file_paths(rag_file_folder)
     print(f'\nfile_paths: {file_paths}\n')
     if rag_file_count == 1:
-        file_streams = [open(path, 'rb') for path in file_paths]
+        file_streams = [open(path, 'rb') for path in file_paths[0:1]]
     elif rag_file_count > 1:
         file_streams = [open(path, 'rb') for path in file_paths[0:rag_file_count]]
     else:

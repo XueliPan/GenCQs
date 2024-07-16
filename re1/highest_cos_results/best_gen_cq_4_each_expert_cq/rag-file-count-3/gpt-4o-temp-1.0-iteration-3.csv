@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the predominant topics in empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5578
+1,Which research methods are most frequently used in empirical studies on requirements engineering?,How often are which empirical methods used?,0.5843
+2,How often are professionals used as subjects in empirical requirements engineering studies?,How many empirical studies are by authors working for large software development companies?,0.5181
+3,"What is the distribution of data sources (e.g., students vs",How many different empirical methods are used per publication?,0.3767
+4,How do the research methods used in requirements engineering compare to those used in other areas of software engineering?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5132
+5,Are there significant differences in the use of case studies vs,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.6701
+6,What types of empirical methods are used to analyze requirements engineering processes?,How often are which empirical methods used?,0.587
+7,How are empirical studies in requirements engineering categorized?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6083
+8,What are the most common goals of empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5388
+9,How do requirements engineering studies measure the effectiveness of different techniques?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4841
+10,What trends exist in the use of empirical methods in requirements engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5932
+11,How well are hypotheses formulated in empirical requirements engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5461
+12,What are the key challenges in using professionals vs,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3499
+13,How frequently are surveys used in empirical requirements engineering research?,How often are which empirical methods used over time?,0.5704
+14,What are the common empirical research methods used for requirements validation?,How often are which empirical methods used?,0.5819
+15,What types of data are used to support empirical research in requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5851
+16,To what extent are replication studies performed in requirements engineering research?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.4764
+17,How are correlational studies used in empirical requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5693
+18,What are the unique aspects of ethnographic studies in requirements engineering?,Do the authors report the selected context of their study with specific characteristics?,0.4596
+19,What topics are most often associated with measurement and metrics in requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4188
+20,How do empirical methods in requirements engineering evolve over time?,How has the number of empirical methods used per publication evolved over time?,0.5656
+21,What role do case studies play in identifying best practices in requirements engineering?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5389
+22,How do empirical requirements engineering studies address threats to validity?,How do the authors justify the selection and combination of empirical methods and design elements?,0.537
+23,What are the most cited empirical studies in requirements engineering?,How many empirical studies are by authors working for large software development companies?,0.5808
+24,What methods are effective for conducting experiments in requirements engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4172
+25,How do empirical studies contribute to requirements prediction and fault estimation?,How many empirical studies are by authors working for large software development companies?,0.5354
+26,What are the emerging topics in empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.537
+27,How do tools/methods/frameworks specific to requirements engineering get evaluated empirically?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5192
+28,What are the gaps in current empirical research on requirements engineering?,How many empirical studies are by authors working for large software development companies?,0.4421
+29,How do the findings of empirical studies impact requirements engineering practices?,How many empirical studies are by authors working for large software development companies?,0.5523
+30,What are the cost/benefit models used in empirical requirements engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4766
+31,How is data reliability ensured in empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4602
+32,What experimental setups are commonly used in empirical requirements engineering studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5559
+33,How do meta-analyses contribute to our understanding of requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4451
+34,What are the common threats to validity in empirical requirements engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.519
+35,How are qualitative data used in empirical requirements engineering studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5857
+36,What are the main sources of data for empirical requirements engineering research?,How many empirical studies are by authors working for large software development companies?,0.5392
+37,How do empirical methods in requirements engineering relate to those in project planning?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5698
+38,What are the prevalent subtopics within empirical requirements engineering papers?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5395
+39,How are professional developers involved in empirical requirements engineering research?,How many empirical studies are by authors working for large software development companies?,0.5941
+40,What empirical techniques are used to explore causal relationships in requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4361
+41,How do empirical requirements engineering studies categorize their subjects?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5338
+42,What are the common criteria for empirical evaluations in requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5597
+43,How do requirements engineering studies address long-term empirical research goals?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4803
+44,How do correlational studies compare with experimental studies in requirements engineering?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4803
+45,What are the strengths and weaknesses of current empirical requirements engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5084
+46,How does the population of study subjects impact empirical requirements engineering findings?,How many empirical studies are by authors working for large software development companies?,0.5215
+47,What are the research gaps identified in empirical requirements engineering literature?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4941
+48,How are replication and reproducibility issues addressed in requirements engineering studies?,How many empirical studies are by authors working for large software development companies?,0.3871
+49,What is the role of qualitative research in empirical requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5663
+50,How often do requirements engineering studies publish negative results?,How many empirical studies are by authors working for large software development companies?,0.4788
+51,What challenges exist in conducting empirical research on requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4581
+52,What are the methodologies for empirical validation in requirements engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5275
+53,How do empirical studies in requirements engineering use software benchmarks?,How many empirical studies are by authors working for large software development companies?,0.501
+54,What are the dominant categories of empirical methods in requirements engineering papers?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6783
+55,How are professional and student data compared in requirements engineering studies?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.4299
+56,What are the trends in publication of empirical requirements engineering research?,How many empirical studies are by authors working for large software development companies?,0.5424
+57,How do the experimental designs in requirements engineering research vary?,How do the authors justify the selection and combination of empirical methods and design elements?,0.498
+58,How do case study findings influence requirements engineering methodologies?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.6033
+59,What areas of requirements engineering lack empirical studies?,How many empirical studies are by authors working for large software development companies?,0.5033
+60,How do empirical methods inform the development of requirements engineering tools?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6103
+61,What is the impact of empirical research on the evolution of requirements engineering standards?,How has the use of standards to describe the theories incorporated evolved over time?,0.5037
+62,How do empirical requirements engineering studies define their research context?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.597
+63,What sources of bias are identified in empirical requirements engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5282
+64,How are empirical research questions framed in requirements engineering studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5549
+65,What are the main findings of meta-analyses in requirements engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4842
+66,How is the success of empirical requirements engineering studies measured?,How many empirical studies are by authors working for large software development companies?,0.5624
+67,How do longitudinal studies contribute to understanding requirements engineering practices?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4632
+68,How do empirical studies address the software development life cycle in requirements engineering?,How many empirical studies are by authors working for large software development companies?,0.5936
+69,What is the role of pilot studies in empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.527
+70,How are experimental techniques validated in empirical requirements engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.603
+71,What empirical approaches are used to study requirements elicitation?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4923
+72,How do empirical requirements engineering studies report their results?,How many empirical studies are by authors working for large software development companies?,0.5616
+73,What are the ethical considerations in empirical requirements engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4775
+74,How do empirical studies compare requirements engineering methods across different industries?,How do the authors justify the selection and combination of empirical methods and design elements?,0.527
+75,What metrics are used to evaluate empirical requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.544
+76,How is the reliability of empirical data ensured in requirements engineering research?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4919

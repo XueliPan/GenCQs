@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What are the most researched topics in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.5972
+1,Which topics in empirical software engineering account for the least number of papers?,How many empirical studies are by authors working for large software development companies?,0.6136
+2,What are the dominant research approaches used in empirical software engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6861
+3,Which research approach is least prevalent in empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.674
+4,What research methods are commonly used in empirical software engineering?,How often are which empirical methods used?,0.7214
+5,Which research methods are least common in empirical software engineering?,How often are which empirical methods used?,0.6829
+6,What types of evidence are produced by empirical software engineers?,How many empirical studies are by authors working for large software development companies?,0.6939
+7,What are the main reference disciplines in empirical software engineering research?,How many empirical studies are by authors working for large software development companies?,0.5536
+8,How frequently do empirical software engineering papers refer to disciplines outside of software engineering?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5678
+9,What are the typical units of analysis in empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.6417
+10,Are there empirical software engineering studies that focus on real-life computer systems over artificial ones?,How many empirical studies are by authors working for large software development companies?,0.4635
+11,How often do empirical software engineering papers involve professional practitioners vs,How many empirical studies are by authors working for large software development companies?,0.6559
+12,What is the percentage of empirical software engineering papers authored by academics alone?,How many empirical studies are by authors working for large software development companies?,0.7253
+13,What proportion of empirical software engineering papers have a mix of academic and practitioner authors?,How many empirical studies are by authors working for large software development companies?,0.7396
+14,What empirical software engineering topics are covered in the International Conference on Software Engineering (ICSE) papers?,How many empirical studies are by authors working for large software development companies?,0.4759
+15,Has the quantity of empirical evaluations in ICSE papers increased over time?,How has the proportion of papers that do not have an empirical study evolved over time?,0.5357
+16,Has the soundness of empirical evaluations in ICSE papers improved over time?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4844
+17,What are the most common sources of data used in empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.6764
+18,Are experiments in empirical software engineering more commonly performed with students or professionals?,How many empirical studies are by authors working for large software development companies?,0.6057
+19,What are the main topics investigated by empirical software engineers in recent years?,How many empirical studies are by authors working for large software development companies?,0.6559
+20,What proportion of empirical software engineering papers focus on laboratory experiments?,How many empirical studies are by authors working for large software development companies?,0.645
+21,How many empirical software engineering studies employ case studies?,How many empirical studies are by authors working for large software development companies?,0.7773
+22,What are the research methods used in empirical software engineering according to empirical studies?,How often are which empirical methods used?,0.7255
+23,What are the main findings regarding the prevalence of hypotheses in empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.7105
+24,How prevalent are replication studies in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.6489
+25,"What are the types of results (positive, negative) reported in empirical software engineering studies?",How many empirical studies are by authors working for large software development companies?,0.6582
+26,"What is the focus of empirical software engineering research in terms of software life-cycle phases (requirements, design, coding, testing, maintenance)?",What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.508
+27,What are the most common empirical methods used in software engineering?,How often are which empirical methods used?,0.7774
+28,What problems are identified with empirical studies in software engineering?,How many empirical studies are by authors working for large software development companies?,0.7043
+29,How do empirical software engineers validate the external validity of their studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6166
+30,What are the key issues raised in critiques of empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.6638
+31,What recommendations exist for improving the quality of empirical evaluations in software engineering?,How many empirical studies are by authors working for large software development companies?,0.4993
+32,How do empirical software engineering studies handle the rigor in experimental design?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6284
+33,What role does hypothesis testing play in empirical software engineering evaluations?,How many empirical studies are by authors working for large software development companies?,0.5203
+34,How do empirical software engineers address threats to validity in their studies?,How many empirical studies are by authors working for large software development companies?,0.6338
+35,What criteria are used to evaluate empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.6563
+36,What are the gaps in the topics covered by empirical software engineering research?,How many empirical studies are by authors working for large software development companies?,0.6141
+37,How often do empirical software engineering papers compare professional and student subjects?,How has the proportion of papers that do not have an empirical study evolved over time?,0.6083
+38,"What is the distribution of empirical software engineering papers by research method (case study, correlational study, etc.)?",How many empirical studies are by authors working for large software development companies?,0.6814
+39,What are the criticisms of the use of student subjects in empirical software engineering experiments?,How many empirical studies are by authors working for large software development companies?,0.4503
+40,How have the approaches to empirical research in software engineering evolved over time?,How many empirical studies are by authors working for large software development companies?,0.6909
+41,What is the relationship between empirical software engineering and other disciplines such as social sciences and psychology?,How many empirical studies are by authors working for large software development companies?,0.5031
+42,What is the impact of empirical evaluations on software engineering practices?,How many empirical studies are by authors working for large software development companies?,0.5936
+43,Are there any empirical studies that focus on programming languages and paradigms?,How many empirical studies are by authors working for large software development companies?,0.4462
+44,How do empirical software engineering studies contribute to building a body of knowledge?,How many empirical studies are by authors working for large software development companies?,0.7045
+45,What are the main challenges identified in conducting field studies in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.635
+46,How do empirical software engineers determine the application context of their research findings?,How many empirical studies are by authors working for large software development companies?,0.639
+47,What role does meta-analysis play in empirical software engineering research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5625
+48,What are the subcategories within major research topics in empirical software engineering?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5378
+49,How is empirical software engineering evidence categorized?,How many empirical studies are by authors working for large software development companies?,0.6243
+50,How do empirical studies address the balance between industry-based data and student data?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4972
+51,"What are the proportions of different types of empirical software engineering evidence (quantitative, qualitative)?",How many empirical studies are by authors working for large software development companies?,0.6918
+52,How do empirical studies in software engineering report their methodology and findings?,How many empirical studies are by authors working for large software development companies?,0.7201
+53,What are the trends in the use of technology and tools in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.6006
+54,How does empirical research address defect causation and detection in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6073
+55,How do researchers validate the findings from empirical software engineering studies?,How many empirical studies are by authors working for large software development companies?,0.7042
+56,What are the primary objectives of empirical research in software engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6146
+57,How do empirical software engineering papers address the generalizability of their findings?,How do the authors justify the selection and combination of empirical methods and design elements?,0.6878
+58,What role do empirical studies play in understanding software engineering practices?,How many empirical studies are by authors working for large software development companies?,0.7
+59,How frequently are empirical software engineering papers cited in other disciplines?,How has the proportion of papers that do not have an empirical study evolved over time?,0.6674
+60,What methodologies are recommended for strengthening empirical software engineering research?,How many empirical studies are by authors working for large software development companies?,0.6212
+61,How is survey data used in empirical software engineering research?,How many empirical studies are by authors working for large software development companies?,0.5553
+62,What is the role of qualitative research in empirical software engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5516
+63,How frequently do empirical software engineering papers include experimental data?,How often are which empirical methods used?,0.6583
+64,What are the implications of empirical research findings for software engineering education?,How many empirical studies are by authors working for large software development companies?,0.6334
+65,How do empirical studies in software engineering evaluate software quality attributes?,How many empirical studies are by authors working for large software development companies?,0.5692
+66,How do empirical software engineers address the reproducibility of their research?,How many empirical studies are by authors working for large software development companies?,0.6694
+67,What are the major themes addressed in empirical software engineering literature?,How many empirical studies are by authors working for large software development companies?,0.623
+68,How do empirical software engineers collaborate with industry practitioners?,How many empirical studies are by authors working for large software development companies?,0.6465
+69,What are the findings on the use of traditional vs,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.3991
+70,What are the significant trends in empirical software engineering research over the past decade?,How many empirical studies are by authors working for large software development companies?,0.6802
+71,How do empirical studies address the scalability of software engineering techniques?,How many empirical studies are by authors working for large software development companies?,0.664
+72,What are the findings related to software maintenance activities in empirical research?,How many empirical studies are by authors working for large software development companies?,0.621
+73,How do empirical studies approach the development and validation of software metrics?,How many empirical studies are by authors working for large software development companies?,0.6383
+74,What are the observed benefits of empirical evaluations in software engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.537
+75,How do empirical studies in software engineering address emerging topics like machine learning and AI?,How many empirical studies are by authors working for large software development companies?,0.63
+76,What are the best practices identified for conducting high-quality empirical research in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6282

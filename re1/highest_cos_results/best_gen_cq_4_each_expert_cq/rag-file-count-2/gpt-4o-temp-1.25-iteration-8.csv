@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What is the quantity of empirical evaluations performed over 29 years of ICSE proceedings?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4876
+1,Has the quantity of empirical evaluations increased over the years at ICSE?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4555
+2,What makes an empirical evaluation considered sound?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5333
+3,How is the soundness of empirical evaluations assessed?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5781
+4,Has the soundness of empirical evaluations improved over time at ICSE?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.4459
+5,What are common issues in the experimental designs of empirical studies in ICSE proceedings?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5509
+6,How often do ICSE empirical studies clearly state their hypotheses?,How has the proportion of empirical studies evolved over time?,0.5478
+7,What percentage of ICSE empirical studies are replicated?,How has the proportion of empirical studies evolved over time?,0.5162
+8,How prevalent are industry-based studies in ICSE empirical evaluations?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.5153
+9,What are the recommendations for conducting empirical evaluations according to Basili (1992)?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5733
+10,How does Perry et al,Do the authors use other channels to publish their results for making them available to industrial users?,0.292
+11,What role does hypothesis specification play in the critique of empirical studies?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5729
+12,How do empirical studies at ICSE report data analysis results?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4774
+13,What is the balance between using industrial data and student data in empirical studies at ICSE?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4348
+14,How are vested interests and biases addressed in ICSE empirical studies?,How do the authors justify preventing bias in the study results?,0.5211
+15,What are the threats to validity in ICSE empirical studies?,What types of threats to validity do the authors report?,0.5802
+16,How is the target population defined in ICSE empirical evaluations?,How do the authors justify the selection and combination of empirical methods and design elements?,0.3703
+17,What models or frameworks are often used to perform empirical evaluations?,How often are which empirical methods used?,0.629
+18,What is the definition of self-confirmatory studies?,Do the authors report the selected context of their study with specific characteristics?,0.5
+19,How often are negative results reported in empirical studies at ICSE?,How has the proportion of empirical studies evolved over time?,0.4383
+20,What are the primary sources of data in ICSE empirical evaluations?,Which methods are used to synthesize evidence from data of different empirical methods?,0.4483
+21,What are the parameters used in defining an empirical evaluation according to the literature?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6376
+22,How are empirical evaluation methods and terminologies consistent across ICSE publications?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5227
+23,What are the trends in study types for published papers at ICSE over its lifetime?,How often are those who conduct the studies also the authors of the papers?,0.5621
+24,How does the investigator’s perspective on study types compare to the author’s perspective in ICSE papers?,Do the authors report the selected context of their study with specific characteristics?,0.5979
+25,How has the use of empirical evaluations evolved in software engineering conferences over time?,How many empirical studies are by authors working for large software development companies?,0.527
+26,What role do panels and keynote talks play in supporting empirical evaluations at ICSE?,"""Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users, such as policy-makers, practitioners, and the general public?""",0.3583
+27,How is the experimental context defined in high-quality empirical studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5778
+28,What steps are suggested to improve the presentation of empirical research results?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.5628
+29,How is empirical software engineering research influencing practice?,How many empirical studies are by authors working for large software development companies?,0.6457
+30,What are the guidelines for empirical research set by Kitchenham et al,How often are which empirical methods used?,0.6252
+31,What types of biases are most common in self-evaluated empirical studies?,How do the authors justify preventing bias in the study results?,0.6622
+32,What is the role of meta-analysis in empirical software engineering?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5662
+33,How do empirical studies in ICSE delineate between different types of evaluation?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5132
+34,What is the importance of hypothesis testing in building knowledge in empirical software engineering?,How many empirical studies are by authors working for large software development companies?,0.4984
+35,What are the findings on the prevalence of replicated empirical studies in software engineering?,How many empirical studies are by authors working for large software development companies?,0.69
+36,How has the definition of software engineering topics impacted empirical research?,How many empirical studies are by authors working for large software development companies?,0.6128
+37,What are the challenges in defining a body of knowledge in empirical software engineering?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5578
+38,How does the review process at ICSE handle negative results?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3713
+39,What lessons have been learned from critiques of empirical studies over the years?,How has the proportion of empirical studies evolved over time?,0.7447
+40,What is the role of informal hypotheses in empirical studies at ICSE?,How many studies incorporate theories?,0.4682
+41,What statistical methods are employed to evaluate empirical research hypotheses at ICSE?,Which methods are used to synthesize evidence from data of different empirical methods?,0.5579
+42,How do empirical studies in conferences differ from those in journal publications?,How has the proportion of papers that do not have an empirical study evolved over time?,0.6143
+43,What are the critical components missing in many empirical studies according to Perry et al.?, How do the authors justify the lack of a proper study?,0.5656
+44,How do the results of ICSE empirical studies compare to those published in the Journal of Empirical Software Engineering?,How many empirical studies are by authors working for large software development companies?,0.555
+45,How are empirical evaluations presented in ICSE panel discussions?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4353
+46,What improvements are needed in the population definition for empirical studies?,How has the proportion of empirical studies evolved over time?,0.5735
+47,How do self-confirmatory studies impact the credibility of empirical research results?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5823
+48,How has the percentage of papers containing empirical evaluations changed over time in software engineering journals?,How has the proportion of papers that do not have an empirical study evolved over time?,0.7274
+49,What metrics are used to evaluate the soundness of empirical evaluations?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5436
+50,Which researchers are highlighted for their contributions to empirical evaluation in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6667
+51,How are experimental designs critiqued in software engineering empirical studies?,How do the authors justify the selection and combination of empirical methods and design elements?,0.63
+52,What is the significance of using proper methods of analysis in empirical evaluations?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6534
+53,How do ICSE empirical studies address the scales of measurement in their analysis?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4547
+54,What criteria are used to determine the success of empirical evaluations in software engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5329
+55,How are research questions and hypotheses formulated in ICSE empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4943
+56,What are the common experimental designs used in ICSE empirical research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.553
+57,How are the results of empirical studies generalized to a wider population?,How has the proportion of empirical studies evolved over time?,0.7495
+58,What are the implications of the findings on the state of empirical software engineering research?,How many empirical studies are by authors working for large software development companies?,0.6915
+59,How does the ICSE peer-review process influence the quality of empirical evaluations?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5002
+60,What strategies are suggested to improve the soundness of empirical evaluations in software engineering?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4865
+61,How is the concept of replicability addressed in empirical software engineering research?,How do the authors justify the selection and combination of empirical methods and design elements?,0.4656
+62,What are the success criteria for empirical evaluations according to Gorson and others?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5893
+63,How do empirical studies align with theoretical frameworks in software engineering research?,How many empirical studies are by authors working for large software development companies?,0.6787
+64,What challenges are faced in replicating empirical studies in software engineering?,How many empirical studies are by authors working for large software development companies?,0.672
+65,How is empirical research evaluated in terms of evidential force?,Which methods are used to synthesize evidence from data of different empirical methods?,0.612
+66,What improvements are needed in presenting research contexts in empirical evaluations?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5529
+67,How does the use of student data affect the validity of empirical research outcomes?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.537
+68,What role do examples play in the validation of empirical models?,Which methods are used to synthesize evidence from data of different empirical methods?,0.577
+69,How do ICSE empirical studies handle the threats to internal validity?,What types of threats to validity do the authors report?,0.5386
+70,What defines a quasi-random experiment in the context of empirical research?,"""How have the proportions of experiments, secondary research (reviews), surveys, case studies, and action research in the empirical methods used evolved over time?""",0.477
+71,What types of external validity are considered in empirical evaluations at ICSE?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4968
+72,How has the approach to software engineering empirical research evolved since the early days of ICSE?,How has the proportion of studies by authors working for large software development companies evolved over time?,0.6122
+73,What are the recommendations for future empirical research in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6656
+74,How is the balance between exploratory and controlled studies addressed in empirical research?,How have the proportions of case studies and action research in the empirical methods used evolved over time?,0.5603
+75,What role does the discussion section play in analyzing empirical evaluation results?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.5212
+76,How does the definition of study types impact empirical research in software engineering?,How many empirical studies are by authors working for large software development companies?,0.6224

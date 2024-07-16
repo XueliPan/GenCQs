@@ -1,0 +1,78 @@
+,genCQs,best_expertCQs,best_cos_score
+0,What is the state of the art in empirical studies of Requirements Engineering (RE)?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5308
+1,What is the strength of empirical evidence in empirical requirement engineering literature?,How do the authors justify the selection and combination of empirical methods and design elements?,0.5524
+2,Which era of RE research has witnessed maximum progress in terms of new advances?,"""How has building on previous research data and results, including from other disciplines, evolved over time?""",0.6111
+3,Which country is frequently involved in RE research and during which era did these countries show maximum progress?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5399
+4,In what contexts have empirical studies of RE been carried out over the years?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7783
+5,How has empirical research in various RE knowledge areas evolved over the years?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.708
+6,What types of interventions have been proposed or investigated in RE research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.5412
+7,In which channels are empirical studies of RE published?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6989
+8,"How are the research method, type, intervention, and domains related to RE core areas?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.542
+9,Which research method is frequently used in primary studies of RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5787
+10,What kind of research participants are frequently involved in primary RE studies?,How often are those who conduct the studies also the authors of the papers?,0.5824
+11,Which data collection methods are frequently used in RE research?,How often are which statistical methods used?,0.5743
+12,"What is the frequency of different research types (e.g., case studies, experiments) in primary RE studies?",Which sub-fields of SE and RE do the empirical studies cover over time?,0.6047
+13,How rigorous is the reported research in different RE core areas?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6022
+14,How do the concepts defined relate to the improvement goal of the empirical research in RE?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6773
+15,How do researchers usually operationalize concepts of the phenomena under investigation in RE?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5691
+16,What are the methods used to validate these operationalizations?,Which methods are used to synthesize evidence from data of different empirical methods?,0.3878
+17,How often do empirical RE studies include a detailed description of the population being studied?,How has the proportion of empirical studies evolved over time?,0.6767
+18,How often is the acquisition process of study objects justified in empirical RE research?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.6072
+19,Are any ethical considerations taken into account when human subjects are involved in RE research?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5729
+20,How often is the representativeness of the study objects justified in empirical RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6549
+21,Are assumptions of inference techniques considered in empirical RE studies?,Do authors report that assumptions and limitations of statistical methods are met before using them?,0.6506
+22,Are procedures planned for the implementation of treatments in experimental RE research?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5703
+23,Are instruments specified for applying treatments in experimental RE research in RE?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5075
+24,Are procedures specified for carrying out measurements and what are these procedures?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.3696
+25,"Are the validity issues (measures, measurement procedures, instruments, treatments) considered in empirical RE research?",Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6379
+26,Do researchers usually explain their observations in terms of underlying mechanisms or available theories in RE research?,How many studies incorporate theories?,0.647
+27,Do researchers usually assess the plausibility of their explanations in empirical RE research?,"""How has the proportions of  empirical methods to conduct (systematic literature) reviews, so-called secondary research, evolved over time?""",0.5653
+28,Do empirical RE researchers explicitly answer their research questions?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.615
+29,What variety of research questions can and should be asked to understand RE practice?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4962
+30,What evidence exists about RE practice according to broad empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5883
+31,What further evidence is needed about RE practice?,How has the use of (a common set of empirically derived) criteria to characterize the quality of secondary research and thus the overall strength of a body of evidence evolved over time?,0.4163
+32,How do broad empirical studies depict the landscape of RE research questions and major results?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7142
+33,What kind of typical findings and issues are illustrated by new studies conducted in various regions?,Do the authors report the selected context of their study with specific characteristics?,0.5902
+34,How is the gap between research and practice in RE characterized in empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6073
+35,What role do interdisciplinary studies play in understanding context factors relevant to RE projects?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.4082
+36,"How does standard terminology (e.g., through certification schemes) contribute to more standardized RE education?",How has the use of conceptual and operational definitions for key constructs and variables evolved over time in empirical research in SE and RE?,0.4417
+37,Why is replicating studies important for gaining insights on RE practice over time?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.64
+38,What are the critical success factors for industrial uptake of specific RE techniques and practices?,How has comparing new approaches with relevant alternative approaches used in the industry evolved over time?,0.5416
+39,What are the most commonly used empirical research practices in RE according to recent surveys?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7022
+40,How do senior researchers and PhD students perceive the usefulness of various RE research practices?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5703
+41,To what extent do researchers in RE define top-level knowledge goals for their empirical studies?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4918
+42,How important is the review of the current state of knowledge in empirical RE research according to researchers?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.6048
+43,Are relevant concepts of the phenomena to be investigated commonly defined in empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7127
+44,How do RE researchers justify the acquisition and representativeness of their study objects?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.6256
+45,How do researchers apply ethical considerations in their empirical RE studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.5606
+46,What are the recommended practices for improving research design in empirical RE studies?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5848
+47,"How do researchers plan for deviation from acquisition, treatment, and measurement plans in empirical RE research?",How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.5689
+48,Do researchers usually specify the instruments needed for measurement in RE experiments?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.4748
+49,Do empirical RE studies often consider the validity of measures and measurement procedures?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6366
+50,How do researchers operationalize and validate relevant concepts in RE studies?,How has the use of (a common set of empirically derived) criteria to assess the quality of individual studies evolved over time?,0.5248
+51,What is the perceived usefulness of various research design practices in empirical RE studies?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.6569
+52,How do researchers plan and specify treatments in experimental RE research?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.5897
+53,How is the landscape of RE studies described in terms of the questions asked and the major results?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6399
+54,How do recent studies in Germany and Australia illustrate typical findings and issues in empirical RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6232
+55,What are the major themes and trends emerging from a synthesis of empirical RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7354
+56,How have empirical RE studies been aggregated and synthesized to present a state of the art in the field?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7028
+57,In what way have methodological guidelines for empirical SE been reflected in RE empirical studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7426
+58,What are the challenges and opportunities identified for empirical research in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6378
+59,How do empirical RE studies contribute to knowledge transfer between industry and academia?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5762
+60,What standards or frameworks are referred to most frequently in empirical RE research?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.7027
+61,How do RE researchers define and evaluate the conceptual frameworks used in their studies?,Do the authors use conceptual and operational definitions for key constructs and variables in empirical research in SE and RE?,0.6308
+62,How frequently do researchers report deviations from their original research plans in empirical RE?,How has the proportion of empirical studies evolved over time?,0.5958
+63,How do empirical RE studies define and achieve rigorous research methodology?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.6751
+64,How do researchers ensure the representativeness and validity of their findings in empirical RE studies?,Do the authors use (a common set of empirically derived) criteria to assess the quality of individual studies?,0.6001
+65,What are the benefits and limitations of using systematic mapping studies in empirical RE research?,"""What empirical methods are used to conduct integrative and interpretive (systematic literature) reviews, so-called secondary research?""",0.6108
+66,How has the focus of empirical RE studies shifted over the years?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.8191
+67,How are themes from empirical RE studies useful for both academia and industry?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6267
+68,What are the common RE research design and justification practices used by researchers?,Does the research design allow for efficient reuse of study (results) by other researchers?,0.6458
+69,How do empirical RE studies ensure capturing the context and general setting?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6908
+70,What are some interdisciplinary approaches used in understanding RE contexts?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.4724
+71,How do certification schemes impact the standardization and uptake of RE practices?,Do the authors synthesize and present the results as checklists or guidelines applicable for industrial users?,0.4116
+72,How do empirical RE studies address the thin spread of application domain knowledge?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5798
+73,How do empirical studies address fluctuating and conflicting requirements in RE?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.6453
+74,How do empirical studies address communication and coordination breakdowns in RE projects?,What are the conceptual and operational definitions used for key constructs and variables in empirical research in SE and RE?,0.5587
+75,What are the documented problems related to tools and documentation in RE studies?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.5078
+76,How do empirical RE studies approach and document requirements volatility and its impact on projects?,Which sub-fields of SE and RE do the empirical studies cover over time?,0.578

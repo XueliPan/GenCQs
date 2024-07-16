@@ -44,7 +44,13 @@ def create_vector_store(client, vector_store_name, rag_file_folder, rag_file_cou
     # add rag files into the vector store
     file_paths = get_file_paths(rag_file_folder)
     # print(f'\nfile_paths: {file_paths}\n')
-    file_streams = [open(path, 'rb') for path in file_paths[0:rag_file_count]]
+    if rag_file_count == 1:
+        file_streams = [open(path, 'rb') for path in file_paths[0:1]]
+    elif rag_file_count > 1:
+        file_streams = [open(path, 'rb') for path in file_paths[0:rag_file_count]]
+    else:
+        print('!!!No RAG FILES!!!')
+        file_streams = [open(path, 'rb') for path in file_paths[0:rag_file_count]]
     file_batch = client.beta.vector_stores.file_batches.upload_and_poll(
         vector_store_id=vector_store.id,
         files=file_streams
