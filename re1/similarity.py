@@ -3,8 +3,6 @@ import sys
 import torch
 import pandas as pd
 from sentence_transformers import SentenceTransformer, util
-from dotenv import load_dotenv
-from sentence_transformers import SentenceTransformer, util
 
 def get_cqs(gen_cq_file, ground_truth_cq_file):
     """
