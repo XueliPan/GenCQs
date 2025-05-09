@@ -53,7 +53,7 @@ Results saves at [hci/highest_cos_results/best_expert_cq_4_each_gen_cq/](hci/hig
 
 #### Step 4: caluculate the precision
 
-For each pair of (genCQs, expertCQs) with highest cos score, if the threshold is higher than 0.6, we consider the genCQs as a valid genCQs. 
+For each pair of (genCQs, expertCQs) with highest cos score, if the threshold is higher than 0.6, we consider the genCQ as a valid genCQ. 
 
 Precision = TP/(TP+FP)
 
