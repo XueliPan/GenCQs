@@ -35,8 +35,9 @@ For the frist task in HCI domain, there are 15 expertCQs, so we ask LLMs to gene
 
 The raw output are save in [hci/gpt-output](hci/gpt-output).
 
-The meaning of files in this directory is as follows 
-[gpt-4o-temp-0.5-iteration-0.txt](hci/gpt-output/rag-file-count-3/gpt-4o-temp-0.5-iteration-0.txt)
+The meaning of files in this directory is as follows:
+
+e.g. [rag-file-count-3/gpt-4o-temp-0.5-iteration-0.txt](hci/gpt-output/rag-file-count-3/gpt-4o-temp-0.5-iteration-0.txt)
 
 - rag-file-count-3: number of scientific papers in the domain, used as the knowledge base for RAG, rag-file-count-0 means there is no RAG, only the prompt.
 - gpt-4o-temp-0.5-iteration-0.txt: using get-4o with temperature = 0.5, the first iteration. For each setting we run for 10 times and get the average for the final evaluation metrics.
