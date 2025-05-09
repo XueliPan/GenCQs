@@ -40,7 +40,7 @@ The meaning of files in this directory is as follows:
 e.g. [rag-file-count-3/gpt-4o-temp-0.5-iteration-0.txt](hci/gpt-output/rag-file-count-3/gpt-4o-temp-0.5-iteration-0.txt)
 
 - rag-file-count-3: number of scientific papers in the domain, used as the knowledge base for RAG, rag-file-count-0 means there is no RAG, only the prompt.
-- gpt-4o-temp-0.5-iteration-0.txt: using get-4o with temperature = 0.5, the first iteration. For each setting we run for 10 times and get the average for the final evaluation metrics.
+- gpt-4o-temp-0.5-iteration-0.txt: using get-4o with temperature = 0.5, the first iteration, iteration ranges from 0 to 9. For each setting we run for 10 times and get the average for the final evaluation metrics.
 
 #### Step 2: calculate the similarity, results save at [all_cos_results](hci/all_cos_results)
 
